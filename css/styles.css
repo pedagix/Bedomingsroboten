@@ -23,14 +23,28 @@ body {
   padding: 56px 16px;
 }
 
-.start-card {
+.start-layout {
   width: 100%;
   max-width: 620px;
+}
+
+.start-card,
+.start-info-block,
+.start-feedback-block {
+  width: 100%;
   background: #ffffff;
   border: 1px solid #d9e2ec;
   border-radius: 18px;
   box-shadow: 0 10px 24px rgba(15, 23, 42, 0.08);
   padding: 32px;
+}
+
+.start-card {
+  margin-bottom: 20px;
+}
+
+.start-info-block {
+  margin-bottom: 20px;
 }
 
 .start-title {
@@ -41,6 +55,13 @@ body {
 
 .start-field {
   margin-bottom: 18px;
+}
+
+.start-info-text {
+  margin: 0;
+  font-size: 17px;
+  line-height: 1.7;
+  color: #334e68;
 }
 
 label {
@@ -93,6 +114,28 @@ select:disabled {
 
 .start-main-btn {
   margin-top: 8px;
+}
+
+.mail-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 18px;
+  width: 100%;
+  min-height: 54px;
+  padding: 14px 16px;
+  border-radius: 12px;
+  background: #2563eb;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 700;
+  text-decoration: none;
+  transition: 0.18s ease;
+}
+
+.mail-btn:hover {
+  transform: translateY(-1px);
+  background: #1d4ed8;
 }
 
 /* ASSESSMENT */
@@ -374,6 +417,8 @@ select:disabled {
 
 @media (max-width: 700px) {
   .start-card,
+  .start-info-block,
+  .start-feedback-block,
   .assessment-panel,
   .summary-panel {
     padding: 18px;
@@ -384,6 +429,11 @@ select:disabled {
   .subject-heading,
   .summary-subject {
     font-size: 28px;
+  }
+
+  .start-info-text {
+    font-size: 16px;
+    line-height: 1.65;
   }
 
   .goal-text-sketch {
