@@ -106,17 +106,15 @@ function renderStartScreen() {
 
         <div class="start-info-block">
           <p class="start-info-text">
-            Detta är ett inspirerande och praktiskt bedömningsverktyg för lärare,
-            utvecklat för att göra bedömningen av elever både lättare, snabbare och mer rättvis.
-            Verktyget bygger på den finländska läroplanen och har som mål att på sikt erbjuda stöd
-            för alla ämnen i grundskolan.
+            Detta är ett inspirerande och praktiskt bedömningsverktyg för lärare, utvecklat för att göra bedömningen av elever både lättare, snabbare och mer rättvis. Verktyget bygger på den finländska läroplanen och har som mål att på sikt erbjuda stöd för alla ämnen i grundskolan.
           </p>
-        </div>
 
-        <div class="start-feedback-block">
-          <p class="start-info-text">
-            Har du upptäckt buggar, fått idéer om förbättringar eller andra tankar som kan göra
-            verktyget ännu bättre? Skicka gärna ett mejl till mig – jag tar tacksamt emot all feedback.
+          <p class="start-info-text start-info-text-gap">
+            Har du upptäckt buggar, fått idéer om förbättringar eller andra tankar som kan göra verktyget ännu bättre? Skicka gärna ett mejl till mig – jag tar tacksamt emot all feedback.
+          </p>
+
+          <p class="start-signature">
+            Benjamin von Kraemer, Specialklasslärare
           </p>
 
           <a class="mail-btn" href="mailto:pedagix@gmail.com">
