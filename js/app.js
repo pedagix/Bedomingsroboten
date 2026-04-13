@@ -75,32 +75,54 @@ function renderStartScreen() {
 
   app.innerHTML = `
     <div class="start-shell">
-      <div class="start-card">
-        <h1 class="start-title">Bedömningsroboten</h1>
+      <div class="start-layout">
+        <div class="start-card">
+          <h1 class="start-title">Bedömningsroboten</h1>
 
-        <div class="start-field">
-          <label for="gradeSelect">Årskurs</label>
-          <select id="gradeSelect">
-            <option value="">Välj årskurs</option>
-            <option value="7-9" ${state.selectedGradeCategory === "7-9" ? "selected" : ""}>7–9</option>
-          </select>
+          <div class="start-field">
+            <label for="gradeSelect">Årskurs</label>
+            <select id="gradeSelect">
+              <option value="">Välj årskurs</option>
+              <option value="7-9" ${state.selectedGradeCategory === "7-9" ? "selected" : ""}>7–9</option>
+            </select>
+          </div>
+
+          <div class="start-field">
+            <label for="subjectSelect">Ämne</label>
+            <select id="subjectSelect" ${state.selectedGradeCategory ? "" : "disabled"}>
+              <option value="">Välj ämne</option>
+              ${subjectOptions}
+            </select>
+          </div>
+
+          <button
+            id="startBtn"
+            class="primary-btn start-main-btn"
+            ${state.selectedGradeCategory && state.selectedSubject ? "" : "disabled"}
+          >
+            Börja
+          </button>
         </div>
 
-        <div class="start-field">
-          <label for="subjectSelect">Ämne</label>
-          <select id="subjectSelect" ${state.selectedGradeCategory ? "" : "disabled"}>
-            <option value="">Välj ämne</option>
-            ${subjectOptions}
-          </select>
+        <div class="start-info-block">
+          <p class="start-info-text">
+            Detta är ett inspirerande och praktiskt bedömningsverktyg för lärare,
+            utvecklat för att göra bedömningen av elever både lättare, snabbare och mer rättvis.
+            Verktyget bygger på den finländska läroplanen och har som mål att på sikt erbjuda stöd
+            för alla ämnen i grundskolan.
+          </p>
         </div>
 
-        <button
-          id="startBtn"
-          class="primary-btn start-main-btn"
-          ${state.selectedGradeCategory && state.selectedSubject ? "" : "disabled"}
-        >
-          Börja
-        </button>
+        <div class="start-feedback-block">
+          <p class="start-info-text">
+            Har du upptäckt buggar, fått idéer om förbättringar eller andra tankar som kan göra
+            verktyget ännu bättre? Skicka gärna ett mejl till mig – jag tar tacksamt emot all feedback.
+          </p>
+
+          <a class="mail-btn" href="mailto:pedagix@gmail.com">
+            Skicka e-post
+          </a>
+        </div>
       </div>
     </div>
   `;
