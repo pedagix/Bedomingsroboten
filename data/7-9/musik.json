@@ -1,0 +1,171 @@
+{
+  "subjectId": "musik",
+  "subjectName": "Musik",
+  "gradeCategory": "7-9",
+  "notes": null,
+  "goals": [
+    {
+      "id": "M1",
+      "goalText": "uppmuntra eleven att medverka konstruktivt i en musikgrupp och i musikaliska gemenskaper",
+      "assessmentTarget": "Förmåga att medverka i en musikgrupp",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven deltar i verksamheten i en musikgrupp i enlighet med lärarens konkreta instruktioner.",
+        "7": "Eleven kan medverka i en musikgrupp.",
+        "8": "Eleven medverkar självständigt i en musikgrupp och i musikaliska gemenskaper samt sköter sin andel.",
+        "9": "Eleven medverkar och agerar konstruktivt i en musikgrupp och i musikaliska gemenskaper, sköter sin egen andel samt uppmuntrar och hjälper andra."
+      }
+    },
+    {
+      "id": "M2",
+      "goalText": "handleda eleven att upprätthålla förmågan att använda sin röst och sjunga och att vidareutveckla den i en musikgrupp",
+      "assessmentTarget": "Förmåga att använda sin röst och sjunga i en musikgrupp",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven använder sin röst som en del av att uttrycka sig musikaliskt.",
+        "7": "Eleven använder sin röst för att uttrycka sig musikaliskt och deltar i allsång.",
+        "8": "Eleven använder sin röst för att uttrycka sig musikaliskt och deltar i allsång samt kan anpassa sin andel till den musikaliska helheten.",
+        "9": "Eleven använder sin röst för att uttrycka sig musikaliskt i enlighet med uppgiften och situationen samt upprätthåller och utvecklar förmågan att använda sin röst och sjunga."
+      }
+    },
+    {
+      "id": "M3",
+      "goalText": "uppmuntra eleven att vidareutveckla sina färdigheter att spela och musicera i grupp genom att använda kroppen, rytm, melodi och ackordinstrument",
+      "assessmentTarget": "Förmåga att spela i en musikgrupp",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven deltar under konkret handledning i musicerandet.",
+        "7": "Eleven spelar genom att använda kroppen, rytm, melodi och ackordinstrument och deltar i musicerande i grupp och strävar efter att anpassa sin andel till helheten.",
+        "8": "Eleven spelar genom att använda kroppen, rytm, melodi och ackordinstrument och deltar ganska ledigt i musicerande i grupp.",
+        "9": "Eleven spelar genom att använda kroppen, rytm, melodi och ackordinstrument samt deltar ledigt i musicerande i grupp."
+      }
+    },
+    {
+      "id": "M4",
+      "goalText": "uppmuntra eleven att pröva på mångsidiga sätt att uttrycka sig och röra sig till musik",
+      "assessmentTarget": "Förmåga att röra sig till musik",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven medverkar som en medlem i gruppen i verksamhet där musik och rörelse kombineras.",
+        "7": "Eleven anpassar sina rörelser efter musiken och uttrycker sig till musiken som en medlem i gruppen.",
+        "8": "Eleven anpassar sina rörelser efter den musik hen hör och ger uttryck för musiken genom rörelser, även rytmiskt så att hen följer musikens grundrytm.",
+        "9": "Eleven använder hela kroppens rörelser mångsidigt och kreativt då hen lär sig musik samt för att uttrycka sig och kommunicera musikaliskt."
+      }
+    },
+    {
+      "id": "M5",
+      "goalText": "erbjuda eleven möjligheter att uppleva och lyssna till ljudmiljöer och musik och handleda eleven att diskutera det hen hört",
+      "assessmentTarget": "Förmåga att lyssna till och diskutera ljudmiljöer och musik",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven lyssnar till ljudmiljöer och musik.",
+        "7": "Eleven lyssnar till ljudmiljöer och musik och kan lyfta fram enstaka iakttagelser av det hen hört.",
+        "8": "Eleven lyssnar till ljudmiljöer och musik och kan berätta om sina iakttagelser.",
+        "9": "Eleven lyssnar till ljudmiljöer och musik och diskuterar sina iakttagelser samt motiverar sina synpunkter."
+      }
+    },
+    {
+      "id": "M6",
+      "goalText": "uppmuntra eleven att bygga upp ett kreativt förhållande till musik och handleda eleven att improvisera, arrangera och komponera samt arbeta tvärkonstnärligt",
+      "assessmentTarget": "Förmåga att skapa musik kreativt",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven deltar i den kreativa skapandeprocessen.",
+        "7": "Eleven deltar i den kreativa skapandeprocessen och tar fram enstaka musikaliska idéer självständigt eller som medlem i en grupp.",
+        "8": "Eleven använder musikaliska eller andra ljudelement för att utveckla och genomföra musikaliska idéer självständigt eller som medlem i en grupp.",
+        "9": "Eleven använder musikaliska eller andra ljudelement för att utveckla och genomföra mångsidiga samt kreativa musikaliska idéer självständigt eller som medlem i en grupp."
+      }
+    },
+    {
+      "id": "M7",
+      "goalText": "handleda eleven att spela in musik och att använda informations och kommunikationsteknik både för att skapa musik och som en del av ämnesövergripande helheter",
+      "assessmentTarget": "Förmåga att använda musikteknologi",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven prövar på några redskap inom musikteknologi i enlighet med lärarens konkreta instruktioner.",
+        "7": "Eleven prövar på musikteknologins möjligheter för att skapa musik självständigt.",
+        "8": "Eleven använder de möjligheter musikteknologin erbjuder för att uttrycka musik självständigt eller i grupp.",
+        "9": "Eleven använder mångsidigt de möjligheter musikteknologin erbjuder för att uttrycka musik självständigt eller i grupp."
+      }
+    },
+    {
+      "id": "M8",
+      "goalText": "handleda eleven att granska musiken som konstart och att förstå hur musik används för att kommunicera och påverka i olika kulturer",
+      "assessmentTarget": "Kulturell kompetens",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven känner till några sätt att använda musik för att kommunicera och påverka. Eleven känner till några musikkulturer.",
+        "7": "Eleven känner till några av många sätt på vilka musiken används och uttrycks i olika kulturer och kan berätta om sina iakttagelser.",
+        "8": "Eleven kan särskilja hur musiken används och uttrycks i olika kulturer och berättar om sina iakttagelser.",
+        "9": "Eleven analyserar och utvärderar hur musiken används och uttrycks i olika kulturer och kan diskutera dessa olika sätt."
+      }
+    },
+    {
+      "id": "M9",
+      "goalText": "uppmuntra och handleda eleven att använda notationssätt, musikbegrepp och termer i den musikaliska verksamheten",
+      "assessmentTarget": "Förmåga att använda musikbegrepp och -symboler",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven känner till några musikbegrepp och symboler.",
+        "7": "Eleven använder enstaka musikbegrepp, notationssätt och några musiktermer i den musikaliska verksamheten.",
+        "8": "Eleven använder musikbegrepp, notationssätt och musiktermer i den musikaliska verksamheten.",
+        "9": "Eleven använder och tillämpar ledigt och ändamålsenligt musikbegrepp, notationssätt och musiktermer i den musikaliska verksamheten."
+      }
+    },
+    {
+      "id": "M10",
+      "goalText": "handleda eleven att upptäcka hur musiken påverkar känslorna och välbefinnandet",
+      "assessmentTarget": null,
+      "assessable": false,
+      "message": "Används inte som grund för bildandet av vitsord.",
+      "notes": "Eleven handleds att reflektera över sina erfarenheter som en del av självvärderingen.",
+      "criteria": {}
+    },
+    {
+      "id": "M11",
+      "goalText": "handleda eleven att vara mån om sin hörsel och att se till att musik och ljudmiljön är trygg",
+      "assessmentTarget": "Förmåga att värna om hörseln och om att musik- och ljudmiljön är trygg",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven iakttar de säkerhetsanvisningar som ges.",
+        "7": "Eleven beaktar faktorer som hör samman med en trygg ljudmiljö och använder redskap och instrument enligt säkerhetsanvisningarna.",
+        "8": "Eleven beaktar faktorer som hör samman med en trygg ljudmiljö och använder självständigt redskap och instrument på ett tryggt sätt.",
+        "9": "Eleven ser på ett ansvarsfullt sätt till att musik och ljudmiljön är trygg."
+      }
+    },
+    {
+      "id": "M12",
+      "goalText": "handleda eleven att utveckla sina musikaliska färdigheter genom övning, att ställa upp mål för sitt musikaliska lärande och att utvärdera sina framsteg i förhållande till målen",
+      "assessmentTarget": "Förmåga att lära sig",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven utvecklar med stöd av läraren och i riktning med det givna målet sina färdigheter inom något av musikens delområden.",
+        "7": "Eleven ställer under handledning upp egna mål för musicerande, rörelse till musik eller komposition och annat kreativt skapande samt agerar och arbetar i enlighet med målen.",
+        "8": "Eleven ställer under handledning upp egna mål för musicerande, rörelse till musik eller komposition och annat kreativt skapande samt övar i enlighet med målen och utvärderar sina framsteg i förhållande till dem.",
+        "9": "Eleven ställer upp mål för musicerande, rörelse till musik eller komposition och annat kreativt skapande och arbetar i enlighet med målen. Eleven utvärderar sin aktivitet och anpassar sina arbetssätt enligt målen."
+      }
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "subjectId": "huslig-ekonomi",
+  "subjectName": "Huslig ekonomi",
+  "gradeCategory": "7-9",
+  "notes": null,
+  "goals": [
+    {
+      "id": "M1",
+      "goalText": "handleda eleven att planera, organisera och utvärdera arbete och aktivitet",
+      "assessmentTarget": "Planering och organisering av arbetet samt granskning av egen aktivitet",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven känner igen och kan benämna några arbetsuppgifter i anknytning till arbetsprocessen. Eleven behöver mycket handledning och hjälp i att planera och genomföra arbetet.",
+        "7": "Eleven planerar, organiserar och beskriver stegvis sitt arbete och sin aktivitet enligt givna instruktioner.",
+        "8": "Eleven planerar och arbetar stegvis genom att tillämpa givna instruktioner samt beskriver sitt kunnande med hjälp av egna iakttagelser av det egna arbetet.",
+        "9": "Eleven planerar och arbetar självständigt samt motiverar det egna arbetet och den egna aktiviteten."
+      }
+    },
+    {
+      "id": "M2",
+      "goalText": "handleda eleven att träna praktiska färdigheter som behövs i hushållet samt uppmuntra eleven att vara kreativ och att lägga märke till estetik",
+      "assessmentTarget": "Praktiska färdigheter i genomförandet av grundläggande uppgifter i huslig ekonomi, kreativitet och estetik",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven klarar under handledning av att utföra enstaka arbetsuppgifter som förutsätter praktiska färdigheter.",
+        "7": "Eleven klarar av att utföra givna arbetsuppgifter som förutsätter praktiska färdigheter. Eleven vet att arbetsuppgifter kan utföras kreativt på många olika sätt och att estetiken är av betydelse.",
+        "8": "Eleven klarar självständigt av att i huslig ekonomi utföra uppgifter som förutsätter praktiska färdigheter och tillämpar de vanligaste arbetsmetoderna. Eleven beaktar enstaka estetiska aspekter.",
+        "9": "Eleven kan kreativt använda och motivera olika praktiska färdigheter och arbetsmetoder i uppgifter i huslig ekonomi. Eleven motiverar betydelsen av kreativitet och estetik som en del av helheten och tar dessa i beaktande."
+      }
+    },
+    {
+      "id": "M3",
+      "goalText": "handleda och uppmuntra eleven att välja och använda material, redskap, apparater och digitala verktyg på ett sätt som främjar välbefinnande och hållbar konsumtion",
+      "assessmentTarget": "Förmåga att göra och motivera val i arbetet",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven övar sig på att med hjälp av individuell handledning välja och använda givna material eller arbetsredskap.",
+        "7": "Eleven väljer och använder råvaror, material, arbetsredskap eller teknologi i enlighet med givna instruktioner.",
+        "8": "Eleven tillämpar sina kunskaper och färdigheter i hållbar livsstil då hen använder råvaror, material, arbetsredskap, eller teknologi.",
+        "9": "Eleven väljer, använder och argumenterar för råvaror, arbetsredskap, material eller teknologi som stöder en hållbar livsstil."
+      }
+    },
+    {
+      "id": "M4",
+      "goalText": "handleda eleven att planera sin tidsanvändning och arbetets gång samt att hålla ordning i samband med uppgifter",
+      "assessmentTarget": "Förmåga att hantera tid och hålla ordning",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven arbetar inom tidsramen och håller under handledning ordning i uppgifterna och arbetsmiljön.",
+        "7": "Eleven håller ordning i arbetsuppgifterna i enlighet med givna instruktioner och angiven tidsram i olika arbetsskeden. Eleven behöver handledning för att upprätthålla ordning i arbetsmiljön.",
+        "8": "Eleven arbetar stegvis i enlighet med instruktioner och upprätthåller ordning i arbetsuppgifterna och arbetsmiljön. Eleven planerar och förutser sin tidsanvändning.",
+        "9": "Eleven arbetar självständigt och ansvarsfullt och kan inom ramen för lärmiljön motivera sin tidsanvändning, betydelsen av att upprätthålla ordning i arbetsuppgifterna och arbetsmiljön, samt arbetets framskridande."
+      }
+    },
+    {
+      "id": "M5",
+      "goalText": "handleda och motivera eleven att arbeta hygieniskt, säkert och ergonomiskt och att fästa uppmärksamhet vid de resurser som finns",
+      "assessmentTarget": "Säkerhet samt verksamhet som är hållbar med tanke på resurserna",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven arbetar hygieniskt och säkert under handledning.",
+        "7": "Eleven arbetar hygieniskt och säkert i enlighet med givna instruktioner.",
+        "8": "Eleven arbetar i enlighet med instruktionerna på ett hygieniskt, säkert och ergonomiskt sätt eller ändamålsenligt i förhållande till, kostnader och energiförbrukning.",
+        "9": "Eleven motiverar sitt arbete utgående från aspekter på säkerhet, hygien och ergonomi, eller kostnader och energiförbrukning."
+      }
+    },
+    {
+      "id": "M6",
+      "goalText": "handleda eleven att öva sig på att lyssna samt diskutera och argumentera på ett konstruktivt sätt när hen planerar och genomför uppgifter",
+      "assessmentTarget": "Förmåga att lyssna, diskutera och argumentera vid gemensam planering",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven deltar sporadiskt eller med stöd av frågor i diskussionen i gemensamma planerings och arbetssituationer.",
+        "7": "Eleven deltar i diskussionen i gemensamma planerings och arbetssituationer och försöker lyssna och föra fram sina egna synpunkter.",
+        "8": "Eleven lyssnar på olika synpunkter och uttrycker sina åsikter konstruktivt i gemensamma planerings och arbetssituationer.",
+        "9": "Eleven deltar aktivt i diskussioner, beaktar olika synpunkter och argumenterar konstruktivt för sina egna åsikter. Eleven uppmuntrar de andra i gemensamma planerings och arbetssituationer."
+      }
+    },
+    {
+      "id": "M7",
+      "goalText": "aktivera eleven att vara uppmärksam på hur vardagen är uppbyggd samt på kulturellt mångskiftande verksamhetsmiljöer och husliga traditioner",
+      "assessmentTarget": "Förmåga att uppfatta hur vardagen är uppbyggd och skillnader mellan olika hushåll",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven benämner vardagsrutiner och känner till olika slag av hemkulturer.",
+        "7": "Eleven beskriver vardagsrutiner, hur vardagen är uppbyggd, hushållstraditioner och olika slag av hemkulturer.",
+        "8": "Eleven definierar hur vardagen är uppbyggd och hushållens vardagsrutiner i olika hemkulturer.",
+        "9": "Eleven motiverar uppbyggnaden av vardagen och tidsanvändningen i olika slag av hemkulturer."
+      }
+    },
+    {
+      "id": "M8",
+      "goalText": "handleda eleven att arbeta självständigt och i grupp och att komma överens om fördelningen av arbetsuppgifter och tidsanvändningen",
+      "assessmentTarget": "Användningen av resurser och att lära sig hur gemensamma överenskommelser görs upp",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven övar under individuell handledning på att arbeta självständigt och deltar sporadiskt i gruppens aktiviteter.",
+        "7": "Eleven övar på att arbeta självständigt och att ta ansvar för sitt eget arbete samt deltar i gruppens aktiviteter på överenskommet sätt.",
+        "8": "Eleven arbetar på egen hand och i grupp och strävar efter att arbeta konstruktivt och genom att förhandla om olika arbetsuppgifter. Eleven vet vad en rättvis arbetsfördelning innebär och kan komma fram till överenskommelser om arbetsfördelning genom att delta i beslutsfattandet.",
+        "9": "Eleven arbetar självständigt och rättvist och agerar med samarbetsförmåga samt ansvarfullt i gruppen."
+      }
+    },
+    {
+      "id": "M9",
+      "goalText": "uppmuntra eleven att handla enligt goda seder i samspel med andra och att reflektera över hur det egna uppförandet påverkar arbetet i gruppen och gemenskapen",
+      "assessmentTarget": "Omtänksamt bemötande av andra elever och agerande i enlighet med goda seder och bruk i kommunikationssituationer under lektionen.",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven vet att goda seder och bruk inverkar på kommunikationssituationer.",
+        "7": "Eleven känner igen och benämner faktorer i anknytning till goda seder och bruk och omtänksamt bemötande.",
+        "8": "Eleven kan agera i enlighet med goda seder och bruk.",
+        "9": "Eleven kan motivera goda seder och bruk och omtänksamt bemötande av andra samt handlingar i praktiken i anknytning till dessa."
+      }
+    },
+    {
+      "id": "M10",
+      "goalText": "uppmuntra eleven att söka och bedöma information i anslutning till huslig ekonomi samt handleda eleven att använda tillförlitlig information som grund för sina val",
+      "assessmentTarget": "Förmåga att söka och använda information",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven söker under individuell handledning information i anknytning till huslig ekonomi ur givna källor. Förmågan att tolka och utnyttja informationen är anspråkslös.",
+        "7": "Eleven söker information i anknytning till huslig ekonomi ur källor som är bekanta för hen och som givits hen och utnyttjar dem i sitt arbete.",
+        "8": "Eleven vet var och hur man kan söka information i anknytning till huslig ekonomi. Eleven bedömer informationens användbarhet och källornas tillförlitlighet.",
+        "9": "Eleven söker information i anknytning till huslig ekonomi ur olika källor. Eleven bedömer källornas och informationens tillförlitlighet och användbarhet och väljer för uppgiften ändamålsenliga källor."
+      }
+    },
+    {
+      "id": "M11",
+      "goalText": "lära eleven att läsa, tolka och bedöma anvisningar, tecken och symboler som anknyter till hushåll och närsamhälle",
+      "assessmentTarget": "Förmåga att använda anvisningar, tecken och symboler",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven känner igen och benämner enstaka anvisningar och tecken.",
+        "7": "Eleven känner igen, benämner, klassificerar och använder hushållsrelaterade anvisningar och tecken i enlighet med givna instruktioner.",
+        "8": "Eleven använder hushållsrelaterade anvisningar, tecken och symboler i sitt arbete.",
+        "9": "Eleven motiverar användningen av hushållsrelaterade anvisningar, tecken och symboler i olika arbeten."
+      }
+    },
+    {
+      "id": "M12",
+      "goalText": "handleda eleven att lära sig lösa problem och vara kreativ i olika situationer och miljöer",
+      "assessmentTarget": "Förmåga att använda begrepp, tillämpa kunskaper och färdigheter, samt hitta kreativa lösningar i situationer. Kännedom om tjänster som stöder vardagen i hemmet",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven nämner några hushållsrelaterade begrepp, kunskaper och färdigheter samt enstaka tjänster som stöder vardagen i hemmet.",
+        "7": "Eleven använder hushållsrelaterade begrepp, sina kunskaper och färdigheter samt beskriver enstaka tjänster som stöder vardagen i hemmet.",
+        "8": "Eleven använder hushållsrelaterade begrepp, sina kunskaper och färdigheter i olika situationer. Eleven beskriver olika tjänster som stöder vardagen i hemmet och hur de används i vardagen.",
+        "9": "Eleven använder hushållsrelaterade begrepp och sina kunskaper och färdigheter motiverat och kreativt i olika situationer. Eleven utvärderar olika tjänster som stöder vardagen i hemmet och motiverar användningen av dem och de möjligheter de erbjuder."
+      }
+    },
+    {
+      "id": "M13",
+      "goalText": "handleda eleven mot en hållbar livsstil genom att fästa elevens uppmärksamhet vid miljö och kostnadsmedvetenhet som en del av valen i vardagen",
+      "assessmentTarget": "Handlingar för miljö och ekonomi i arbete och beslutsfattande",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven räknar upp några hushållsrelaterade handlingar i anknytning till miljö och användning av pengar.",
+        "7": "Eleven vet hur man kan minska miljöbelastningen och vad man kan göra i ett hushåll för miljön och ekonomin.",
+        "8": "Eleven utför i olika uppgifter och situationer enstaka handlingar som anknyter till miljö och ekonomi i vardagen.",
+        "9": "Eleven utför i olika uppgifter och situationer handlingar i anknytning till miljö och ekonomi i vardagen på ett logiskt sätt och motiverar betydelsen av dem utgående från en hållbar och ansvarsfull livsstil och konsumtion."
+      }
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "subjectId": "slojd",
+  "subjectName": "Slöjd",
+  "gradeCategory": "7-9",
+  "notes": null,
+  "goals": [
+    {
+      "id": "M1",
+      "goalText": "handleda eleven att planera sitt arbete samt att utveckla idéer, undersöka och experimentera på ett företagsamt sätt",
+      "assessmentTarget": "Förmåga att arbeta och producera",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven planerar sitt eget arbete utgående från givna instruktioner och exempel. Eleven kan under konkret handledning utföra ett visst skede i arbetet.",
+        "7": "Eleven planerar sitt arbete enligt givna instruktioner. Eleven strävar efter att arbeta på ett företagsamt sätt.",
+        "8": "Eleven planerar sitt arbete, kan göra val och söka egna lösningar för sitt arbete.",
+        "9": "Eleven planerar självständigt sitt arbete. Eleven arbetar på ett företagsamt sätt och tar egna initiativ."
+      }
+    },
+    {
+      "id": "M2",
+      "goalText": "handleda eleven att ställa upp egna mål för sitt lärande och arbete i slöjd och att utgående från målen genomföra en slöjdprocess i sin helhet samt utvärdera sitt lärande",
+      "assessmentTarget": "Förmåga att genomföra en slöjdprocess i sin helhet",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven ställer med lärarens hjälp upp ett konkret mål för sitt lärande som anknyter till arbetet. Eleven arbetar med en fas åt gången och reflekterar under handledning över sin slöjdprocess.",
+        "7": "Eleven ställer under handledning upp mål för sitt lärande och arbete. Eleven framskrider i slöjdprocessen med en fas åt gången enligt givna instruktioner. Eleven reflekterar över sin slöjdprocess utgående från givna alternativ.",
+        "8": "Eleven kan ställa upp mål för sitt lärande och arbete och hen arbetar processinriktat och reflekterar på ett realistiskt sätt över sin slöjdprocess.",
+        "9": "Eleven ställer självständigt upp mål för sitt lärande och arbete. Eleven framskrider ändamålsenligt och reflekterar på ett analytiskt och realistiskt sätt över sin slöjdprocess."
+      }
+    },
+    {
+      "id": "M3",
+      "goalText": "handleda eleven att undersöka och mångsidigt använda olika redskap, material och ändamålsenliga metoder samt att utveckla innovationer",
+      "assessmentTarget": "Förmåga att använda redskap och att använda olika bearbetnings- och arbetssätt inom slöjd på ett ändamålsenligt sätt",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven deltar i undervisningen i de båda arbetssätten inom slöjd. Eleven använder olika redskap och material, vid behov under konkret handledning.",
+        "7": "Eleven förstår vilken betydelse olika arbetssätt och material har för slöjdprocessen och eleven väljer under handledning dem som lämpar sig för hens arbete. Eleven använder olika redskap och material enligt givna instruktioner.",
+        "8": "Eleven kan välja ändamålsenliga material och bearbetningssätt samt kan använda dem på ett kreativt sätt för att framställa produkter eller alster enligt sina planer.",
+        "9": "Eleven utvärderar hur väl olika redskap och bearbetningssätt lämpar sig för slöjdprocessen. Eleven tillämpar sin kunskap om material och arbetssätt på ett kreativt, experimentellt och ändamålsenligt sätt."
+      }
+    },
+    {
+      "id": "M4",
+      "goalText": "handleda eleven att ledigt använda slöjdrelaterade begrepp, tecken och symboler och att stärka elevens visuella, materiella och tekniska uttrycksförmåga",
+      "assessmentTarget": "Visuellt, materiellt och tekniskt uttryck",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven identifierar olika slöjdrelaterade begrepp, tecken och symboler. Eleven uttrycker under konkret handledning några av sina iakttagelser och tankar visuellt.",
+        "7": "Eleven använder slöjdrelaterade begrepp, tecken och symboler enligt instruktionerna. Eleven uttrycker sina iakttagelser och tankar visuellt och även på något annat sätt.",
+        "8": "Eleven använder centrala slöjdrelaterade begrepp och kan uttrycka sina idéer klart med hjälp av teknik.",
+        "9": "Eleven använder slöjdrelaterade begrepp, tecken och symboler på ett ändamålsenligt sätt. Eleven uttrycker sina idéer på ett mångsidigt och kreativt sätt med hjälp av olika material och teknik."
+      }
+    },
+    {
+      "id": "M5",
+      "goalText": "handleda eleven att uppfatta, förutse och reagera på riskfaktorer i arbetet och att arbeta på ett tryggt och säkert sätt under slöjdprocessen",
+      "assessmentTarget": "Förmåga att arbeta på ett tryggt och säkert sätt",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven följer under konkret handledning de säkerhetsinstruktioner hen fått i slöjdprocessen.",
+        "7": "Eleven uppfattar de centrala riskfaktorerna som berör arbetssäkerheten under slöjdprocessen och följer de säkerhetsinstruktioner hen fått.",
+        "8": "Eleven kan bedöma farorna och riskerna i arbetet samt kan arbeta på ett tryggt och säkert sätt under slöjdprocessen.",
+        "9": "Eleven bedömer och förutser farorna och riskerna i arbetet som en del av slöjdprocessen. Eleven arbetar på ett tryggt och säkert sätt och främjar genom sitt agerande säkerheten och tryggheten i lärmiljön."
+      }
+    },
+    {
+      "id": "M6",
+      "goalText": "handleda eleven att utnyttja informations och kommunikationsteknikens möjligheter för planering, framställning och dokumentation samt för att producera och dela gemensam information",
+      "assessmentTarget": "Färdigheter i informations- och kommunikationsteknik och förmåga att arbeta tillsammans med andra",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven använder informations och kommunikationsteknik under konkret handledning i den egna eller den gemensamma slöjdprocessen.",
+        "7": "Eleven kan använda informations och kommunikationsteknik enligt givna instruktioner för planering, framställning och dokumentation självständigt eller tillsammans med andra.",
+        "8": "Eleven kan använda informations och kommunikationsteknik för planering, framställning och dokumentation av slöjdprocessen samt för att producera gemensam information.",
+        "9": "Eleven använder informations och kommunikationsteknik mångsidigt i olika skeden av slöjdprocessen samt för att producera och dela gemensam information."
+      }
+    },
+    {
+      "id": "M7",
+      "goalText": "handleda eleven att förstå betydelsen av praktiska färdigheter, slöjd och teknik i det egna livet, samhället, i företagsverksamhet och i det övriga arbetslivet",
+      "assessmentTarget": "Förmåga att uppfatta betydelsen av praktiska färdigheter och slöjd i vardagen och i samhället.",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven deltar under lärarens handledning i reflektioner över betydelsen av praktiska färdigheter och slöjd.",
+        "7": "Eleven kan med hjälp av exempel beskriva vilken betydelse slöjd har i vardagen, samhället och arbetslivet.",
+        "8": "Eleven kan reflektera över vilken betydelse praktiska färdigheter och slöjd har i det egna livet och i samhället.",
+        "9": "Eleven kan ur olika synvinklar granska vilken betydelse praktiska färdigheter, slöjd och teknik har i det egna livet, samhället, i företagsverksamhet och i det övriga arbetslivet."
+      }
+    },
+    {
+      "id": "M8",
+      "goalText": "handleda eleven att tänka ekonomiskt och att göra sådana val i anslutning till slöjdprocessen som främjar en hållbar livsstil",
+      "assessmentTarget": "Förmåga att uppfatta betydelsen av praktiska färdigheter och slöjd i vardagen och i samhället.",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan under lärarens handledning använda slöjdmaterial på ett ekonomiskt sätt.",
+        "7": "Eleven kan delvis självständigt göra ekonomiska val i sitt arbete. Eleven förstår sambandet mellan en hållbar livsstil och de val som görs i slöjdprocessen.",
+        "8": "Eleven kan göra ekonomiska val i sitt arbete. Eleven kan bedöma sambandet mellan en hållbar livsstil och de val som görs i slöjdprocessen.",
+        "9": "Eleven kan göra ekonomiska val och förstår betydelsen av ett arbete av god kvalitet. Eleven kan bedöma och motivera val som anknyter till slöjdprocessen och en hållbar livsstil."
+      }
+    }
+  ]
+}

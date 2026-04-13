@@ -1,0 +1,166 @@
+{
+  "subjectId": "historia",
+  "subjectName": "Historia",
+  "gradeCategory": "7-9",
+  "notes": null,
+  "goals": [
+    {
+      "id": "M1",
+      "goalText": "stärka elevens intresse för historia som vetenskap och identitetsskapande läroämne",
+      "assessmentTarget": null,
+      "assessable": false,
+      "message": "Används inte som grund för bildandet av vitsord.",
+      "notes": "Eleven handleds att reflektera över sina erfarenheter som en del av självvärderingen.",
+      "criteria": {}
+    },
+    {
+      "id": "M2",
+      "goalText": "aktivera eleven att söka historisk information och att bedöma informationskällornas tillförlitlighet",
+      "assessmentTarget": "Förmåga att hämta historisk information och att förstå att källorna är tolkningsbara.",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven hittar under handledning information om en historisk företeelse eller händelse ur en given källa. Eleven förstår under handledning av läraren att det förekommer olika tolkningar kring samma fenomen eller källa.",
+        "7": "Eleven hämtar information om en historisk företeelse eller händelse ur olika källor och lägger märke till skillnader i källornas tillförlitlighet och hur de tolkas.",
+        "8": "Eleven hämtar information om en historisk företeelse eller händelse ur olika källor och kan skilja mellan mer och mindre tillförlitliga källor och tolkningar.",
+        "9": "Eleven använder olika källor och kan skilja källorna till den företeelse som undersöks från andra källor. Eleven beskriver hur man kan göra olika tolkningar av samma källor och bedömer eventuella brister i tolkningarna."
+      }
+    },
+    {
+      "id": "M3",
+      "goalText": "hjälpa eleven att förstå att historisk information kan tolkas på olika sätt",
+      "assessmentTarget": "Förmåga att hämta historisk information och att förstå att källorna är tolkningsbara.",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven hittar under handledning information om en historisk företeelse eller händelse ur en given källa. Eleven förstår under handledning av läraren att det förekommer olika tolkningar kring samma fenomen eller källa.",
+        "7": "Eleven hämtar information om en historisk företeelse eller händelse ur olika källor och lägger märke till skillnader i källornas tillförlitlighet och hur de tolkas.",
+        "8": "Eleven hämtar information om en historisk företeelse eller händelse ur olika källor och kan skilja mellan mer och mindre tillförlitliga källor och tolkningar.",
+        "9": "Eleven använder olika källor och kan skilja källorna till den företeelse som undersöks från andra källor. Eleven beskriver hur man kan göra olika tolkningar av samma källor och bedömer eventuella brister i tolkningarna."
+      }
+    },
+    {
+      "id": "M4",
+      "goalText": "stärka elevens förmåga att förstå begreppet historisk tid och därmed relaterade begrepp",
+      "assessmentTarget": "Förmåga att förstå begreppet kronologi",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven känner igen centrala, innehållsmässiga historiska begrepp och kan under lärarens handledning tidsmässigt ställa dem i relation till varandra.",
+        "7": "Eleven kommer ihåg centrala innehållsmässiga begrepp som anknyter till det förflutna och ger några exempel på särdrag som är karakteristiska för den historiska tidsperiod som granskas.",
+        "8": "Eleven använder centrala innehållsmässiga begrepp som anknyter till det förflutna och beskriver särdragen som är karakteristiska för den historiska tidsperiod som granskas.",
+        "9": "Eleven placerar historiska händelser, företeelser och tidsperioder i kronologisk ordning och i sina tidsmässiga sammanhang. Eleven använder tidsrelaterade begrepp och redogör för händelser, personer och fenomen som är kopplade till centrala historiska tidsperioder."
+      }
+    },
+    {
+      "id": "M5",
+      "goalText": "handleda eleven att förstå faktorer som har påverkat människans handlingar och beslut i olika historiska situationer",
+      "assessmentTarget": "Historisk inlevelseförmåga",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven känner till att människorna har haft olika motiv till sina handlingar.",
+        "7": "Eleven förstår hur människornas sociala och samhälleliga ställning inverkar på motiven bakom deras handlingar.",
+        "8": "Eleven tolkar syftena med människornas handlingar och redogör för hur människornas sociala och samhälleliga ställning eller den historiska kontexten inverkar på deras handlingar.",
+        "9": "Eleven lever sig in i den historiska människans ställning, bedömer motiven bakom hens handlingar och granskar hur människans sociala eller samhälleliga ställning eller den historiska kontexten inverkar på hens handlingar."
+      }
+    },
+    {
+      "id": "M6",
+      "goalText": "hjälpa eleven att bedöma olika orsaker till historiska händelser och företeelser",
+      "assessmentTarget": "Förmåga att förstå orsak och verkan i historiska sammanhang och att förstå förändring och kontinuitet",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven identifierar historiska företeelser som har förändrats eller som har förblivit oförändrade. Eleven anger någon enskild orsak till att det har eller inte har skett en förändring.",
+        "7": "Eleven känner till att historiska förklaringar grundar sig på analyser av aktörernas avsikter. Eleven iakttar orsaker till och följder av historiska händelser och företeelser. Eleven förklarar under individuell handledning varför man inom vissa livsområden agerade annorlunda förr än man gör idag.",
+        "8": "Eleven förstår att historiska förklaringar grundar sig på analyser av aktörernas avsikter. Eleven förstår att det finns olika orsaker till och följder av historiska händelser och företeelser och ger exempel på dem. Eleven redogör för varför man inom vissa livsområden agerade lika eller annorlunda förr i förhållande till idag.",
+        "9": "Eleven skiljer mellan de centrala och de mindre viktiga faktorerna som förklarar orsakerna bakom historiska händelser eller företeelser och analyserar orsakerna till och följderna av historiska händelser (såsom betydelsen av omedelbara och långvariga följder). Eleven utvärderar varför man inom vissa livsområden agerade lika eller annorlunda förr i förhållande till idag och hur följderna av en historisk händelse eller företeelse har haft olika inverkan på människor i olika ställning samt på olika människogrupper."
+      }
+    },
+    {
+      "id": "M7",
+      "goalText": "hjälpa eleven att analysera historisk förändring och kontinuitet",
+      "assessmentTarget": "Förmåga att förstå orsak och verkan i historiska sammanhang och att förstå förändring och kontinuitet",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven identifierar historiska företeelser som har förändrats eller som har förblivit oförändrade. Eleven anger någon enskild orsak till att det har eller inte har skett en förändring.",
+        "7": "Eleven känner till att historiska förklaringar grundar sig på analyser av aktörernas avsikter. Eleven iakttar orsaker till och följder av historiska händelser och företeelser. Eleven förklarar under individuell handledning varför man inom vissa livsområden agerade annorlunda förr än man gör idag.",
+        "8": "Eleven förstår att historiska förklaringar grundar sig på analyser av aktörernas avsikter. Eleven förstår att det finns olika orsaker till och följder av historiska händelser och företeelser och ger exempel på dem. Eleven redogör för varför man inom vissa livsområden agerade lika eller annorlunda förr i förhållande till idag.",
+        "9": "Eleven skiljer mellan de centrala och de mindre viktiga faktorerna som förklarar orsakerna bakom historiska händelser eller företeelser och analyserar orsakerna till och följderna av historiska händelser (såsom betydelsen av omedelbara och långvariga följder). Eleven utvärderar varför man inom vissa livsområden agerade lika eller annorlunda förr i förhållande till idag och hur följderna av en historisk händelse eller företeelse har haft olika inverkan på människor i olika ställning samt på olika människogrupper. Årskurs 79 Årskurs"
+      }
+    },
+    {
+      "id": "M8",
+      "goalText": "uppmuntra eleven att göra tolkningar",
+      "assessmentTarget": null,
+      "assessable": false,
+      "message": "Används inte som grund för bildandet av vitsord.",
+      "notes": "Eleven handleds att reflektera över sina erfarenheter som en del av självvärderingen.",
+      "criteria": {}
+    },
+    {
+      "id": "M9",
+      "goalText": "handleda eleven att förklara avsikter bakom mänsklig aktivitet",
+      "assessmentTarget": "Förmåga att förklara mänsklig aktivitet",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven anger under handledning hur motivet bakom människans handlingar syns i någon historisk företeelse eller händelse.",
+        "7": "Eleven beskriver hur människornas bakgrund påverkar motiven bakom deras handlingar.",
+        "8": "Eleven presenterar en slutsats om hur människornas bakgrund påverkar motiven bakom deras handlingar.",
+        "9": "Eleven förklarar motiven bakom människans handlingar och hur människornas bakgrund och den historiska kontexten påverkar dem."
+      }
+    },
+    {
+      "id": "M10",
+      "goalText": "handleda eleven att förklara varför historisk information kan tolkas och användas på olika sätt i olika sammanhang och att kritiskt bedöma tolkningarnas trovärdighet",
+      "assessmentTarget": "Förmåga att förklara historiska tolkningar och bedöma deras trovärdighet",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven ger under handledning något exempel på hur historisk information används för något särskilt syfte.",
+        "7": "Eleven beskriver hur historisk information används för något särskilt syfte och ger exempel på partiskhet i historiska tolkningar.",
+        "8": "Eleven beskriver hur historisk information används för något särskilt syfte och redogör för partiskhet i historiska tolkningar.",
+        "9": "Eleven förklarar hur historisk information används för något särskilt syfte och hur bakgrunden hos den som tolkar historiska källor kan påverka tolkningens trovärdighet."
+      }
+    },
+    {
+      "id": "M11",
+      "goalText": "lära eleven att använda olika källor, jämföra dem och göra en egen motiverad tolkning utgående från dem",
+      "assessmentTarget": "Förmåga att använda historiska källor och producera historisk information",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven svarar på frågor om det förflutna under handledning och utgående från en källa som hen har fått. Under lärarens handledning gör eleven en tolkning utifrån någon källa.",
+        "7": "Eleven presenterar någon tolkning med hjälp av olika källor som finns tillgängliga.",
+        "8": "Eleven svarar på frågor om det förflutna genom att tolka information från olika källor. Eleven presenterar egna motiverade tolkningar om en historisk händelse eller företeelse.",
+        "9": "Eleven tolkar olika källor i anknytning till information om historia. Eleven presenterar egna motiverade tolkningar om historiska händelser eller företeelser och visar att hen känner till möjligheten till feltolkning i sina egna tolkningar."
+      }
+    },
+    {
+      "id": "M12",
+      "goalText": "handleda eleven att med hjälp av sin kunskap i historia göra sig en föreställning om framtiden",
+      "assessmentTarget": "Förmåga att använda sin kunskap i historia",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven anger under handledning hur historia används för att förklara samtiden.",
+        "7": "Eleven beskriver hur historia används för att förklara samtiden.",
+        "8": "Eleven beskriver hur man med hjälp av kunskap om historia kan motivera något val som berör framtiden.",
+        "9": "Eleven gör en bedömning av hur tolkningarna av det förflutna påverkar förväntningarna inför framtiden och framtida val."
+      }
+    }
+  ]
+}

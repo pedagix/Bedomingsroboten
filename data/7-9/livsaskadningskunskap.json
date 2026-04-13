@@ -1,0 +1,148 @@
+{
+  "subjectId": "livsaskadningskunskap",
+  "subjectName": "Livsåskådningskunskap",
+  "gradeCategory": "7-9",
+  "notes": null,
+  "goals": [
+    {
+      "id": "M1",
+      "goalText": "vägleda eleven att identifiera, förstå och använda begrepp som hör samman med livsåskådning",
+      "assessmentTarget": "Förmåga att behärska och tillämpa begrepp",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven känner igen några åskådningsmässiga begrepp (såsom livsåskådning, religion, irreligiositet).",
+        "7": "Eleven kan beskriva begreppen världsåskådning, världsbild och livsåskådning.",
+        "8": "Eleven förstår begreppen världsåskådning, världsbild och livsåskådning, förstår sambandet mellan dem och kan använda dem.",
+        "9": "Eleven identifierar, förstår och kan tillämpa åskådningsmässiga begrepp i sitt eget åskådningsmässiga tänkande och i sina alster."
+      }
+    },
+    {
+      "id": "M2",
+      "goalText": "främja elevens kulturella allmänbildning genom att handleda eleven att bekanta sig med olika kulturer och livsåskådningar och fördjupa sig i Unescos världsarvskonvention",
+      "assessmentTarget": "Kännedom om kulturer och åskådningar",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan nämna ett grundläggande inslag i minst en kultur (såsom klädsel, språk, mat, fester, näring, utkomst, teknologi) och ett av Unescos världsarvsobjekt.",
+        "7": "Eleven kan beskriva två olika kulturer eller åskådningar samt känna igen likheter och skillnader mellan dem. Eleven kan berätta om några drag i Unescos världsarvskonvention och nämna några världsarvsobjekt.",
+        "8": "Eleven kan hämta information om olika kulturer och åskådningar. Eleven kan redogöra för utgångspunkter för Unescos världsarvskonvention och nämna några världsarvsobjekt.",
+        "9": "Eleven förstår den kulturella och åskådningsmässiga mångfalden och kan sätta sin egen kulturella och åskådningsmässiga situation i relation till världskulturer och arv. Eleven kan beskriva utgångspunkterna för Unescos världsarvskonvention och kan nämna de flesta inhemska och några utländska världsarvsobjekt."
+      }
+    },
+    {
+      "id": "M3",
+      "goalText": "handleda eleven att lära känna olika religiösa och ickereligiösa livsåskådningar, växelverkan mellan dem samt vilken roll kunskap och forskning spelar vid bedömning av livsåskådningar",
+      "assessmentTarget": "Kunskap om olika åskådningar och förmåga att jämföra dem",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan nämna minst två olika åskådningar (såsom kristendom, marxism och veganism).",
+        "7": "Eleven kan nämna centrala drag i semitisk monoteism och sekulär humanism. Eleven vet att man kan närma sig åskådningsmässiga frågor på ett vetenskapligt sätt.",
+        "8": "Eleven kan nämna de viktigaste dragen och utvecklingsförloppen i centrala världsåskådningar och kulturer, särskilt historiska, kulturella och samhälleliga perioder inom den semitiska monoteismen och den sekulära humanismen. Eleven kan redogöra för hur man kan studera åskådningar på ett undersökande och vetenskapligt sätt.",
+        "9": "Eleven förstår de viktigaste dragen och utvecklingsförloppen i centrala världsåskådningar och kulturer, särskilt historiska, kulturella och samhälleliga perioder inom den semitiska monoteismen och den sekulära humanismen. Eleven kan förklara hur man kan studera åskådningar på ett undersökande och vetenskapligt sätt."
+      }
+    },
+    {
+      "id": "M4",
+      "goalText": "vägleda eleven att utforska grunden för religiöst tänkande och religionskritik",
+      "assessmentTarget": "Kunskap om religiöst tänkande och religionskritik",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan under handledning hämta information om religioner och religionskritik.",
+        "7": "Eleven känner till vad religiöst tänkande innebär och vet vad som avses med religionskritik och kan delvis självständigt hämta information om saken.",
+        "8": "Eleven kan förklara vad som kännetecknar religiöst tänkande och ge exempel på centrala drag i religionskritik samt hämta information om saken.",
+        "9": "Eleven kan analysera vad som kännetecknar religiöst tänkande och förstår centrala drag i religionskritik samt självständigt hämta information om saken."
+      }
+    },
+    {
+      "id": "M5",
+      "goalText": "vägleda eleven att se åskådningsfrihet som en mänsklig rättighet samt utforska med vilka nationella och internationella medel åskådningsfrihet garanteras",
+      "assessmentTarget": "Förmåga att uppfatta betydelsen av åskådningsfrihet",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan ge ett exempel på åskådningsfrihet.",
+        "7": "Eleven känner till att åskådningsfrihet är en mänsklig rättighet. Eleven kan nämna minst ett medel med vilket åskådningsfrihet garanteras.",
+        "8": "Eleven kan ge exempel på åskådningsfrihet som en mänsklig rättighet och på några medel som garanterar åskådningsfrihet och på brister på sådana i olika situationer.",
+        "9": "Eleven förklarar åskådningsfrihet som en mänsklig rättighet och några medel som garanterar åskådningsfrihet och kan redogöra för brister på sådana i olika situationer."
+      }
+    },
+    {
+      "id": "M6",
+      "goalText": "vägleda eleven att uppfatta åskådningsmässiga val och vilka personliga och sociala orsaker som ligger bakom dem",
+      "assessmentTarget": "Förmåga att granska orsakerna bakom val av åskådning",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan beskriva någon åskådningsmässig lösning och kan nämna någon bakomliggande personlig eller samhällelig orsak (såsom att en mänska inte av etiska orsaker reser med flygplan).",
+        "7": "Eleven kan beskriva någon åskådningsmässig lösning och kan nämna någon bakomliggande personlig och samhällelig orsak.",
+        "8": "Eleven kan beskriva personliga och samhälleliga bakgrundsfaktorer som ligger till grund för olika människors val av åskådning.",
+        "9": "Eleven kan särskilja och bedöma personliga och samhälleliga bakgrundsfaktorer som ligger till grund för olika människors val av åskådning och kan jämföra sina egna åskådningsmässiga lösningar med dem."
+      }
+    },
+    {
+      "id": "M7",
+      "goalText": "uppmuntra eleven att acceptera och förstå världens mångfald och jämlikt bemötande av alla människor",
+      "assessmentTarget": "Förmåga att uppfatta kulturell mångfald och jämlikhet",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan ge ett exempel på världens mångfald och jämlikt bemötande av alla människor.",
+        "7": "Eleven kan beskriva världens mångfald och ge exempel på jämlikt bemötande av alla människor.",
+        "8": "Eleven förstår betydelsen av världens mångfald och jämlikt bemötande av alla människor.",
+        "9": "Eleven förstår och kan motivera betydelsen av världens mångfald och jämlikt bemötande av alla människor."
+      }
+    },
+    {
+      "id": "M8",
+      "goalText": "handleda eleven att iaktta etiska aspekter i sitt liv och sin omgivning och att utveckla sitt etiska tänkande",
+      "assessmentTarget": "Förmåga till etiskt tänkande",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan känna igen den etiska dimensionen i några handlingar, såsom om handlingen är rätt eller fel eller varken rätt eller fel.",
+        "7": "Eleven kan identifiera etiska begrepp (såsom värde, skyldighet, rättighet, frihet, ansvar, jämlikhet och rättvisa). Eleven kan motivera sina etiska åsikter.",
+        "8": "Eleven kan använda etisk terminologi och tolka och tillämpa den. Eleven kan logiskt motivera sina etiska åsikter.",
+        "9": "Eleven kan använda etiska begrepp mångsidigt och motiverat tolka och tillämpa dem i sitt eget tänkande."
+      }
+    },
+    {
+      "id": "M9",
+      "goalText": "uppmuntra eleven att reflektera över hur de egna valen påverkar en hållbar framtid lokalt och globalt",
+      "assessmentTarget": "Kännedom om principerna för en hållbar livsstil",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven känner till någon förutsättning för en hållbar livsstil. Eleven kan berätta att de egna handlingarna kan ha inverkan på framtiden.",
+        "7": "Eleven kan ge exempel på förutsättningar för en hållbar livsstil. Eleven förstår att de egna handlingarna kan ha inverkan på framtiden lokalt och globalt (såsom genom återvinning, konsumtionsval och fritidsverksamhet).",
+        "8": "Eleven kan nämna centrala förutsättningar i anknytning till en hållbar framtid för naturen och samhället och granska betydelsen av en hållbar livsstil för framtiden. Eleven känner till sätt att påverka lokalt och globalt.",
+        "9": "Eleven kan särskilja centrala förutsättningar i anknytning till en hållbar framtid för naturen och samhället samt beskriva och bedöma sätt att lokalt och globalt påverka framtida problem."
+      }
+    },
+    {
+      "id": "M10",
+      "goalText": "vägleda eleven att inse betydelsen av och den etiska grunden för människovärdet, de mänskliga rättigheterna och människors jämlikhet",
+      "assessmentTarget": "Kännedom om människorättsetik",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan beskriva faktorer i anknytning till människovärdet eller de mänskliga rättigheterna.",
+        "7": "Eleven kan nämna några begrepp i anknytning till de mänskliga rättigheterna och jämlikhet och redogöra för betydelsen av de mänskliga rättigheterna.",
+        "8": "Eleven kan förklara de viktigaste begreppen i anknytning till de mänskliga rättigheterna och jämlikhet och ge exempel på verkställande av de mänskliga rättigheterna under historiens gång.",
+        "9": "Eleven kan förklara de viktigaste begreppen i anknytning till de mänskliga rättigheterna och jämlikhet och ge exempel på verkställande av de mänskliga rättigheterna under historiens gång samt motivera betydelsen av de mänskliga rättigheterna."
+      }
+    }
+  ]
+}

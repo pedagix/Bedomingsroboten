@@ -1,0 +1,162 @@
+{
+  "subjectId": "bildkonst",
+  "subjectName": "Bildkonst",
+  "gradeCategory": "7-9",
+  "notes": null,
+  "goals": [
+    {
+      "id": "M1",
+      "goalText": "sporra eleven att iaktta konst, omgivningen och annan visuell kultur med olika sinnen och använda mångsidiga metoder i bildframställning",
+      "assessmentTarget": "Förmåga att iaktta konst, omgivningen och annan visuell kultur",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven gör iakttagelser under individuell handledning.",
+        "7": "Eleven använder några metoder i bildframställning då hen gör iakttagelser.",
+        "8": "Eleven använder flera metoder i bildframställning och olika sinnen då hen gör iakttagelser.",
+        "9": "Eleven använder metoder i bildframställning ändamålsenligt och mångsidigt då hen gör iakttagelser. Årskurs 79 Årskurs"
+      }
+    },
+    {
+      "id": "M2",
+      "goalText": "uppmuntra eleven att diskutera sina egna och andras iakttagelser och tankar samt att motivera sina åsikter",
+      "assessmentTarget": "Förmåga att verbalt reflektera över iakttagelser och tankar",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan inför läraren sätta ord på någon av sina iakttagelser muntligt eller skriftligt.",
+        "7": "Eleven bidrar med några av sina iakttagelser och tankar till den gemensamma diskussionen.",
+        "8": "Eleven deltar på eget initiativ i diskussionerna och motiverar sina tankar.",
+        "9": "Eleven deltar i diskussionerna genom att tydligt motivera sina åsikter och på ett uppbyggande sätt tolka de andra deltagarnas inlägg."
+      }
+    },
+    {
+      "id": "M3",
+      "goalText": "inspirera eleven att ge uttryck för sina iakttagelser och tankar i bild genom att använda olika tekniker och metoder för att skapa information i olika miljöer",
+      "assessmentTarget": "Förmåga att uttrycka iakttagelser och tankar i bild",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven uttrycker under konkret handledning några iakttagelser och tankar i bild.",
+        "7": "Eleven uttrycker sina iakttagelser och tankar i bild. Eleven använder även någon annan metod för att skapa information när hen uttrycker sig i bild.",
+        "8": "Eleven uttrycker sina iakttagelser och tankar i bild. Eleven använder även andra metoder för att skapa information när hen uttrycker sig i bild.",
+        "9": "Eleven fördjupar sin förmåga att uttrycka sina iakttagelser och tankar i bild. Eleven använder mångsidigt andra metoder för att skapa information när hen uttrycker sig i bild."
+      }
+    },
+    {
+      "id": "M4",
+      "goalText": "handleda eleven att använda olika material, tekniker och uttryckssätt och att fördjupa sin förmåga att skapa bilder",
+      "assessmentTarget": "Förmåga att utveckla sina färdigheter att uttrycka sig i bild",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven prövar på att använda något material eller någon teknik.",
+        "7": "Eleven övar på olika sätt att uttrycka sig i bild och använder några av dem målmedvetet.",
+        "8": "Eleven använder målmedvetet olika sätt för att uttrycka sig i bild.",
+        "9": "Eleven tillämpar målmedvetet och ändamålsenligt olika sätt för att uttrycka sig i bild."
+      }
+    },
+    {
+      "id": "M5",
+      "goalText": "handleda eleven att tillämpa ett undersökande arbetssätt när hen skapar bilder självständigt eller tillsammans med andra",
+      "assessmentTarget": "Förmåga att arbeta på ett undersökande sätt och använda sin problemlösningsförmåga",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven övar under handledning på att arbeta på ett undersökande sätt.",
+        "7": "Eleven övar på att använda ett undersökande arbetssätt när hen arbetar själv eller i grupp.",
+        "8": "Eleven använder ett undersökande arbetssätt när hen arbetar själv eller i grupp.",
+        "9": "Eleven använder målmedvetet ett undersökande arbetssätt i eget arbete och tillsammans med andra."
+      }
+    },
+    {
+      "id": "M6",
+      "goalText": "uppmuntra eleven att uttrycka sina åsikter och att tillämpa visuella kommunikations och uttryckssätt för att påverka i sina egna bilder",
+      "assessmentTarget": "Förmåga att påverka med hjälp av bilder",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven identifierar och prövar på möjligheterna att kommunicera med hjälp av bilder.",
+        "7": "Eleven använder några visuella kommunikationssätt för att uttrycka sina åsikter.",
+        "8": "Eleven uttrycker med hjälp av visuella kommunikationssätt sina åsikter om frågor som är betydelsefulla för hen själv.",
+        "9": "Eleven deltar i och påverkar omgivningen genom att tillämpa visuella kommunikationssätt."
+      }
+    },
+    {
+      "id": "M7",
+      "goalText": "handleda eleven att använda olika visuella, verbala och andra metoder för att tolka bilder",
+      "assessmentTarget": "Förmåga att tillämpa olika metoder för att tolka bilder",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven prövar under handledning på någon metod för att tolka bilder.",
+        "7": "Eleven prövar på metoder för att tolka bilder och använder några av dem.",
+        "8": "Eleven använder olika metoder för att tolka bilder.",
+        "9": "Eleven tillämpar mångsidigt olika metoder för att tolka bilder."
+      }
+    },
+    {
+      "id": "M8",
+      "goalText": "handleda eleven att granska vilken betydelse konst och annan visuell kultur har för individen, gruppen och samhället ur ett historiskt och kulturellt perspektiv",
+      "assessmentTarget": "Förmåga att granska betydelsen av visuell kultur",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven känner igen och nämner någon betydelse som visuell kultur har.",
+        "7": "Eleven granskar några betydelser som visuell kultur har och tar del av diskussionen som förs om dem.",
+        "8": "Eleven deltar med sina tolkningar i diskussioner om vilken betydelse visuell kultur har.",
+        "9": "Eleven motiverar sina synpunkter om betydelsen av visuell kultur."
+      }
+    },
+    {
+      "id": "M9",
+      "goalText": "inspirera eleven att i sitt bildskapande använda sig av olika tiders och kulturers sätt att uttrycka sig i bild",
+      "assessmentTarget": "Förmåga att känna till och tillämpa olika kulturers sätt att uttrycka sig i bild",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven prövar under handledning på att använda en specifik kulturs sätt att uttrycka sig i bild.",
+        "7": "Eleven bekantar sig under handledning med olika kulturers sätt att uttrycka sig i bild och använder dem i sin bildframställning.",
+        "8": "Eleven utvecklar sin kännedom om olika kulturers sätt att uttrycka sig i bild genom att tillämpa dem i sin bildframställning.",
+        "9": "Eleven utvecklar sin kännedom om olika kulturers sätt att uttrycka sig i bild genom att tillämpa dem i sin bildframställning och genom att motivera sina lösningar."
+      }
+    },
+    {
+      "id": "M10",
+      "goalText": "handleda eleven att ta ställning till värden som finns i konsten, omgivningen och i annan visuell kultur",
+      "assessmentTarget": "Förmåga att ta ställning till värden som finns i visuell kultur",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven känner igen och nämner något värde som finns i visuell kultur.",
+        "7": "Eleven nämner och reflekterar över värden som finns i visuell kultur.",
+        "8": "Eleven tar ställning till diskussionen om värden som finns i visuell kultur.",
+        "9": "Eleven deltar i diskussionen om värden som finns i visuell kultur och motiverar sina synpunkter."
+      }
+    },
+    {
+      "id": "M11",
+      "goalText": "uppmuntra eleven att beakta kulturell mångfald och hållbar utveckling i sitt bildskapande samt att påverka genom bilder",
+      "assessmentTarget": "Förmåga att uttrycka sina egna värderingar med hjälp av bilder",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven tar i beaktande någon synvinkel som berör kulturell mångfald eller hållbar utveckling i sina bilder.",
+        "7": "Eleven tar i beaktande olika synvinklar som berör kulturell mångfald och hållbar utveckling i sina bilder.",
+        "8": "Eleven granskar kulturell mångfald och hållbar utveckling i sina bilder samt inser möjligheterna att påverka med hjälp av bilder.",
+        "9": "Eleven uttrycker sina åsikter om frågor som anknyter till kulturell mångfald och hållbar utveckling samt påverkar med hjälp av bilder."
+      }
+    }
+  ]
+}

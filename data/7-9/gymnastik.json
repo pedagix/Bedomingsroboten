@@ -1,0 +1,175 @@
+{
+  "subjectId": "gymnastik",
+  "subjectName": "Gymnastik",
+  "gradeCategory": "7-9",
+  "notes": null,
+  "goals": [
+    {
+      "id": "M1",
+      "goalText": "uppmuntra eleven att röra på sig, att pröva olika gymnastikformer och att träna enligt bästa förmåga",
+      "assessmentTarget": "Fysisk aktivitet och vilja att försöka",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven deltar sporadiskt och endast till vissa delar i verksamheten under gymnastiklektionerna.",
+        "7": "Eleven deltar i gymnastiklektionerna och prövar på olika gymnastikformer.",
+        "8": "Eleven deltar vanligtvis aktivt i verksamheten under gymnastiklektionerna och prövar och tränar olika gymnastikformer.",
+        "9": "Eleven deltar aktivt och tränar de gymnastikformer som undervisas."
+      }
+    },
+    {
+      "id": "M2",
+      "goalText": "handleda eleven att träna sina sensomotoriska färdigheter, det vill säga att iaktta sig själv och sin omgivning med hjälp av olika sinnen och att välja lämpliga lösningar i olika gymnastiksituationer",
+      "assessmentTarget": "Förmåga att välja lösningar i olika gymnastiksituationer",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan berätta om några av sina iakttagelser och kan med lärarens hjälp använda dem i sin egen aktivitet.",
+        "7": "Eleven förstår sina iakttagelser och kan berätta om dem och koppla dem till sin egen aktivitet.",
+        "8": "Eleven väljer oftast ändamålsenliga lösningar i olika gymnastiksituationer utgående från sina iakttagelser.",
+        "9": "Eleven väljer ändamålsenliga iakttagelser som grund för sina lösningar, kan motivera sina lösningar och anpassar sin fysiska aktivitet i enlighet med dem."
+      }
+    },
+    {
+      "id": "M3",
+      "goalText": "handleda eleven att träna och utveckla sin balans och rörelseförmåga så att hen kan använda, kombinera och tillämpa sina färdigheter på ett mångsidigt sätt i olika lärmiljöer, under olika årstider och i olika gymnastikformer",
+      "assessmentTarget": "Förmåga att använda grundläggande motoriska färdigheter (balans- och rörelsefärdigheter) i olika gymnastikformer",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan använda och kombinera sina balans och rörelsefärdigheter i några gymnastikformer som undervisats.",
+        "7": "Eleven kan använda och kombinera sina balans och rörelsefärdigheter i de flesta gymnastikformer som undervisats.",
+        "8": "Eleven kan använda, kombinera och tillämpa sina balans och rörelsefärdigheter i de flesta gymnastikformer som undervisats.",
+        "9": "Eleven använder, kombinerar och tillämpar sina balans och rörlighetsfärdigheter i de gymnastikformer som undervisats."
+      }
+    },
+    {
+      "id": "M4",
+      "goalText": "handleda eleven att träna och utveckla sina färdigheter att hantera redskap, så att hen kan använda, kombinera och tillämpa sina färdigheter på ett mångsidigt sätt i olika lärmiljöer, med olika redskap, under olika årstider och i olika gymnastikformer",
+      "assessmentTarget": "Förmåga att använda grundläggande motoriska färdigheter (förmåga att hantera redskap) i olika gymnastikformer",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan använda sina färdigheter att hantera redskap i några gymnastikformer som undervisats.",
+        "7": "Eleven kan använda och kombinera sina färdigheter att hantera redskap i de flesta gymnastikformer som undervisats.",
+        "8": "Eleven kan använda, kombinera och tillämpa sina färdigheter att hantera redskap i de flesta gymnastikformer som undervisats.",
+        "9": "Eleven använder, kombinerar och tillämpar sina färdigheter att hantera redskap i de gymnastikformer som undervisats."
+      }
+    },
+    {
+      "id": "M5",
+      "goalText": "uppmuntra och handleda eleven att utvärdera, upprätthålla och utveckla sina fysiska egenskaper: snabbhet, rörlighet, uthållighet och styrka",
+      "assessmentTarget": "Förmåga att utvärdera, upprätthålla och utveckla fysiska egenskaper",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan nämna några av utvärderingsmetoderna för de fysiska egenskaperna och kan träna sina egenskaper under handledning av någon annan.",
+        "7": "Eleven kan nämna och välja metoder som lämpar sig för utvärderingen av olika fysiska egenskaper och tränar självständigt några av sina fysiska egenskaper.",
+        "8": "Eleven kan utvärdera sina fysiska egenskaper och på basis av utvärderingen träna snabbhet, rörlighet, uthållighet och styrka.",
+        "9": "Eleven identifierar sina egna styrkor och svagheter och kan på basis av sina iakttagelser upprätthålla och utveckla sina fysiska egenskaper."
+      }
+    },
+    {
+      "id": "M6",
+      "goalText": "stärka simkunnigheten och livräddningsfärdigheterna så att eleven kan simma samt rädda sig själv och andra ur vattnet",
+      "assessmentTarget": "Simkunnighet och livräddningsfärdigheter",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan simma 10 meter.",
+        "7": "Eleven simmar 50 meter på två olika simsätt och dyker 5 meter.",
+        "8": "Eleven kan simma* och rädda sig själv och andra ur vattnet. (*nordiska kriterier för simkunnighet)",
+        "9": "Eleven kan simma obehindrat på två simsätt och kan rädda sig själv och andra ur vattnet på olika sätt."
+      }
+    },
+    {
+      "id": "M7",
+      "goalText": "handleda eleven att agera tryggt och sakligt",
+      "assessmentTarget": "Trygg aktivitet under gymnastiklektionerna",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan berätta hur man agerar på ett tryggt och sakligt sätt samt agerar och utrustar sig vanligtvis enligt instruktionerna.",
+        "7": "Eleven förstår riskfaktorer som hör samman med säkerheten och agerar på ett tryggt sätt samt har ändamålsenlig utrustning under lektionerna.",
+        "8": "Eleven agerar på ett tryggt och sakligt sätt under gymnastiklektionerna.",
+        "9": "Eleven agerar på ett tryggt och sakligt sätt och främjar tryggheten och säkerheten under gymnastiklektionerna."
+      }
+    },
+    {
+      "id": "M8",
+      "goalText": "handleda eleven att arbeta tillsammans med alla andra och att reglera sina handlingar och känslouttryck i gymnastiksituationerna med hänsyn till andra",
+      "assessmentTarget": "Emotionella och kommunikativa färdigheter samt arbetsförmåga",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven arbetar tillsammans med människor hen själv valt och reglerar sina handlingar och sina känslor så att hen kan arbeta tillsammans med andra i gymnastiksituationerna.",
+        "7": "Eleven arbetar tillsammans med alla.",
+        "8": "Eleven arbetar i olika gymnastiksituationer på överenskommet sätt och tar hänsyn till andra.",
+        "9": "Eleven arbetar tillsammans med alla och främjar gruppens aktivitet och lärande."
+      }
+    },
+    {
+      "id": "M9",
+      "goalText": "handleda eleven att agera enligt principen om rent spel och bära ansvar för gemensamma aktiviteter",
+      "assessmentTarget": "Förmåga att ta ansvar i gemensamma aktiviteter",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan nämna principer om rent spel och tar sporadiskt ansvar för gemensamma aktiviteter.",
+        "7": "Eleven följer principerna om rent spel och ger de övriga arbetsro.",
+        "8": "Eleven följer principerna om rent spel och visar att hen tar ansvar för gemensamma aktiviteter.",
+        "9": "Eleven tar ansvar för och främjar de gemensamma aktiviteterna."
+      }
+    },
+    {
+      "id": "M10",
+      "goalText": "uppmuntra eleven att ta ansvar för sina handlingar och stärka elevens förmåga att arbeta självständigt",
+      "assessmentTarget": "Förmåga att arbeta självständigt",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan berätta hur man kan ta ansvar för sina egna handlingar och tar ansvar under handledning av läraren.",
+        "7": "Eleven tar ansvar för sina egna handlingar och kan tidvis arbeta självständigt.",
+        "8": "Eleven arbetar vanligtvis ansvarsfullt och självständigt.",
+        "9": "Eleven arbetar ansvarsfullt och självständigt."
+      }
+    },
+    {
+      "id": "M11",
+      "goalText": "se till att eleven får tillräckligt med positiva upplevelser av sin egen kropp, av att kunna och av att vara en del av gemenskapen",
+      "assessmentTarget": null,
+      "assessable": false,
+      "message": "Används inte som grund för bildandet av vitsord.",
+      "notes": "Eleven handleds att reflektera över sina erfarenheter som en del av självvärderingen.",
+      "criteria": {}
+    },
+    {
+      "id": "M12",
+      "goalText": "hjälpa eleven att förstå vilken betydelse tillräcklig fysisk aktivitet och en motionsinriktad livsstil har för det totala välbefinnandet",
+      "assessmentTarget": null,
+      "assessable": false,
+      "message": "Används inte som grund för bildandet av vitsord.",
+      "notes": "Eleven handleds att reflektera över sina erfarenheter som en del av självvärderingen.",
+      "criteria": {}
+    },
+    {
+      "id": "M13",
+      "goalText": "göra eleven bekant med olika vanliga motionsmöjligheter samt ge eleven kunskaper och färdigheter som hör samman med dem så att hen ska kunna hitta egna lämpliga motionsformer som ger glädje, avslappning och energi",
+      "assessmentTarget": null,
+      "assessable": false,
+      "message": "Används inte som grund för bildandet av vitsord.",
+      "notes": "Eleven handleds att reflektera över sina erfarenheter som en del av självvärderingen.",
+      "criteria": {}
+    }
+  ]
+}

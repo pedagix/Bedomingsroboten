@@ -1,0 +1,124 @@
+{
+  "subjectId": "samhallslara",
+  "subjectName": "Samhällslära",
+  "gradeCategory": "7-9",
+  "notes": null,
+  "goals": [
+    {
+      "id": "M1",
+      "goalText": "handleda eleven att stärka sitt intresse för det omgivande samhället och för samhällskunskap som vetenskapsområde",
+      "assessmentTarget": null,
+      "assessable": false,
+      "message": "Används inte som grund för bildandet av vitsord.",
+      "notes": "Eleven handleds att reflektera över sina erfarenheter som en del av självvärderingen.",
+      "criteria": {}
+    },
+    {
+      "id": "M2",
+      "goalText": "hjälpa eleven att utveckla sin etiska förståelse och omdömesförmåga i olika mänskliga, samhälleliga och ekonomiska frågor",
+      "assessmentTarget": null,
+      "assessable": false,
+      "message": "Används inte som grund för bildandet av vitsord.",
+      "notes": "Eleven handleds att reflektera över sina erfarenheter som en del av självvärderingen.",
+      "criteria": {}
+    },
+    {
+      "id": "M3",
+      "goalText": "handleda eleven att förstå rättsstatliga principer och betydelsen av människorättsfrågor i ett globalt perspektiv samt fördjupa sina kunskaper om hur det finländska rättssystemet fungerar",
+      "assessmentTarget": "Förmåga att förstå rättsstatliga principer och hur de fungerar, samt att förstå de mänskliga rättigheterna",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Utgående från exempel känner eleven igen mänskliga rättigheter och centrala aktörer och principer i anknytning till rättsväsendet.",
+        "7": "Eleven beskriver mänskliga rättigheter, centrala aktörer och verksamhetsprinciper inom rättsväsendet. Eleven kan under handledning hitta information om lag och rätt.",
+        "8": "Eleven redogör för hur principerna för mänskliga rättigheter och rättsstaten framkommer i Finland och i världen. Eleven hämtar och redogör för information om lag och rätt med hjälp av ändamålsenliga informationskällor.",
+        "9": "Eleven bedömer förverkligandet av mänskliga rättigheter och rättsstatliga principer i samhället. Eleven använder informationskällor i anknytning till lag och rätt i uppgifter som kräver problemlösning."
+      }
+    },
+    {
+      "id": "M4",
+      "goalText": "handleda eleven i att fördjupa och uppdatera sina kunskaper och färdigheter i fråga om samhälle, ekonomisk verksamhet och privat hushållning och kritiskt värdera mediernas roll och betydelse",
+      "assessmentTarget": "Kunskaper och färdigheter som gäller samhälle, medier, ekonomi och hushållning.",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven känner under handledning igen faktorer som anknyter till samhälle och ekonomi. Med hjälp av handledning hittar eleven information om samhälle och ekonomi ur källor som hen får och ger under handledning ett exempel på mediernas verksamhet som förmedlare av information.",
+        "7": "Eleven beskriver med hjälp av exempel fenomen och verksamhet i samhället och ekonomin. Eleven hittar information om samhälle och ekonomi ur olika källor och upptäcker skillnader i informationen i olika källor. Eleven beskriver mediernas påverkan i elevens eget liv och i samhället.",
+        "8": "Eleven hämtar information om samhälle och ekonomi ur olika källor och jämför informationen. Eleven redogör för mediernas roll i individens liv och dess verksamhet som en del i den offentliga diskussionen.",
+        "9": "Eleven hämtar och presenterar information om samhälle och ekonomi kritiskt och på ett sätt som beaktar olika synpunkter. Eleven bedömer kritiskt mediernas verksamhet och mediepåverkan i samhället. Årskurs 79 Årskurs"
+      }
+    },
+    {
+      "id": "M5",
+      "goalText": "uppmuntra eleven att utvecklas till en företagsam och ansvarsfull ekonomisk aktör, som har insikt i entreprenörskap och arbetsliv, känner till vilka möjligheter det erbjuder och kan planera sin egen framtid",
+      "assessmentTarget": "Förmåga att använda och tillämpa färdigheter i anknytning till entreprenörskap och arbetsliv",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven känner under handledning igen skillnaderna mellan lönearbete och entreprenörskap och yrken som representerar lönearbete och entreprenörskap.",
+        "7": "Eleven beskriver utmärkande drag för lönearbete och entreprenörskap. Eleven redogör för vilka möjligheter lönearbete respektive entreprenörskap erbjuder individen.",
+        "8": "Eleven beskriver lönearbetets och entreprenörskapets ställning i samhället. Eleven jämför de möjligheter som lönearbete respektive entreprenörskap erbjuder individen.",
+        "9": "Eleven analyserar lönearbetets och entreprenörskapets betydelse i samhället. Eleven bedömer betydelsen av lönearbete respektive entreprenörskap för individen."
+      }
+    },
+    {
+      "id": "M6",
+      "goalText": "handleda eleven att studera olika samhällsaktiviteter, sammanknytningar och minoritetsgrupper på ett mångsidigt och fördomsfritt sätt",
+      "assessmentTarget": "Förmåga att mångsidigt granska olika gemenskaper och befolkningsgrupper.",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven känner med hjälp av exempel igen gemenskaper och minoritetsgrupper i det finländska samhället.",
+        "7": "Eleven beskriver olika gemenskaper och minoritetsgrupper och deras ställning i det finländska samhället.",
+        "8": "Eleven redogör för faktorer i samhället som påverkar olika befolkningsgrupper.",
+        "9": "Eleven bedömer sätt på vilka man kan stödja olika befolkningsgruppers likvärdighet i samhället."
+      }
+    },
+    {
+      "id": "M7",
+      "goalText": "handleda eleven att förstå principerna för samhälleligt beslutsfattande och demokratiska förfaringssätt på lokal och nationell nivå, inom Europeiska unionen och globalt samt att fungera som en aktiv medborgare som utvecklar sitt närsamhälle",
+      "assessmentTarget": "Kännedom om och tillämpning av principerna för samhälleligt beslutsfattande och demokratiska förfaringssätt",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven känner under handledning igen kännetecken för demokratiskt beslutsfattande. Eleven visar med hjälp av exempel hur ett demokratiskt beslutsfattande framkommer i det egna närsamhället.",
+        "7": "Eleven beskriver och förklarar kännetecken för demokratiskt beslutsfattande på lokal nivå, nationellt och inom den Europeiska unionen. Eleven beskriver på vilka olika sätt demokratiska verksamhetsprinciper kan genomföras i det egna närsamhället.",
+        "8": "Eleven redogör för hur olika former för beslutsfattande främjar demokrati och hur demokratiskt beslutsfattande stöds på lokal och nationell nivå, inom den Europeiska unionen och globalt. Eleven använder demokratiska verksamhetsprinciper i det egna närsamhället.",
+        "9": "Utgående från givet material bedömer eleven hur målen för demokrati uppfylls i beslutsfattandet på olika nivåer. Eleven använder på ett mångsidigt sätt demokratiska verksamhetsprinciper i det egna närsamhället och skapar och motiverar förslag till hur de kan utvecklas."
+      }
+    },
+    {
+      "id": "M8",
+      "goalText": "handleda eleven att förstå grunderna i ekonomiförvaltning, att kunna hantera sin egen ekonomi och att konsumera ansvarsfullt och i enlighet med principerna för hållbar utveckling",
+      "assessmentTarget": "Förmåga att förstå och tillämpa ansvarsfull ekonomisk verksamhet",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Oppilas osoittaa ohjatusti tuntevansa joitakin taloudellisen toiminnan muotoja (kuten kuluttaminen, säästäminen). Oppilas osoittaa tunnistavansa ohjatusti yksilön keinoja vaikuttaa kestävään tulevaisuuteen. (Svensk översättning fatts vid skapandet av bedömningsroboten)",
+        "7": "Eleven förklarar vilken betydelse olika former av ekonomisk verksamhet har för privat ekonomi. Eleven beskriver krav som en hållbar framtid ställer på hushålls och nationalekonomin samt på skötseln av privat ekonomi.",
+        "8": "Eleven beskriver vilken betydelse olika former av ekonomisk verksamhet har för nationalekonomin. Eleven redogör för krav som en hållbar framtid ställer på hushålls och nationalekonomin samt på skötseln av privat ekonomi.",
+        "9": "Eleven motiverar åtgärder som främjar hållbar framtid och bedömer vilken inverkan de har på hushåll och nationalekonomier. Utgående från givet material bedömer eleven planer i anknytning till privat ekonomi utgående från ett hållbart ekonomiskt perspektiv."
+      }
+    },
+    {
+      "id": "M9",
+      "goalText": "handleda eleven att vidga sitt samhällsperspektiv, engagera sig i samhällelig verksamhet och diskussion samt använda sina medie och samhällskunskaper då hen bildar sig egna uppfattningar och agerar som medborgare",
+      "assessmentTarget": "Tillämpa samhälleligt tänkande och färdigheter i att delta och påverka samt mediefärdigheter",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven ger under handledning exempel på olika sätt att delta och påverka i samhället. Eleven tar ställning i en samhällsfråga..",
+        "7": "Eleven ger exempel på sätt att delta och påverka i samhället. Eleven motiverar åsikter i samhälleliga frågor.",
+        "8": "Eleven deltar i behandlingen av samhällspolitiska frågor och jämför olika sätt att påverka. Eleven motiverar åsikter i samhälleliga frågor på ett mångsidigt sätt.",
+        "9": "Eleven deltar konstruktivt i behandlingen av samhällspolitiska frågor och utvärderar de diskussioner som förts."
+      }
+    }
+  ]
+}

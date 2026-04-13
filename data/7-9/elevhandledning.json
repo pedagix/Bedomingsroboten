@@ -1,0 +1,98 @@
+{
+  "subjectId": "elevhandledning",
+  "subjectName": "Elevhandledning",
+  "gradeCategory": "7-9",
+  "notes": null,
+  "goals": [
+    {
+      "id": "M1",
+      "goalText": "hjälpa eleven att bilda sig en helhetsuppfattning om arbetssätten och studiemiljön i årskurs 7-9, utveckla elevens beredskap att studera i denna miljö och i olika grupper samt stödja eleven att handla självständigt och ta ansvar för sina studier och val",
+      "assessmentTarget": null,
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {}
+    },
+    {
+      "id": "M2",
+      "goalText": "uppmuntra och vägleda eleven att utveckla sin studiefärdighet och förmåga att lära sig",
+      "assessmentTarget": null,
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {}
+    },
+    {
+      "id": "M3",
+      "goalText": "skapa förutsättningar som främjar elevens vilja att lära sig, förmåga att bedöma sitt kunnande, att identifiera och utnyttja sina färdigheter och styrkor, förmåga att inse vad hen behöver lära sig och att vid behov ändra sina planer och handlingsmodeller",
+      "assessmentTarget": null,
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {}
+    },
+    {
+      "id": "M4",
+      "goalText": "göra eleven medveten om faktorer som påverkar hens val och hjälpa hen att anpassa sig till sin förmåga, sina förutsättningar och intressen",
+      "assessmentTarget": null,
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {}
+    },
+    {
+      "id": "M5",
+      "goalText": "lära eleven att ställa upp både kortsiktiga och långsiktiga mål, utarbeta planer för att uppnå målen och utvärdera hur målen uppnåtts",
+      "assessmentTarget": null,
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {}
+    },
+    {
+      "id": "M6",
+      "goalText": "hjälpa eleven att förstå arbetets betydelse för hens eget liv och för samhället samt att förstå olika läroämnens betydelse för framtida studier och för färdigheter som behövs i arbetslivet",
+      "assessmentTarget": null,
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {}
+    },
+    {
+      "id": "M7",
+      "goalText": "handleda eleven att utveckla sin förmåga att bedöma vilken kompetens och vilka sociala och kommunikativa färdigheter som behövs i olika arbetsuppgifter, vilka yrken som passar hen och att stärka sin förmåga att söka information om hur man efter den grundläggande utbildningen kan inhämta den kompetens som krävs",
+      "assessmentTarget": null,
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {}
+    },
+    {
+      "id": "M8",
+      "goalText": "ge eleven och vårdnadshavarna information om huvuddragen och möjligheterna i Finlands utbildningssystem, stödja elevens förmåga att söka information om utbildning och arbetsliv både i Finland och utomlands",
+      "assessmentTarget": null,
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {}
+    },
+    {
+      "id": "M9",
+      "goalText": "vägleda eleven att använda informations, rådgivnings och handledningstjänster via många kanaler samt att vid planeringen av sin framtida karriär bedöma hur tillförlitlig och ändamålsenlig information som inhämtats via olika källor är",
+      "assessmentTarget": null,
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {}
+    },
+    {
+      "id": "M10",
+      "goalText": "stödja elevens förmåga att uppfatta sin kulturella bakgrund och att komma till rätta i möten och samarbetssituationer med olika kulturer, handleda eleven att inhämta och tillägna sig kunskap om möjligheterna att studera i multinationella arbetsmiljöer och utomlands",
+      "assessmentTarget": null,
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {}
+    }
+  ]
+}

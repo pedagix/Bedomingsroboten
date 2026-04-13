@@ -1,0 +1,180 @@
+{
+  "subjectId": "geografi",
+  "subjectName": "Geografi",
+  "gradeCategory": "7-9",
+  "notes": null,
+  "goals": [
+    {
+      "id": "M1",
+      "goalText": "stödja eleven att skapa en strukturerad kartbild av jordklotet",
+      "assessmentTarget": "Förmåga att uppfatta jordklotets kartbild och känna till centrala ortnamn",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan berätta om skillnaden mellan en världsdel och ett land. Eleven benämner världshaven och världsdelarna på kartan.",
+        "7": "Eleven kan benämna några städer och centrala platser i Finland samt länder i Europa och övriga världen samt känner till de nämnda platsernas och ländernas geografiska läge.",
+        "8": "Eleven kan huvuddragen i en kartbild av jordklotet, såsom bergskedjor, halvöar, sund, havsområden samt känner till de centrala platsernas geografiska läge och ortnamn.",
+        "9": "Eleven kan använda huvuddragen i en kartbild ändamålsenligt, som att tillämpa platsernas geografiska läge och namn för att beskriva och förklara geografiska fenomen."
+      }
+    },
+    {
+      "id": "M2",
+      "goalText": "handleda eleven att undersöka naturgeografiska fenomen samt att jämföra naturlandskap i Finland och på andra håll i världen",
+      "assessmentTarget": "Kännedom om naturgeografiska fenomen",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan ge exempel på fenomen som orsakas av jordklotets form och rörelser. Eleven benämner olika naturlandskap.",
+        "7": "Eleven kan med hjälp av exempel berätta om fenomen som orsakas av jordklotets form och rörelser. Eleven benämner och ger exempel på några klimat och vegetationszoner. Eleven känner igen och beskriver naturlandskap i Finland och på jordklotet.",
+        "8": "Eleven kan med hjälp av exempel förklara fenomen som orsakas av jordklotets form och rörelser. Eleven benämner och placerar jordklotets mest centrala klimat och vegetationszoner på kartan och berättar om några faktorer som bidragit till att zonerna uppstått. Eleven ger exempel på faktorer i Finland och på jordklotet som bidragit till att naturlandskapen uppstått.",
+        "9": "Eleven förstår Jordens planetariska egenskaper och kan förklara fenomen som orsakas av jordklotets form och rörelser samt berättar hur dessa påverkar människans verksamhet. Eleven kan jämföra jordklotets mest centrala klimat och vegetationszoner och förklara de faktorer som bidragit till att zonerna uppstått. Eleven förklarar de faktorer i Finland och på jordklotet som bidragit till att naturlandskapen uppstått."
+      }
+    },
+    {
+      "id": "M3",
+      "goalText": "handleda eleven att undersöka kulturgeografiska fenomen och kulturlandskap samt att förstå olika kulturer, näringsgrenar och människors liv i Finland och i olika områden i världen",
+      "assessmentTarget": "Kännedom om kulturgeografiska fenomen",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan benämna några kulturgeografiska fenomen som befolkning, näringar, trafikformer och turism i Finland och i övriga världen.",
+        "7": "Eleven kan benämna och ge exempel på kulturgeografiska fenomen i Finland och i övriga världen. Eleven nämner några faktorer som inverkar på kulturernas särdrag. Eleven beskriver olika kulturlandskap.",
+        "8": "Eleven kan berätta om kulturgeografiska fenomen i Finland och i andra delar av världen. Eleven berättar om vilka faktorer som påverkar kulturernas särdrag på olika områden. Eleven jämför kulturlandskap i olika områden.",
+        "9": "Eleven kan förklara olika kulturgeografiska fenomen i Finland och i andra delar av världen samt motivera de faktorer som bidragit till deras uppkomst. Eleven beskriver variationen i kulturernas särdrag i Finland och i andra delar av världen. Eleven förklarar vilka faktorer som bidrar till uppkomsten av kulturlandskap i Finland och i andra delar av världen."
+      }
+    },
+    {
+      "id": "M4",
+      "goalText": "uppmuntra eleven att reflektera över samspelet mellan människan och naturen samt att förstå betydelsen av en hållbar användning av naturresurser",
+      "assessmentTarget": "Insikt om samspelet mellan naturen och människan samt hållbart bruk av naturresurser",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan känna igen hur naturmiljön påverkar mänsklig verksamhet såsom näringar. Eleven nämner olika naturresurser.",
+        "7": "Eleven kan beskriva hur naturmiljön påverkar människans verksamhet. Eleven klassificerar naturresurser ur ett hållbarhetsperspektiv.",
+        "8": "Eleven kan berätta hur naturmiljön påverkar människans verksamhet i Finland och på olika håll i världen. Eleven berättar varför det är viktigt att använda naturresurser på ett hållbart sätt.",
+        "9": "Eleven kan förklara hur naturmiljön påverkar människans verksamhet samt nämner regionala exempel på det. Eleven motiverar hur mänsklig verksamhet orsakar olika miljöproblem. Eleven kan förklara hur hållbar användning av naturresurser och miljöproblem förhåller sig till varandra och motivera en hållbar användning av naturresurser."
+      }
+    },
+    {
+      "id": "M5",
+      "goalText": "handleda eleven att utveckla sin förmåga att tänka geografiskt och att ställa geografiska frågor",
+      "assessmentTarget": "Geografiskt tänkande",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan berätta om innebörden av centrala geografiska grundbegrepp. Eleven beskriver ett område utgående från kartor och bilder.",
+        "7": "Eleven kan definiera geografiska grundbegrepp. Eleven identifierar olika regionala nivåer, såsom den egna närmiljön, kommunen, Finland, Europa och hela världen. Eleven beskriver ett område på basis av kartor och bilder. Eleven skapar enkla geografiska frågor som hänför sig till det granskade temaområdet.",
+        "8": "Eleven kan beskriva fenomen genom att använda geografiska grundbegrepp. Eleven beskriver skillnader mellan olika områden på några regionala nivåer. Eleven ställer geografiska frågor och funderar ut svar på dem.",
+        "9": "Eleven kan förklara fenomen genom att använda sig av ändamålsenliga geografiska begrepp. Eleven jämför geografiska fenomen på olika regionala nivåer och beskriver orsaker till skillnaderna mellan områdena. Eleven ställer motiverade geografiska frågor och funderar ut svar på dem."
+      }
+    },
+    {
+      "id": "M6",
+      "goalText": "handleda eleven att utveckla sin rumsuppfattning samt förståelsen för symboler, proportioner, riktningar och avstånd",
+      "assessmentTarget": "Utveckling av rumsuppfattningen",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan väderstrecken. Eleven känner igen och benämner några symboler på en karta.",
+        "7": "Eleven kan uttrycka var ett objekt befinner sig med hjälp av väderstreck. Eleven känner igen och benämner symboler på en karta. Eleven mäter avstånd med hjälp av kartans grafiska skala.",
+        "8": "Eleven kan rikta en terrängkarta riktigt enligt terrängen och röra sig där med hjälp av kartan. Eleven mäter avstånd på kartan med hjälp av skalan uttryckt i ett förhållande.",
+        "9": "Eleven kan på ett ändamålsenligt sätt använda olika karttyper, flyg och satellitbilder."
+      }
+    },
+    {
+      "id": "M7",
+      "goalText": "handleda eleven att träna geomediala färdigheter i vardagen och att läsa, tolka och sammanställa kartor och andra modeller över geografiska fenomen",
+      "assessmentTarget": "Geomediafärdigheter",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan känna igen enkla objekt på kartor, diagram och bilder.",
+        "7": "Eleven kan tolka bilder, diagram, kartor och karttjänster över geografiska fenomen. Eleven gör enkla kartor och diagram.",
+        "8": "Eleven kan tolka bilder, diagram, kartor, karttjänster och annan geomedia över geografiska fenomen. Eleven gör kartor, diagram och andra geografiska modeller.",
+        "9": "Eleven kan dra slutsatser utgående från de kartor, diagram, annan geomedia och andra geografiska modeller hen gjort."
+      }
+    },
+    {
+      "id": "M8",
+      "goalText": "handleda eleven att utveckla geografiska undersökningsfärdigheter",
+      "assessmentTarget": "Geografiska undersökningsfärdigheter",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven deltar i genomförandet av en mindre undersökning och kan berätta vad man gjort i den.",
+        "7": "Eleven kan förverkliga en mindre geografisk undersökning. Eleven kan välja ett lämpligt sätt att presentera resultaten från undersökningen.",
+        "8": "Eleven kan genomföra en geografisk undersökning. Eleven åskådliggör sina resultat med hjälp av geomedia och presenterar resultaten på ett för geografin utmärkande sätt.",
+        "9": "Eleven kan genomföra en till sin struktur tydlig geografisk undersökning. Eleven åskådliggör och presenterar sina resultat mångsidigt med hjälp av geomedia och sammankopplar undersökningsresultaten med geografiska fenomen."
+      }
+    },
+    {
+      "id": "M9",
+      "goalText": "lära eleven att öva sig i att iaktta miljön och förändringar i miljön samt aktivera eleven att följa med aktuella händelser i sin närmiljö, i Finland och i hela världen",
+      "assessmentTarget": "Miljölitteracitet och förmåga att bedöma förändringar i miljön",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven deltar under handledning i fältundersökningar. Eleven känner igen förändringar i miljön.",
+        "7": "Eleven deltar självständigt i fältundersökningar enligt anvisning. Eleven kan iaktta miljöförändringar, såsom klimatförändring och att biodiversiteten försvagas i Finland och på andra håll i världen samt ge exempel på dessa. Eleven följer aktuella händelser i anknytning till geografiska fenomen.",
+        "8": "Eleven deltar i fältundersökningar och sammankopplar under lärarens handledning observationerna med det fenomen som behandlas. Eleven kan berätta om förändringar i miljön och nämner orsaker till de mest centrala miljöförändringarna. Eleven följer aktuella händelser i anknytning till geografiska fenomen och förklarar bakgrunden till några av händelserna.",
+        "9": "Eleven deltar i fältundersökningar och kopplar samman observationerna med det fenomen som behandlas. Eleven kan förklara orsaker som ligger bakom miljöförändringar. Eleven bedömer kritiskt hur geografiska händelser som hen följer med påverkar den egna närmiljön, Finland eller hela världen."
+      }
+    },
+    {
+      "id": "M10",
+      "goalText": "stödja eleven att utveckla sin förmåga att kommunicera och arbeta i grupp samt att argumentera och presentera geografiska data på ett tydligt sätt",
+      "assessmentTarget": "Förmåga att arbeta i grupp, att presentera geografisk information och att argumentera",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan under handledning fungera som en del av gruppen. Eleven kan skilja geografisk information från åsikter.",
+        "7": "Eleven kan fungera som en medlem i gruppen. Eleven framför geografisk information med egna ord. Eleven lyssnar på andras åsikter och framför sina egna åsikter kring geografiska frågor.",
+        "8": "Eleven kan fungera konstruktivt som medlem i en grupp. Eleven framför geografisk information på ett för läroämnet utmärkande sätt. Eleven framför argument för sina åsikter i geografiska frågor.",
+        "9": "Eleven kan fungera uppmuntrande som en medlem i gruppen. Eleven motiverar den geografiska information som hen framför. Eleven motiverar utgående från sina geografiska kunskaper konsekvent sina egna åsikter kring geografiska frågor."
+      }
+    },
+    {
+      "id": "M11",
+      "goalText": "handleda eleven att värna om naturen, den byggda miljön och mångfalden i dem samt stärka elevens förmåga att delta och påverka",
+      "assessmentTarget": "Förmåga att tillämpa färdigheterna att delta och påverka på olika regionala nivåer",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven deltar under handledning i att värna om närmiljön, som att förbättra trivseln och säkerheten eller att bevara miljöns mångfald.",
+        "7": "Eleven deltar i att värna om närmiljön. Eleven ger exempel på sätt att delta och att påverka närmiljön, globala fenomen och regionala utvecklingsfrågor.",
+        "8": "Eleven kan under handledning planera och deltar i att värna om närmiljön. Eleven förklarar hur man kan delta och påverka närmiljön, globala fenomen och regionala utvecklingsfrågor.",
+        "9": "Eleven kan planera metoder för att värna om närmiljön och förverkligar något av dem. Eleven jämför och bedömer olika sätt att delta och påverka närmiljön, globala fenomen och regionala utvecklingsfrågor."
+      }
+    },
+    {
+      "id": "M12",
+      "goalText": "stödja eleven att växa till en aktiv och ansvarsfull medborgare som tillägnar sig en hållbar livsstil",
+      "assessmentTarget": null,
+      "assessable": false,
+      "message": "Används inte som grund för bildandet av vitsord.",
+      "notes": "Eleven handleds att reflektera över sina erfarenheter som en del av självvärderingen.",
+      "criteria": {}
+    },
+    {
+      "id": "M13",
+      "goalText": "handleda eleven att värdesätta sin regionala identitet samt naturens, mänsklig och kulturell mångfald och att respektera mänskliga rättigheter överallt i världen",
+      "assessmentTarget": null,
+      "assessable": false,
+      "message": "Används inte som grund för bildandet av vitsord.",
+      "notes": "Eleven handleds att reflektera över sina erfarenheter som en del av självvärderingen.",
+      "criteria": {}
+    }
+  ]
+}

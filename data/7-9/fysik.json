@@ -1,0 +1,91 @@
+{
+  "subjectId": "fysik",
+  "subjectName": "Fysik",
+  "gradeCategory": "7-9",
+  "notes": null,
+  "goals": [
+    {
+      "id": "M1",
+      "goalText": "uppmuntra och inspirera eleven att studera fysik",
+      "assessmentTarget": null,
+      "assessable": false,
+      "message": "Används inte som grund för bildandet av vitsord.",
+      "notes": "Eleven handleds att reflektera över sina erfarenheter som en del av självvärderingen.",
+      "criteria": {}
+    },
+    {
+      "id": "M2",
+      "goalText": "handleda och uppmuntra eleven att analysera sina kunskaper i fysik, att ställa upp mål för sitt arbete och att arbeta långsiktigt",
+      "assessmentTarget": null,
+      "assessable": false,
+      "message": "Används inte som grund för bildandet av vitsord.",
+      "notes": "Eleven handleds att reflektera över sina erfarenheter som en del av självvärderingen.",
+      "criteria": {}
+    },
+    {
+      "id": "M3",
+      "goalText": "vägleda eleven att förstå betydelsen av att kunna fysik i sitt eget liv, i livsmiljön och i samhället",
+      "assessmentTarget": "Förmåga att förstå betydelsen av fysik",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven känner till att vissa fenomen hör ihop med fysik och betydelsen av att kunna fysik i vissa yrken.",
+        "7": "Eleven kan ge exempel på vardagliga situationer där man behöver kunskaper och färdigheter i fysik. Eleven kan nämna yrken, i vilka man behöver kunskap i fysik.",
+        "8": "Eleven förklarar med hjälp av exempel vilka kunskaper och färdigheter i fysik som vi har nytta av i den egna livsmiljön. Eleven kan ge exempel på betydelsen av att kunna fysik inom olika yrken och i fortsatta studier.",
+        "9": "Eleven förklarar med hjälp av exempel vilka kunskaper och färdigheter i fysik som vi har nytta av i det egna livet och i samhället. Eleven kan motivera vilken betydelse kunskaper i fysik har inom olika yrken och i fortsatta studier."
+      }
+    },
+    {
+      "id": "M4",
+      "goalText": "handleda eleven att använda sina fysikkunskaper för att bygga en hållbar framtid samt att bedöma sina val med tanke på en hållbar användning av energiresurser",
+      "assessmentTarget": "Kunskaper och färdigheter i hållbar utveckling ur fysikens perspektiv",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan ge exempel på egna val som har betydelse med tanke på hållbar användning av energiresurser.",
+        "7": "Eleven kan nämna situationer där fysik behövs för att bygga en hållbar framtid. Eleven kan nämna några goda lösningar med tanke på hållbar användning av energiresurser.",
+        "8": "Eleven kan med hjälp av exempel beskriva på vilket sätt kunskaper i fysik behövs för att bygga en hållbar framtid. Eleven kan beskriva olika lösningar med tanke på hållbar användning av energiresurser.",
+        "9": "Eleven motiverar med hjälp av exempel hur fysik används för att bygga en hållbar framtid. Eleven kan förklara samband mellan orsak och verkan i anknytning till att bygga en hållbar framtid samt kan motivera olika lösningar med tanke på hållbar användning av energiresurser."
+      }
+    },
+    {
+      "id": "M5",
+      "goalText": "uppmuntra eleven att formulera frågor kring de fenomen som granskas och att vidareutveckla frågorna till utgångspunkter för undersökningar och annan aktivitet",
+      "assessmentTarget": "Förmåga att formulera frågor samt planera undersökningar och annan aktivitet",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven känner igen fenomen i anknytning till vilka man kan utveckla undersökningsfrågor.",
+        "7": "Eleven formulerar enkla frågor i anknytning till det ämnesområde som granskas och som kan utvecklas till utgångspunkter för undersökningar.",
+        "8": "Eleven formulerar preciserade frågor för att undersöka de fenomen som ska granskas till exempel genom att avgränsa variabler.",
+        "9": "Eleven formulerar motiverade frågor kring de fenomen som ska granskas genom att stöda sig på tidigare inhämtade kunskaper om fenomenen. Eleven utvecklar frågor som utgångspunkter för undersökningar eller annan aktivitet."
+      }
+    },
+    {
+      "id": "M6",
+      "goalText": "handleda eleven att genomföra experimentella undersökningar i samarbete med andra och att arbeta på ett säkert och konsekvent sätt",
+      "assessmentTarget": "Förmåga att genomföra en experimentell undersökning",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven deltar i experimentellt arbete genom att observera genomförandet av undersökningarna med hänsyn till säkerhetsaspekterna samt klarar av att berätta om sina observationer.",
+        "7": "Eleven kan göra observationer och mätningar enligt en plan, vid behov under handledning. Eleven arbetar på ett säkert sätt tillsammans med andra.",
+        "8": "Eleven arbetar på ett säkert sätt och gör observationer och mätningar enligt anvisningar eller en plan. Eleven samarbetar med de andra.",
+        "9": "Eleven arbetar på ett säkert och konsekvent sätt, vid behov självständigt, samt gör observationer och mätningar på ett ändamålsenligt sätt. Eleven kan genomföra olika undersökningar i samarbete med andra och stöder vid behov de övriga gruppmedlemmarna."
+      }
+    },
+    {
+      "id": "M15",
+      "goalText": "handleda eleven att tillämpa sina kunskaper och färdigheter i fysik inom mångvetenskapliga lärområden samt erbjuda eleven möjligheter att lära sig hur fysik tillämpas i olika situationer, till exempel i naturen, i näringslivet, i organisationer eller i vetenskapliga samfund",
+      "assessmentTarget": null,
+      "assessable": false,
+      "message": "Används inte som grund för bildandet av vitsord.",
+      "notes": "Eleven handleds att reflektera över sina erfarenheter som en del av självvärderingen.",
+      "criteria": {}
+    }
+  ]
+}
