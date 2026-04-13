@@ -1,0 +1,409 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #eef2f6;
+  color: #1f2933;
+}
+
+#app {
+  width: 100%;
+}
+
+/* STARTSCREEN */
+
+.start-shell {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 56px 16px;
+}
+
+.start-card {
+  width: 100%;
+  max-width: 620px;
+  background: #ffffff;
+  border: 1px solid #d9e2ec;
+  border-radius: 18px;
+  box-shadow: 0 10px 24px rgba(15, 23, 42, 0.08);
+  padding: 32px;
+}
+
+.start-title {
+  margin: 0 0 28px;
+  text-align: center;
+  font-size: 36px;
+}
+
+.start-field {
+  margin-bottom: 18px;
+}
+
+label {
+  display: block;
+  margin-bottom: 8px;
+  font-size: 15px;
+  font-weight: 700;
+}
+
+select,
+button {
+  width: 100%;
+  font-size: 16px;
+  border-radius: 12px;
+  padding: 14px 16px;
+}
+
+select {
+  background: #ffffff;
+  color: #1f2933;
+  border: 1px solid #cbd5e1;
+}
+
+button {
+  border: none;
+  cursor: pointer;
+  transition: 0.18s ease;
+}
+
+button:hover:not(:disabled) {
+  transform: translateY(-1px);
+}
+
+button:disabled,
+select:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+}
+
+.primary-btn {
+  background: #2563eb;
+  color: white;
+}
+
+.secondary-btn {
+  background: #ffffff;
+  color: #1f2933;
+  border: 1px solid #cbd5e1;
+}
+
+.start-main-btn {
+  margin-top: 8px;
+}
+
+/* ASSESSMENT */
+
+.assessment-shell {
+  display: flex;
+  justify-content: center;
+  padding: 28px 16px 40px;
+}
+
+.assessment-panel {
+  width: 100%;
+  max-width: 940px;
+  background: #ffffff;
+  border: 1px solid #d9e2ec;
+  border-radius: 18px;
+  box-shadow: 0 10px 24px rgba(15, 23, 42, 0.08);
+  padding: 22px;
+}
+
+.subject-heading {
+  text-align: center;
+  font-size: 34px;
+  font-weight: 700;
+  margin-bottom: 14px;
+}
+
+.progress-section {
+  margin-bottom: 18px;
+}
+
+.progress-bar-sketch {
+  width: 100%;
+  height: 14px;
+  background: #d9e2ec;
+  border-radius: 999px;
+  overflow: hidden;
+  margin-bottom: 8px;
+}
+
+.progress-fill-sketch {
+  height: 100%;
+  background: #2563eb;
+  transition: width 0.25s ease;
+}
+
+.progress-text-sketch {
+  font-size: 14px;
+  color: #52606d;
+  text-align: right;
+}
+
+.goal-content-box {
+  border: 1px solid #cfd8e3;
+  border-radius: 14px;
+  background: #f8fbff;
+  padding: 18px;
+  margin-bottom: 16px;
+}
+
+.goal-code-sketch {
+  display: inline-block;
+  padding: 6px 10px;
+  border-radius: 999px;
+  background: #e7eef6;
+  color: #52606d;
+  font-size: 13px;
+  font-weight: 700;
+  margin-bottom: 12px;
+}
+
+.goal-text-sketch {
+  font-size: 28px;
+  line-height: 1.4;
+  margin-bottom: 16px;
+}
+
+.target-box,
+.message-box,
+.notes-box,
+.non-assessable-box {
+  border-radius: 12px;
+  padding: 14px;
+  margin-top: 12px;
+}
+
+.target-box {
+  border: 1px solid #cfd8e3;
+  background: #ffffff;
+}
+
+.target-label {
+  font-size: 13px;
+  font-weight: 700;
+  color: #52606d;
+  margin-bottom: 6px;
+}
+
+.target-text {
+  line-height: 1.45;
+}
+
+.message-box {
+  border: 1px solid #f0d98a;
+  background: #fff8dc;
+  line-height: 1.5;
+}
+
+.notes-box {
+  border: 1px solid #d7dbe0;
+  background: #f7f7f8;
+  line-height: 1.5;
+}
+
+.non-assessable-box {
+  border: 1px solid #d7dbe0;
+  background: #f7f7f8;
+  line-height: 1.5;
+  margin-bottom: 16px;
+}
+
+/* VITSORDSSTACK ENLIGT SKISS */
+
+.grade-stack {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 18px;
+}
+
+.grade-row {
+  display: grid;
+  grid-template-columns: 76px 1fr;
+  gap: 12px;
+  align-items: stretch;
+  width: 100%;
+  text-align: left;
+  border: 1px solid #cfd8e3;
+  border-radius: 12px;
+  background: #ffffff;
+  color: #1f2933;
+  padding: 10px;
+}
+
+.grade-row:hover {
+  border-color: #2563eb;
+  background: #f8fbff;
+}
+
+.grade-row.selected {
+  border: 2px solid #2563eb;
+  background: #eef4ff;
+}
+
+.grade-number-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #cfd8e3;
+  border-radius: 10px;
+  background: #f8fafc;
+  font-size: 30px;
+  font-weight: 700;
+  min-height: 72px;
+}
+
+.grade-criterion-box {
+  display: flex;
+  align-items: center;
+  min-height: 72px;
+  padding-right: 4px;
+}
+
+.grade-criterion-text {
+  line-height: 1.45;
+  font-size: 15px;
+  color: #334e68;
+}
+
+.grade-muted {
+  color: #7b8794;
+  font-style: italic;
+}
+
+/* BOTTENNAV */
+
+.bottom-nav {
+  display: grid;
+  grid-template-columns: 140px 1fr 1fr;
+  gap: 12px;
+  align-items: stretch;
+}
+
+.nav-btn {
+  min-height: 54px;
+}
+
+.small-nav-btn {
+  font-size: 15px;
+}
+
+/* SUMMARY */
+
+.summary-shell {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 56px 16px;
+}
+
+.summary-panel {
+  width: 100%;
+  max-width: 620px;
+  background: #ffffff;
+  border: 1px solid #d9e2ec;
+  border-radius: 18px;
+  box-shadow: 0 10px 24px rgba(15, 23, 42, 0.08);
+  padding: 32px;
+  text-align: center;
+}
+
+.summary-subject {
+  font-size: 34px;
+  font-weight: 700;
+  margin-bottom: 12px;
+}
+
+.summary-status {
+  font-size: 18px;
+  margin-bottom: 26px;
+}
+
+.summary-average-box {
+  border: 1px solid #cfd8e3;
+  border-radius: 14px;
+  background: #f8fbff;
+  padding: 20px;
+  margin-bottom: 24px;
+}
+
+.summary-average-label {
+  font-size: 14px;
+  color: #52606d;
+  margin-bottom: 8px;
+}
+
+.summary-average-value {
+  font-size: 42px;
+  font-weight: 700;
+}
+
+.summary-grade-label {
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 16px;
+}
+
+.summary-grade-circle {
+  width: 96px;
+  height: 96px;
+  margin: 0 auto 28px;
+  border-radius: 999px;
+  border: 3px solid #2563eb;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 40px;
+  font-weight: 700;
+  background: #ffffff;
+}
+
+.summary-restart-btn {
+  max-width: 260px;
+  margin: 0 auto;
+}
+
+/* RESPONSIVE */
+
+@media (max-width: 700px) {
+  .start-card,
+  .assessment-panel,
+  .summary-panel {
+    padding: 18px;
+    border-radius: 14px;
+  }
+
+  .start-title,
+  .subject-heading,
+  .summary-subject {
+    font-size: 28px;
+  }
+
+  .goal-text-sketch {
+    font-size: 22px;
+  }
+
+  .grade-row {
+    grid-template-columns: 64px 1fr;
+  }
+
+  .grade-number-box {
+    font-size: 24px;
+    min-height: 64px;
+  }
+
+  .grade-criterion-box {
+    min-height: 64px;
+  }
+
+  .bottom-nav {
+    grid-template-columns: 1fr;
+  }
+}

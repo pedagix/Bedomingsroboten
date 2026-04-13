@@ -1,0 +1,175 @@
+{
+  "subjectId": "kemi",
+  "subjectName": "Kemi",
+  "gradeCategory": "7-9",
+  "goals": [
+    {
+      "id": "M1",
+      "goalText": "uppmuntra och inspirera eleven att studera kemi",
+      "assessmentTarget": null,
+      "assessable": false,
+      "message": "Används inte som grund för bildandet av vitsord.",
+      "criteria": {}
+    },
+    {
+      "id": "M2",
+      "goalText": "handleda och uppmuntra eleven att identifiera sina kunskaper i kemi, att ställa upp mål för sitt arbete och att arbeta långsiktigt",
+      "assessmentTarget": null,
+      "assessable": false,
+      "message": "Används inte som grund för bildandet av vitsord.",
+      "criteria": {}
+    },
+    {
+      "id": "M3",
+      "goalText": "handleda eleven att förstå betydelsen av att kunna kemi i sitt eget liv, i livsmiljön och i samhället",
+      "assessmentTarget": "Förmåga att förstå betydelsen av kemi",
+      "assessable": true,
+      "criteria": {
+        "5": "Eleven känner till att vissa fenomen hör ihop med kemi och betydelsen av att kunna kemi i vissa yrken.",
+        "7": "Eleven kan ge exempel på vardagliga situationer där man behöver kunskaper och färdigheter i kemi. Eleven kan nämna yrken, i vilka man behöver kunskap i kemi.",
+        "8": "Eleven förklarar med hjälp av exempel vilka kunskaper och färdigheter i kemi som vi har nytta av i den egna livsmiljön. Eleven kan ge exempel på betydelsen av att kunna kemi inom olika yrken och i fortsatta studier.",
+        "9": "Eleven förklarar med hjälp av exempel vilka kunskaper och färdigheter i kemi som vi har nytta av i det egna livet och i samhället. Eleven kan motivera betydelsen av kunskaper i kemi inom olika yrken och i fortsatta studier."
+      }
+    },
+    {
+      "id": "M4",
+      "goalText": "handleda eleven att använda sina kemikunskaper för att bygga en hållbar framtid samt att bedöma sina val med tanke på en hållbar användning av naturresurser och livscykeln hos en produkt",
+      "assessmentTarget": "Kunskaper och färdigheter i hållbar utveckling ur kemins perspektiv",
+      "assessable": true,
+      "criteria": {
+        "5": "Eleven kan ge exempel på egna val som har betydelse med tanke på hållbar användning av naturresurser och livscykeln hos en produkt.",
+        "7": "Eleven kan ge exempel på situationer, där kemi behövs för att bygga en hållbar framtid. Eleven kan nämna några goda lösningar med tanke på hållbar användning av naturresurser och livscykeln hos en produkt.",
+        "8": "Eleven kan med hjälp av exempel beskriva på vilket sätt kunskaper i kemi behövs för att bygga en hållbar framtid. Eleven kan beskriva olika lösningar med tanke på hållbar användning av naturresurser och livscykeln hos en produkt.",
+        "9": "Eleven motiverar med hjälp av exempel hur kemi används för att bygga en hållbar framtid. Eleven kan förklara sambandet mellan orsak och verkan samt motivera olika lösningar."
+      }
+    },
+    {
+      "id": "M5",
+      "goalText": "uppmuntra eleven att formulera frågor kring de fenomen som granskas och att vidareutveckla frågorna till utgångspunkter för undersökningar",
+      "assessmentTarget": "Förmåga att formulera frågor",
+      "assessable": true,
+      "criteria": {
+        "5": "Eleven känner igen fenomen där man kan formulera frågor.",
+        "7": "Eleven formulerar enkla frågor.",
+        "8": "Eleven formulerar preciserade frågor.",
+        "9": "Eleven formulerar motiverade frågor och utvecklar dem vidare."
+      }
+    },
+    {
+      "id": "M6",
+      "goalText": "genomföra experimentella undersökningar",
+      "assessmentTarget": "Experimentell förmåga",
+      "assessable": true,
+      "criteria": {
+        "5": "Observerar experiment.",
+        "7": "Gör observationer och mätningar.",
+        "8": "Arbetar säkert och strukturerat.",
+        "9": "Arbetar självständigt och stöder andra."
+      }
+    },
+    {
+      "id": "M7",
+      "goalText": "behandla och presentera undersökningsresultat",
+      "assessmentTarget": "Analys av resultat",
+      "assessable": true,
+      "criteria": {
+        "5": "Beskriver resultat.",
+        "7": "Presenterar och drar enkla slutsatser.",
+        "8": "Analyserar och drar slutsatser.",
+        "9": "Tolkar och utvärderar resultat och process."
+      }
+    },
+    {
+      "id": "M8",
+      "goalText": "förstå kemins roll i teknologi",
+      "assessmentTarget": "Teknologisk förståelse",
+      "assessable": true,
+      "criteria": {
+        "5": "Känner igen exempel.",
+        "7": "Ger exempel och deltar.",
+        "8": "Förklarar och samarbetar.",
+        "9": "Analyserar och utvecklar lösningar."
+      }
+    },
+    {
+      "id": "M9",
+      "goalText": "använda digitala verktyg",
+      "assessmentTarget": "Digital kompetens",
+      "assessable": true,
+      "criteria": {
+        "5": "Använder med stöd.",
+        "7": "Använder enligt instruktion.",
+        "8": "Använder självständigt.",
+        "9": "Analyserar och generaliserar."
+      }
+    },
+    {
+      "id": "M10",
+      "goalText": "använda kemiska begrepp",
+      "assessmentTarget": "Begreppsförståelse",
+      "assessable": true,
+      "criteria": {
+        "5": "Använder enkla begrepp.",
+        "7": "Använder centrala begrepp.",
+        "8": "Kombinerar begrepp.",
+        "9": "Använder exakt och strukturerat."
+      }
+    },
+    {
+      "id": "M11",
+      "goalText": "använda modeller",
+      "assessmentTarget": "Modellförståelse",
+      "assessable": true,
+      "criteria": {
+        "5": "Känner till modeller.",
+        "7": "Ger exempel.",
+        "8": "Använder modeller.",
+        "9": "Analyserar modellens begränsningar."
+      }
+    },
+    {
+      "id": "M12",
+      "goalText": "källkritik och argumentation",
+      "assessmentTarget": "Källkritik",
+      "assessable": true,
+      "criteria": {
+        "5": "Söker info med stöd.",
+        "7": "Uttrycker åsikter.",
+        "8": "Väljer källor.",
+        "9": "Analyserar och jämför."
+      }
+    },
+    {
+      "id": "M13",
+      "goalText": "förstå vetenskapens natur",
+      "assessmentTarget": "Vetenskaplig förståelse",
+      "assessable": true,
+      "criteria": {
+        "5": "Känner till experiment.",
+        "7": "Ger exempel.",
+        "8": "Beskriver.",
+        "9": "Förklarar och motiverar."
+      }
+    },
+    {
+      "id": "M14",
+      "goalText": "förstå ämnens struktur och omvandlingar",
+      "assessmentTarget": "Teoretisk förståelse",
+      "assessable": true,
+      "criteria": {
+        "5": "Känner igen begrepp.",
+        "7": "Använder begrepp.",
+        "8": "Använder centrala begrepp.",
+        "9": "Tillämpa i nya situationer."
+      }
+    },
+    {
+      "id": "M15",
+      "goalText": "tillämpa kemi i olika sammanhang",
+      "assessmentTarget": null,
+      "assessable": false,
+      "message": "Används inte som grund för bildandet av vitsord.",
+      "criteria": {}
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "subjectId": "biologi",
+  "subjectName": "Biologi",
+  "gradeCategory": "7-9",
+  "notes": null,
+  "goals": [
+    {
+      "id": "M1",
+      "goalText": "handleda eleven att förstå grundstrukturen i ekosystemet och hur det fungerar samt att jämföra olika ekosystem och identifiera arter",
+      "assessmentTarget": "Kännedom om ekosystemets struktur och funktion",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan klassificera skogsekosystemets delar i levande och icke-levande. Eleven bygger upp en enkel näringskedja med exempelarter. Eleven känner igen och benämner några arter.",
+        "7": "Eleven kan klassificera och benämna skogsekosystemets delar och berätta om deras funktion. Eleven känner igen och benämner olika ekosystem. Eleven känner igen och benämner arter.",
+        "8": "Eleven kan beskriva och berätta om skogsekosystemets grundstruktur och hur det fungerar. Eleven identifierar, benämner och jämför olika ekosystem. Eleven identifierar och benämner arter från olika ekosystem.",
+        "9": "Eleven kan förklara och motivera skogsekosystemets grundstruktur och hur det fungerar. Eleven jämför olika ekosystem och redogör för de faktorer som bidragit till att de uppstått. Eleven identifierar och benämner mångsidigt arter i olika ekosystem."
+      }
+    },
+    {
+      "id": "M2",
+      "goalText": "hjälpa eleven att beskriva organismers struktur och livsfunktioner samt att förstå organismsamhällets struktur",
+      "assessmentTarget": "Kännedom om organismsamhällets och organismernas struktur och livsfunktioner",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan benämna rikena och gemensamma grundstrukturer och funktioner för olika organismgrupper.",
+        "7": "Eleven kan benämna rikena. Eleven benämner och jämför organismernas grundstrukturer och beskriver deras livsfunktioner.",
+        "8": "Eleven kan benämna rikena och beskriva principerna för organismernas indelning i riken med hjälp av exempelarter. Eleven benämner och jämför organismernas grundstrukturer samt berättar om organismernas livsfunktioner och deras uppgift.",
+        "9": "Eleven kan benämna rikena och motivera principerna för organismernas indelning i riken. Eleven identifierar, klassificerar och jämför de mest centrala organismgrupperna. Eleven benämner och jämför organismernas strukturer samt förklarar organismernas livsfunktioner och deras uppgift."
+      }
+    },
+    {
+      "id": "M3",
+      "goalText": "handleda eleven att undersöka hur organismer anpassar sig till olika livsmiljöer och att förstå vilken betydelse olika livsmiljöer har för naturens mångfald",
+      "assessmentTarget": "Förmåga att uppfatta organismernas anpassning och livsmiljöernas variation",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan känna igen egenskaper hos organismer som lever i olika livsmiljöer. Eleven ger några exempel på organismer som lever i olika livsmiljöer.",
+        "7": "Eleven kan beskriva hur arterna anpassar sig till olika livsmiljöer. Eleven berättar vad mångfald betyder.",
+        "8": "Eleven kan berätta och ge exempel på förekomster av arter och arters anpassning till olika livsmiljöer. Eleven ger exempel på livsmiljöernas betydelse för naturens mångfald. Eleven berättar varför mångfald är viktigt.",
+        "9": "Eleven kan förklara organismernas anpassning till olika livsmiljöer och berättar om samband mellan orsak och verkan gällande anpassning. Eleven motiverar livsmiljöernas betydelse för naturens mångfald. Eleven motiverar varför mångfald är viktigt."
+      }
+    },
+    {
+      "id": "M4",
+      "goalText": "handleda eleven att förstå grundprinciperna för ärftlighet och evolution",
+      "assessmentTarget": "Förmåga att uppfatta grundprinciperna för ärftlighet och evolution",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan berätta att individens egenskaper påverkas både av arvet och miljön. Eleven berättar att organismerna har utvecklats som ett resultat av evolutionen.",
+        "7": "Eleven kan ge exempel på hur arvet och miljön påverkar individens egenskaper. Eleven vet vad bioteknik betyder. Eleven beskriver hur livet och mångfalden har utvecklats genom evolutionen.",
+        "8": "Eleven kan ge exempel på hur arvet och miljön påverkar individens egenskaper. Eleven ger praktiska exempel på hur bioteknik används. Eleven beskriver hur livet och mångfalden har utvecklats genom evolutionen. Eleven förklarar sambandet mellan ärftlighet och evolution.",
+        "9": "Eleven kan förklara hur ärftligheten och miljön tillsammans påverkar uppkomsten av individens egenskaper samt tillämpar sitt kunnande genom praktiska exempel. Eleven ger exempel på hur bioteknik används och på bioteknikens möjligheter och utmaningar. Eleven beskriver hur livet och mångfalden har utvecklats genom evolution och ger exempel på evolution som en kontinuerlig process. Eleven förklarar sambandet mellan ärftlighet och evolution med hjälp av exempel."
+      }
+    },
+    {
+      "id": "M5",
+      "goalText": "handleda eleven att förstå människans utveckling och kroppens grundläggande funktioner",
+      "assessmentTarget": "Förmåga att uppfatta människokroppens struktur och funktion",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan benämna människans mest centrala organ och organsystem. Eleven beskriver de mest centrala organsystemens uppgift.",
+        "7": "Eleven kan benämna människans mest centrala organ och organsystem. Eleven beskriver människans centrala livsfunktioner. Eleven beskriver de centrala skedena i människans tillväxt och utveckling.",
+        "8": "Eleven kan benämna människans organ och organsystem. Eleven beskriver de centrala livsfunktionerna och regleringssystemen. Eleven redogör för de centrala skedena i människans tillväxt och utveckling.",
+        "9": "Eleven kan benämna och beskriva människans organ och organsystem. Eleven beskriver de centrala livsfunktionerna och regleringssystemen samt förklarar hur de bildar funktionella helheter. Eleven förklarar och motiverar de centrala skedena i människans tillväxt och utveckling."
+      }
+    },
+    {
+      "id": "M6",
+      "goalText": "handleda eleven att bedöma förändringar i naturen och människans påverkan på miljön samt att förstå betydelsen av ekosystemtjänster",
+      "assessmentTarget": "Förmåga att uppfatta människans och naturens samspel samt förståelse för en hållbar framtid",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan ge exempel på hur mänsklig verksamhet påverkar miljön. Eleven räknar upp delområden inom hållbar utveckling.",
+        "7": "Eleven kan beskriva och ge exempel på hur den mänskliga verksamheten påverkar miljön. Eleven berättar om delområdena inom hållbar utveckling och ger några exempel på hur man ur ett biologiskt perspektiv kan bygga en hållbar framtid. Eleven ger exempel på bioekonomi och ekosystemtjänster.",
+        "8": "Eleven kan redogöra för och ge exempel på hur den mänskliga verksamheten påverkar miljön. Eleven beskriver delområdena inom hållbar utveckling och ger exempel på hur man ur ett biologiskt perspektiv kan bygga en hållbar framtid. Eleven berättar om bioekonomi och ekosystemtjänster.",
+        "9": "Eleven kan motivera hur den mänskliga verksamheten påverkar miljön och granskar följderna av dessa förändringar. Eleven förklarar samband mellan orsak och verkan kring byggandet av en hållbar framtid och argumenterar för sin ståndpunkt utgående från kunskaperna i biologi. Eleven bedömer betydelsen av bioekonomi och ekosystemtjänster med tanke på en hållbar framtid."
+      }
+    },
+    {
+      "id": "M7",
+      "goalText": "handleda eleven att utveckla naturvetenskapligt tänkande och att förstå samband mellan orsak och verkan",
+      "assessmentTarget": "Naturvetenskapligt tänkande",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan använda några grundbegrepp inom biologin samt förknippa dessa till givna biologiska fenomen. Eleven berättar enkelt och med egna ord om biologiska fenomen som hen lärt sig.",
+        "7": "Eleven kan använda biologiska grundbegrepp. Eleven presenterar ett biologiskt fenomen som hen lärt sig med egna ord och väljer ett lämpligt sätt att presentera informationen. Eleven ställer enkla frågor om naturen och naturfenomen.",
+        "8": "Eleven kan använda biologiska begrepp på ett ändamålsenligt sätt. Eleven presenterar något som hen lärt sig med egna ord på ett för biologin utmärkande sätt och väljer ett lämpligt sätt att presentera informationen. Eleven presenterar några meningsfulla frågor om naturen och naturfenomen samt redogör för naturvetenskapliga samband mellan orsak och verkan.",
+        "9": "Eleven kan använda biologiska begrepp på ett ändamålsenligt sätt. Eleven presenterar något som hen lärt sig med egna ord och på ett strukturerat och för biologin utmärkande sätt samt väljer ett lämpligt sätt att presentera informationen. Eleven presenterar meningsfulla frågor om naturen och naturfenomen samt redogör för naturvetenskapliga samband mellan orsak och verkan."
+      }
+    },
+    {
+      "id": "M8",
+      "goalText": "handleda eleven att använda utrustning som behövs vid biologisk undersökning samt digitala verktyg",
+      "assessmentTarget": "Användning av utrustning som behövs vid biologisk undersökning samt av teknologi och information",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven deltar i undervisningen i laboratorium och i fält. Eleven använder under handledning några typer av utrustning som behövs vid biologisk undersökning. Eleven söker under handledning biologisk information från olika informationskällor.",
+        "7": "Eleven kan under handledning arbeta på ett säkert sätt i laboratorium och i fält. Eleven använder utrustning som behövs vid biologisk undersökning enligt anvisningar. Eleven söker biologisk information från några olika informationskällor.",
+        "8": "Eleven kan arbeta på ett säkert sätt i laboratorium och i fält. Eleven använder utrustning som behövs vid biologisk undersökning på ett ändamålsenligt sätt. Eleven söker biologisk information från olika informationskällor och väljer ut några tillförlitliga informationskällor.",
+        "9": "Eleven kan arbeta självständigt och målinriktat i laboratorium och i fält. Eleven använder utrustning som behövs vid biologisk undersökning och bedömer utrustningens lämplighet för arbetet. Eleven söker biologisk information från olika informationskällor och bedömer informationskällornas tillförlitlighet och lämplighet."
+      }
+    },
+    {
+      "id": "M9",
+      "goalText": "handleda eleven att sammanställa en samling organismer och att odla växter för att förstå biologiska fenomen",
+      "assessmentTarget": "Förmåga att sammanställa en samling organismer och odla växter experimentellt",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan sammanställa en liten samling organismer under handledning. Eleven deltar i växtodling.",
+        "7": "Eleven kan enligt anvisningar sammanställa ett mindre, traditionellt eller digitalt, herbarium eller en annan digital samling organismer. Eleven utför under handledning ett odlingsexperiment och berättar om experimentets resultat.",
+        "8": "Eleven kan enligt anvisningar sammanställa ett traditionellt eller digitalt herbarium eller en annan digital samling organismer. Eleven utför ett odlingsexperiment och drar slutsatser i anknytning till det biologiska fenomen som granskas.",
+        "9": "Eleven kan med hjälp av instruktioner sammanställa ett större och noggrant utfört traditionellt eller digitalt herbarium eller en annan digital samling organismer. Eleven planerar och utför ett odlingsexperiment, bedömer de erhållna resultatens tillförlitlighet samt förklarar hur odlingsexperimentet anknyter till det granskade biologiska fenomenet."
+      }
+    },
+    {
+      "id": "M10",
+      "goalText": "handleda eleven att genomföra undersökningar både i och utanför skolan",
+      "assessmentTarget": "Förmåga att utföra biologiska undersökningar",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven deltar i utförandet av en biologisk undersökning och berättar vad som gjorts i undersökningen.",
+        "7": "Eleven kan göra iakttagelser i laboratorium och i fält. Eleven utför en mindre biologisk undersökning.",
+        "8": "Eleven kan göra observationer och registrera den information som hen införskaffat i laboratorium och i fält. Eleven planerar och utför en mindre biologisk undersökning och rapporterar om resultaten.",
+        "9": "Eleven kan göra iakttagelser och lagra den information som hen samlat in i laboratorium och i terräng. Eleven planerar och utför självständigt en egen undersökning och rapporterar om resultaten på ett tydligt sätt."
+      }
+    },
+    {
+      "id": "M11",
+      "goalText": "uppmuntra eleven att tillämpa kunskaper och färdigheter i biologi i sitt eget liv samt i samhällsdebatten och beslutsfattandet",
+      "assessmentTarget": "Tillämpning av kunskaper och färdigheter i biologi i vardagen",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan ge exempel på hur de egna valen påverkar hälsan och miljön.",
+        "7": "Eleven kan ge exempel på hur de egna valen påverkar hälsan och miljön utgående från biologisk kunskap.",
+        "8": "Eleven kan beskriva och ge exempel på hur kunskaper och färdigheter i biologi kan tillämpas i det egna livet och i samhällsdebatten.",
+        "9": "Eleven kan reflektera över och motivera hur kunskaper i biologi kan tillämpas i det egna livet, i samhällsdebatten och beslutsfattandet."
+      }
+    },
+    {
+      "id": "M12",
+      "goalText": "inspirera eleven att fördjupa sitt intresse för naturen och naturfenomen samt stärka elevens förhållande till naturen och hens miljömedvetenhet",
+      "assessmentTarget": null,
+      "assessable": false,
+      "message": "Används inte som grund för bildandet av vitsord.",
+      "notes": "Eleven handleds att reflektera över sina erfarenheter som en del av självvärderingen.",
+      "criteria": {}
+    },
+    {
+      "id": "M13",
+      "goalText": "handleda eleven att göra etiskt motiverade val",
+      "assessmentTarget": null,
+      "assessable": false,
+      "message": "Används inte som grund för bildandet av vitsord.",
+      "notes": "Eleven handleds att reflektera över sina erfarenheter som en del av självvärderingen.",
+      "criteria": {}
+    },
+    {
+      "id": "M14",
+      "goalText": "inspirera eleven att påverka och agera för att bygga en hållbar framtid",
+      "assessmentTarget": null,
+      "assessable": false,
+      "message": "Används inte som grund för bildandet av vitsord.",
+      "notes": "Eleven handleds att reflektera över sina erfarenheter som en del av självvärderingen.",
+      "criteria": {}
+    }
+  ]
+}
