@@ -29,8 +29,7 @@ body {
 }
 
 .start-card,
-.start-info-block,
-.start-feedback-block {
+.start-info-block {
   width: 100%;
   background: #ffffff;
   border: 1px solid #d9e2ec;
@@ -40,10 +39,6 @@ body {
 }
 
 .start-card {
-  margin-bottom: 20px;
-}
-
-.start-info-block {
   margin-bottom: 20px;
 }
 
@@ -59,9 +54,21 @@ body {
 
 .start-info-text {
   margin: 0;
-  font-size: 17px;
-  line-height: 1.7;
+  font-size: 14px;
+  line-height: 1.75;
   color: #334e68;
+}
+
+.start-info-text-gap {
+  margin-top: 16px;
+}
+
+.start-signature {
+  margin: 18px 0 0;
+  font-size: 14px;
+  line-height: 1.6;
+  font-weight: 700;
+  color: #1f2933;
 }
 
 label {
@@ -117,17 +124,18 @@ select:disabled {
 }
 
 .mail-btn {
-  display: inline-flex;
+  display: flex;
   align-items: center;
   justify-content: center;
-  margin-top: 18px;
-  width: 100%;
-  min-height: 54px;
-  padding: 14px 16px;
+  width: 25%;
+  min-width: 140px;
+  min-height: 48px;
+  margin: 22px auto 0;
+  padding: 12px 14px;
   border-radius: 12px;
   background: #2563eb;
   color: #ffffff;
-  font-size: 16px;
+  font-size: 15px;
   font-weight: 700;
   text-decoration: none;
   transition: 0.18s ease;
@@ -313,11 +321,13 @@ select:disabled {
   line-height: 1.45;
   font-size: 15px;
   color: #334e68;
+  font-weight: 700;
 }
 
 .grade-muted {
   color: #7b8794;
   font-style: italic;
+  font-weight: 400;
 }
 
 /* BOTTENNAV */
@@ -408,9 +418,10 @@ select:disabled {
   background: #ffffff;
 }
 
-.summary-restart-btn {
-  max-width: 260px;
-  margin: 0 auto;
+.summary-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
 }
 
 /* RESPONSIVE */
@@ -418,7 +429,6 @@ select:disabled {
 @media (max-width: 700px) {
   .start-card,
   .start-info-block,
-  .start-feedback-block,
   .assessment-panel,
   .summary-panel {
     padding: 18px;
@@ -431,9 +441,10 @@ select:disabled {
     font-size: 28px;
   }
 
-  .start-info-text {
-    font-size: 16px;
-    line-height: 1.65;
+  .start-info-text,
+  .start-signature {
+    font-size: 13px;
+    line-height: 1.7;
   }
 
   .goal-text-sketch {
@@ -455,5 +466,10 @@ select:disabled {
 
   .bottom-nav {
     grid-template-columns: 1fr;
+  }
+
+  .mail-btn {
+    width: 100%;
+    min-width: 0;
   }
 }
