@@ -1,0 +1,171 @@
+{
+  "subjectId": "religion",
+  "subjectName": "Religion",
+  "gradeCategory": "6",
+  "notes": null,
+  "goals": [
+    {
+      "id": "M1",
+      "goalText": "handleda eleven att fördjupa sig i religionens heliga skrifter och berättelser samt de centrala lärorna",
+      "assessmentTarget": "Förmåga att hantera information om religion, religiös multilitteracitet",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan nämna den heliga skriften eller den centrala källan i den religion som studeras och känner igen någon av de berättelser eller läror som behandlats.",
+        "7": "Eleven kan berätta om någon central lära och berättelse i den religion som studeras. Under handledning kan eleven berätta om vad berättelsen betyder eller olika sätt att tolka den.",
+        "8": "Eleven kan berätta om de heliga skrifterna i den religion som studeras samt beskriva vad berättelser betyder eller olika sätt att tolka dem.",
+        "9": "Eleven kan reflektera över innehållet i och tolkningarna av berättelserna. Ur perspektiv av den religion som studeras kan eleven beskriva betydelserna av de centrala lärorna."
+      }
+    },
+    {
+      "id": "M2",
+      "goalText": "handleda eleven att bekanta sig med ritualer och seder samt heliga platser och byggnader i den religion som studeras",
+      "assessmentTarget": "Förmåga att hantera information om religion, religiös multilitteracitet",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven känner till en ritual eller sed i den religion som studeras och känner igen någon helig plats eller byggnad.",
+        "7": "Eleven kan nämna ritualer eller seder i den religion som studeras samt en helig plats eller byggnad.",
+        "8": "Eleven kan berätta om centrala ritualer och seder i den religion som studeras och beskriva religionens heliga platser eller byggnader.",
+        "9": "Eleven kan redogöra för innebörden av de centrala ritualerna och sederna och de heliga platserna och byggnaderna i den religion som studeras."
+      }
+    },
+    {
+      "id": "M3",
+      "goalText": "hjälpa eleven att känna igen karaktäristiska drag och symbolik i religiöst språk",
+      "assessmentTarget": "Förmåga att analysera religiöst språk och religiösa symboler",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven känner utgående från givna exempel igen en religiös symbol, en liknelse, ett talesätt eller ett påstående.",
+        "7": "Eleven kan ge ett exempel på religiöst språk.",
+        "8": "Eleven kan ge exempel på religiöst språk och religiös symbolik.",
+        "9": "Eleven kan redogöra för det karakteristiska i religiöst språk och religiös symbolik."
+      }
+    },
+    {
+      "id": "M4",
+      "goalText": "handleda eleven att söka information om religionen i olika källor samt bedöma och använda informationen",
+      "assessmentTarget": "Förmåga att lära sig i studierna i religion",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan under handledning hämta information om religion i givna källor.",
+        "7": "Eleven kan hämta information om religion i flera källor.",
+        "8": "Eleven kan använda den information hen hämtat och inser att det är skillnad i tillförlitligheten i källor.",
+        "9": "Eleven kan hämta, kombinera och jämföra information om religion i olika källor och göra observationer om källornas tillförlitlighet."
+      }
+    },
+    {
+      "id": "M5",
+      "goalText": "handleda eleven att utforska Finlands och Europas religiösa och konfessionella rötter och situationen i dag",
+      "assessmentTarget": "Kunskap om religion och kultur",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven känner utgående från givna exempel igen Finlands och Europas religiösa och konfessionella rötter eller särdrag i anknytning till situationen i dag.",
+        "7": "Eleven kan ge exempel på Finlands och Europas religiösa och konfessionella rötter eller situationen i dag.",
+        "8": "Eleven känner till religionernas och åskådningarnas påverkan på kulturer och samhällen i Finland och Europa.",
+        "9": "Eleven kan ge exempel på religionernas och åskådningarnas påverkan på kulturer och samhällen i Finland och Europa."
+      }
+    },
+    {
+      "id": "M6",
+      "goalText": "handleda eleven att få insikt i judendomen, kristendomen och islam och deras inflytande och historia i Europa",
+      "assessmentTarget": "Kunskap om religion och kultur",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven känner utgående från givna exempel igen huvuddragen i judendomen, kristendomen och islam.",
+        "7": "Eleven kan berätta om huvuddragen i judendomen, kristendomen och islam.",
+        "8": "Eleven kan jämföra huvuddragen i judendomen, kristendomen och islam.",
+        "9": "Eleven kan redogöra för judendomens, kristendomens och islams inflytande eller historia i Europa."
+      }
+    },
+    {
+      "id": "M7",
+      "goalText": "uppmuntra eleven att respektera det som är heligt för en själv och för andra samt att agera lämpligt i olika religiösa sammanhang och situationer",
+      "assessmentTarget": "Religiös multilitteracitet",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven känner igen eller kan nämna något som anses vara heligt eller en sed i anknytning till det heliga. Innehållet i anknytning till uppförande bedöms inte.",
+        "7": "Eleven kan nämna olika saker som anses vara heliga och kan beskriva vilka seder som anknyter till dessa. Innehållet i anknytning till uppförande bedöms inte.",
+        "8": "Eleven förstår vad som avses med att respektera det som är heligt för andra. Hen kan ge exempel på kulturella seder i anknytning till religiösa situationer och platser och andra heliga saker. Innehållet i anknytning till uppförande bedöms inte.",
+        "9": "Eleven kan redogöra för hur det heliga kan ta sig olika uttryck i religioner. Innehållet i anknytning till uppförande bedöms inte."
+      }
+    },
+    {
+      "id": "M8",
+      "goalText": "handleda eleven i att utforska etiska normer i religionen i fråga och etiska principer som förenar olika religioner",
+      "assessmentTarget": "Kunskap om etik",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven känner igen eller kan nämna något enstaka exempel på de etiska normerna i den religion som studeras.",
+        "7": "Eleven kan ge exempel på de etiska normerna i den religion som studeras eller etiska principer som förenar olika religioner.",
+        "8": "Eleven kan beskriva de centrala etiska normerna i den religion som studeras samt redogöra för någon etisk princip som förenar religioner och ge exempel på hur de tillämpas i vardagen.",
+        "9": "Eleven kan reflektera över hur religioners olika etiska principer tillämpas i vardagen."
+      }
+    },
+    {
+      "id": "M9",
+      "goalText": "handleda eleven att förstå värdena i de mänskliga rättigheterna och i synnerhet i FN:s konvention om barnets rättigheter ur individuellt och kollektivt perspektiv",
+      "assessmentTarget": "Kunskap om människorättsetik",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven känner utgående från givna exempel igen mänskliga rättigheter eller barns rättigheter som bygger på konventionen om barnets rättigheter.",
+        "7": "Eleven kan ge exempel på barns rättigheter eller andra mänskliga rättigheter.",
+        "8": "Eleven kan redogöra för konsekvensen av barns rättigheter eller andra mänskliga rättigheter i den egna livsmiljön.",
+        "9": "Eleven kan reflektera över frågor i anknytning till barns rättigheter eller andra mänskliga rättigheter ur individens och kollektivets perspektiv."
+      }
+    },
+    {
+      "id": "M10",
+      "goalText": "handleda eleven att utvärdera sina val och reflektera kring de värden som påverkar dem ur ett etiskt perspektiv och med tanke på en hållbar framtid",
+      "assessmentTarget": "Förmåga att reflektera över etiska frågor",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Ur givna exempel känner eleven igen några värden som påverkat hen eller etiska valsituationer.",
+        "7": "Eleven känner igen etiska principer. Hen kan ge exempel på etiska valsituationer och ge olika lösningar till dem.",
+        "8": "Eleven kan redogöra för de gemensamma etiska principerna i den religion som studeras och i andra religioner och ge exempel på hur de tillämpas. Eleven kan ge exempel ur vardagen på hur man skapar en hållbar framtid.",
+        "9": "Eleven kan reflektera över sina egna val och etiska valsituationer ur perspektiven för värderingar, olika etiska principer och en hållbar framtid."
+      }
+    },
+    {
+      "id": "M11",
+      "goalText": "ge eleven möjligheter att diskutera etiska frågor, uttrycka sina tankar och känslor på ett konstruktivt sätt samt öva sig att motivera sina synpunkter",
+      "assessmentTarget": "Tankeförmåga, kommunikativa färdigheter",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan lyssna på andra och uttrycka sina tankar på något sätt.",
+        "7": "Eleven deltar i en gemensam diskussion och uttrycker sig konstruktivt.",
+        "8": "Eleven kan ta hänsyn till andra i diskussionen och kan motivera sina egna åsikter.",
+        "9": "Eleven kan diskutera konstruktivt samt reflektera och skapa egna åsikter i kommunikation med andra."
+      }
+    },
+    {
+      "id": "M12",
+      "goalText": "hjälpa och stödja eleven att utveckla och stärka en positiv syn på världen, en positiv självkänsla och tro på livet",
+      "assessmentTarget": null,
+      "assessable": false,
+      "message": "Används inte som grund för bildandet av vitsord.",
+      "notes": "Eleven handleds att reflektera över sina erfarenheter som en del av självvärderingen.",
+      "criteria": {}
+    }
+  ]
+}

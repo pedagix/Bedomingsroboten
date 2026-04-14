@@ -1,0 +1,199 @@
+{
+  "subjectId": "matematik",
+  "subjectName": "Matematik",
+  "gradeCategory": "6",
+  "notes": null,
+  "goals": [
+    {
+      "id": "M1",
+      "goalText": "bibehålla elevens inspiration och intresse för matematik samt stödja elevens positiva självbild och självförtroende",
+      "assessmentTarget": null,
+      "assessable": false,
+      "message": "Används inte som grund för bildandet av vitsord.",
+      "notes": "Eleven handleds att reflektera över sina erfarenheter som en del av självvärderingen.",
+      "criteria": {}
+    },
+    {
+      "id": "M2",
+      "goalText": "handleda eleven att uppfatta samband i det som hen lär sig",
+      "assessmentTarget": "Samband mellan det som hen lärt sig",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven uppfattar under handledning samband mellan det som hen lär sig. Eleven observerar",
+        "7": "Eleven uppfattar samband mellan det som hen lär sig och ger exempel under handledning.",
+        "8": "Eleven uppfattar och ger exempel på samband mellan det som hen lär sig.",
+        "9": "Eleven kan beskriva och förklara vad sambanden mellan det som hen lär sig beror på."
+      }
+    },
+    {
+      "id": "M3",
+      "goalText": "handleda eleven att utveckla sin förmåga att ställa frågor och dra motiverade slutsatser utifrån sina observationer",
+      "assessmentTarget": "Förmåga att ställa frågor och slutledningsförmåga",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven observerar vad hen behöver hjälp med. Eleven kan under handledning göra observationer och sammanställa information för att kunna dra slutsatser.",
+        "7": "Eleven övar på att framställa matematiska frågor. Eleven kan under handledning presentera motiveringar för sina slutsatser.",
+        "8": "Eleven kan framställa frågor i anknytning till det område som studeras och kan ge motiveringar för sina slutsatser.",
+        "9": "Eleven framställer frågor som stöder det område som studeras. Eleven kan framställa klara motiveringar för sina slutsatser."
+      }
+    },
+    {
+      "id": "M4",
+      "goalText": "uppmuntra eleven att presentera sina lösningar och slutledningar för andra med konkreta hjälpmedel, figurer, muntligt och skriftligt, även med hjälp av digitala verktyg",
+      "assessmentTarget": "Förmåga att presentera lösningar och slutledningar",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan berätta om sin slutledning och presenterar under handledning sina lösningar med någon framställningsform.",
+        "7": "Eleven presenterar sin slutledning och sina lösningar med någon framställningsform.",
+        "8": "Eleven presenterar sin slutledning och sina lösningar, vid behov med en annan framställningsform.",
+        "9": "Eleven presenterar sin slutledning och sina lösningar med en framställningsform som är lämplig för situationen."
+      }
+    },
+    {
+      "id": "M5",
+      "goalText": "handleda och stödja eleven i utvecklingen av förmågan att lösa problem",
+      "assessmentTarget": "Problemlösningsfärdigheter",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan under handledning använda något sätt för att lösa ett problem.",
+        "7": "Eleven prövar på ett sätt som leder till en korrekt lösning på ett problem.",
+        "8": "Eleven kan välja och använda ett fungerande sätt för att lösa ett problem.",
+        "9": "Eleven kan bedöma hur fungerande och effektiv hens lösningsmetod är."
+      }
+    },
+    {
+      "id": "M6",
+      "goalText": "handleda eleven att utveckla förmågan att bedöma hur ändamålsenlig en lösning är och om resultatet är rimligt",
+      "assessmentTarget": "Förmåga att bedöma en lösning",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan under handledning uppfatta hur rimligt ett resultat är.",
+        "7": "Eleven reflekterar över hur rimligt hens resultat är och bedömer sin lösning under handledning.",
+        "8": "Eleven granskar kritiskt sin lösning och hur rimligt resultatet är.",
+        "9": "Eleven bedömer och motiverar sin lösning och hur rimligt resultatet är."
+      }
+    },
+    {
+      "id": "M7",
+      "goalText": "handleda eleven att förstå och använda matematiska begrepp och symboler",
+      "assessmentTarget": "Förståelse och användning av matematiska begrepp",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven känner igen matematiska begrepp under handledning och övar på beteckningar.",
+        "7": "Eleven känner till matematikens begrepp och använder i regel korrekta beteckningar.",
+        "8": "Eleven använder matematiska begrepp och korrekta beteckningar.",
+        "9": "Eleven förstår och använder korrekta begrepp och beteckningar."
+      }
+    },
+    {
+      "id": "M8",
+      "goalText": "stödja och handleda eleven att förstärka och bredda förståelsen av tiosystemet",
+      "assessmentTarget": "Förståelse av tiosystemet",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven urskiljer storleksordningar mellan hela tal. Eleven känner igen talenheterna i ett decimaltal.",
+        "7": "Eleven kan nämna talenheterna i ett decimaltal och använder tiosystemet i räkneoperationer med naturliga tal.",
+        "8": "Eleven använder tiosystemet som ett positionssystem i räkneoperationer.",
+        "9": "Eleven förstår att tiosystemet är ett av positionssystemen."
+      }
+    },
+    {
+      "id": "M9",
+      "goalText": "stödja eleven att utveckla talbegreppet till positiva rationella tal och negativa heltal",
+      "assessmentTarget": "Förståelse av talbegreppet",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan placera negativa tal i storleksordning och jämför under handledning storleken på bråktal.",
+        "7": "Eleven kan placera bråktal i storleksordning och kan ge exempel på användning av negativa tal.",
+        "8": "Eleven kan använda positiva rationella tal och negativa heltal i räkneoperationer.",
+        "9": "Eleven använder positiva rationella tal och negativa heltal som del av problemlösning."
+      }
+    },
+    {
+      "id": "M10",
+      "goalText": "handleda eleven att uppnå flytande räknefärdigheter både i huvudräkning och skriftligt genom att utnyttja räkneoperationernas egenskaper",
+      "assessmentTarget": "Räknefärdigheter och att utnyttja de grundläggande räkneoperationernas egenskaper",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven utför basräkneoperationer med två naturliga tal.",
+        "7": "Eleven utför räkneoperationer som består av flera än en räkneoperation med naturliga tal och kan under handledning dela upp talen i en enklare form som stöder en huvudräkning.",
+        "8": "Eleven utför på ett flytande sätt beräkningar som består av flera räkneuttryck och kan dela upp talen i en enklare form som stöder uträkningen.",
+        "9": "Eleven kan mångsidigt använda olika beräkningssätt."
+      }
+    },
+    {
+      "id": "M11",
+      "goalText": "handleda eleven att observera och beskriva geometriska egenskaper hos kroppar och figurer samt introducera eleven i geometriska begrepp",
+      "assessmentTarget": "Geometriska begrepp och förmåga att observera geometriska egenskaper",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven känner igen och nämner de vanligaste geometriska figurerna och kropparna samt deras delar. Eleven kan rita de vanligaste geometriska figurerna.",
+        "7": "Eleven observerar och beskriver sambanden mellan en punkt, sträcka, linje och vinkel. Eleven känner igen figurer som är symmetriska med avseende på linje. Eleven kan under handledning förstora eller förminska en figur. Eleven kan placera ut en given punkt i koordinatsystemet.",
+        "8": "Eleven observerar och beskriver egenskaper hos figurer och kroppar. Eleven ritar symmetriska figurer med avseende på en punkt eller en linje genom att använda koordinatsystemet. Eleven kan använda en given skala.",
+        "9": "Eleven kan använda egenskaper hos figurer och kroppar i problemlösning. Eleven kan rita förminskningar och förstoringar på figurer och bestämma skalan utgående från givna mått."
+      }
+    },
+    {
+      "id": "M12",
+      "goalText": "handleda eleven att uppskatta storleken av ett mätobjekt, välja lämpliga mätredskap och lämplig enhet samt bedöma mätresultatets rimlighet",
+      "assessmentTarget": "Förmåga att mäta",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven utför en mätning med givna mätredskap och meddelar hur många enheter med mätredskapet hen får som resultat. Eleven kan under handledning byta en längdenhet till en annan längdenhet.",
+        "7": "Eleven utför en mätning med ett mätredskap som hen valt och kan ange mätningens resultat i den efterfrågade enheten. Eleven kan byta enheter på rymdmåtten (l, dl, osv.).",
+        "8": "Eleven kan observera storleken på mätobjektet och väljer ett lämpligt redskap för mätningen. Eleven behärskar de vanligaste måttenhetsomvandlingarna och reflekterar över förnuftigheten hos mätresultaten.",
+        "9": "Eleven kan förklara faktorer som inverkar på mätningsresultatets noggrannhet och välja korrekt mätenhet. Eleven kan byta måttenheter på areor."
+      }
+    },
+    {
+      "id": "M13",
+      "goalText": "handleda eleven att utarbeta och tolka tabeller och diagram samt använda statistiska nyckeltal samt erbjuda eleven upplevelser om sannolikhet",
+      "assessmentTarget": "Att göra och tolka tabeller och diagram samt klassisk sannolikhet",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan göra en tabell på observationerna och läsa ett stapeldiagram. Eleven kan plocka ut den observation som det finns flest värden på och kan under handledning beräkna medelvärdet av tal. Eleven känner igen en säker händelse.",
+        "7": "Eleven kan tolka olika diagram. Eleven kan bestämma typvärdet och beräkna medelvärdet. Eleven kan beräkna det efterfrågade antalet alternativ och det totala antalet alternativ.",
+        "8": "Eleven kan göra en användbar beskrivning med tabell eller diagram. Eleven kan avgöra vilket av alternativen som är mest sannolikt.",
+        "9": "Eleven utnyttjar tabeller, diagram samt typvärdet och medelvärdet. Eleven kan med hjälp av en händelse bestämma den motsatta händelsen."
+      }
+    },
+    {
+      "id": "M14",
+      "goalText": "inspirera eleven att utarbeta instruktioner som datorprogram i en visuell programmeringsmiljö",
+      "assessmentTarget": "Visuell programmering",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven testar ett färdigt program och identifierar vad olika kommandon utför i praktiken.",
+        "7": "Eleven kan sätta till en villkorseller upprepningsstruktur i ett färdigt program. Hen kan söka efter ett fel i programmet och korrigera felet.",
+        "8": "Eleven kan programmera ett fungerande program i en visuell programmeringsmiljö, i vilket villkorsoch upprepningsstrukturer används.",
+        "9": "Eleven använder visuell programmering i problemlösning. Eleven kan utvärdera programmet och editera det så att det kan användas för ett specifikt ändamål."
+      }
+    }
+  ]
+}
