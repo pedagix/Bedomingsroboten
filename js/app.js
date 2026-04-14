@@ -7,7 +7,8 @@ const state = {
   subjectData: null,
   currentGoalIndex: 0,
   answers: {},
-  skippedGoals: []
+  skippedGoals: [],
+  pendingFocusEffect: false
 };
 
 const subjectsByGrade = {
@@ -50,6 +51,52 @@ function formatSentenceForDisplay(text) {
   }
 
   return cleaned;
+}
+
+function smoothScrollToTop(duration = 200) {
+  return new Promise((resolve) => {
+    const startY = window.scrollY || window.pageYOffset;
+    if (startY <= 0) {
+      resolve();
+      return;
+    }
+
+    const startTime = performance.now();
+
+    function easeOutCubic(t) {
+      return 1 - Math.pow(1 - t, 3);
+    }
+
+    function step(currentTime) {
+      const elapsed = currentTime - startTime;
+      const progress = Math.min(elapsed / duration, 1);
+      const eased = easeOutCubic(progress);
+      const nextY = startY * (1 - eased);
+
+      window.scrollTo(0, nextY);
+
+      if (progress < 1) {
+        requestAnimationFrame(step);
+      } else {
+        window.scrollTo(0, 0);
+        resolve();
+      }
+    }
+
+    requestAnimationFrame(step);
+  });
+}
+
+function runNewGoalFocusEffect() {
+  const flashTarget =
+    document.querySelector(".target-box") ||
+    document.querySelector(".goal-content-box");
+
+  if (!flashTarget) return;
+
+  flashTarget.classList.remove("flash-target");
+  void flashTarget.offsetWidth;
+  flashTarget.classList.add("flash-target");
 }
 
 async function loadSubjectData() {
@@ -142,6 +189,7 @@ function renderStartScreen() {
       state.currentGoalIndex = 0;
       state.answers = {};
       state.skippedGoals = [];
+      state.pendingFocusEffect = false;
       state.currentScreen = "assessment";
       renderApp();
     } catch (error) {
@@ -233,11 +281,7 @@ function renderAssessmentScreen() {
                 ${gradeRowsHtml}
               </div>
             `
-            : `
-              <div class="non-assessable-box">
-                Detta mål används inte som grund för bildandet av vitsord.
-              </div>
-            `
+            : ``
         }
 
         <div class="bottom-nav">
@@ -262,6 +306,7 @@ function renderAssessmentScreen() {
     }
 
     state.currentGoalIndex--;
+    state.pendingFocusEffect = false;
     renderApp();
   });
 
@@ -271,7 +316,7 @@ function renderAssessmentScreen() {
         const grade = Number(button.dataset.grade);
         state.answers[goal.id] = grade;
         state.skippedGoals = state.skippedGoals.filter((id) => id !== goal.id);
-        goToNextStep();
+        goToNextStep(true);
       });
     });
 
@@ -282,11 +327,18 @@ function renderAssessmentScreen() {
         state.skippedGoals.push(goal.id);
       }
 
-      goToNextStep();
+      goToNextStep(true);
     });
   } else {
     document.getElementById("nextBtn").addEventListener("click", () => {
-      goToNextStep();
+      goToNextStep(true);
+    });
+  }
+
+  if (state.pendingFocusEffect) {
+    state.pendingFocusEffect = false;
+    smoothScrollToTop(200).then(() => {
+      runNewGoalFocusEffect();
     });
   }
 }
@@ -331,14 +383,16 @@ function renderSummaryScreen() {
   document.getElementById("newSubjectBtn").addEventListener("click", resetToStart);
 }
 
-function goToNextStep() {
+function goToNextStep(withFocusEffect = false) {
   const totalGoals = state.subjectData.goals.length;
 
   if (state.currentGoalIndex < totalGoals - 1) {
     state.currentGoalIndex++;
+    state.pendingFocusEffect = withFocusEffect;
     renderApp();
   } else {
     state.currentScreen = "summary";
+    state.pendingFocusEffect = false;
     renderApp();
   }
 }
@@ -351,6 +405,7 @@ function resetToStart() {
   state.currentGoalIndex = 0;
   state.answers = {};
   state.skippedGoals = [];
+  state.pendingFocusEffect = false;
   renderApp();
 }
 
@@ -375,6 +430,7 @@ function restartSameSubject() {
   state.currentGoalIndex = 0;
   state.answers = {};
   state.skippedGoals = [];
+  state.pendingFocusEffect = false;
   renderApp();
 }
 
