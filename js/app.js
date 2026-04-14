@@ -12,10 +12,37 @@ const state = {
 };
 
 const subjectsByGrade = {
+  "6": [
+    { id: "annat-frammande-sprak-a-larokurs", name: "Annat främmande språk, A-lärokurs" },
+    { id: "bildkonst", name: "Bildkonst" },
+    { id: "engelska-a-larokurs", name: "Engelska, A-lärokurs" },
+    { id: "finska-a-larokurs", name: "Finska, A-lärokurs" },
+    { id: "finska-b1-larokurs", name: "Finska, B1-lärokurs" },
+    { id: "finska-modersmalsinriktad-larokurs", name: "Finska, modersmålsinriktad lärokurs" },
+    { id: "finska-och-litteratur", name: "Finska och litteratur" },
+    { id: "finska-som-andrasprak-och-litteratur", name: "Finska som andraspråk och litteratur" },
+    { id: "frammande-sprak-b1-larokurs", name: "Främmande språk, B1-lärokurs" },
+    { id: "gymnastik", name: "Gymnastik" },
+    { id: "historia", name: "Historia" },
+    { id: "livsaskadningskunskap", name: "Livsåskådningskunskap" },
+    { id: "matematik", name: "Matematik" },
+    { id: "musik", name: "Musik" },
+    { id: "omgivningslara", name: "Omgivningslära" },
+    { id: "religion", name: "Religion" },
+    { id: "romani-och-litteratur", name: "Romani och litteratur" },
+    { id: "samhallslara", name: "Samhällslära" },
+    { id: "samiska-a-larokurs", name: "Samiska, A-lärokurs" },
+    { id: "samiska-och-litteratur", name: "Samiska och litteratur" },
+    { id: "slojd", name: "Slöjd" },
+    { id: "svenska-a-larokurs", name: "Svenska, A-lärokurs" },
+    { id: "svenska-modersmalsinriktad-a-larokurs", name: "Svenska, modersmålsinriktad A-lärokurs" },
+    { id: "svenska-och-litteratur", name: "Svenska och litteratur" },
+    { id: "svenska-som-andrasprak-och-litteratur", name: "Svenska som andraspråk och litteratur" },
+    { id: "teckensprak-och-litteratur", name: "Teckenspråk och litteratur" }
+  ],
   "7-9": [
     { id: "biologi", name: "Biologi" },
     { id: "bildkonst", name: "Bildkonst" },
-    { id: "elevhandledning", name: "Elevhandledning" },
     { id: "fysik", name: "Fysik" },
     { id: "geografi", name: "Geografi" },
     { id: "gymnastik", name: "Gymnastik" },
@@ -130,6 +157,7 @@ function renderStartScreen() {
             <label for="gradeSelect">Årskurs</label>
             <select id="gradeSelect">
               <option value="">Välj årskurs</option>
+              <option value="6" ${state.selectedGradeCategory === "6" ? "selected" : ""}>6</option>
               <option value="7-9" ${state.selectedGradeCategory === "7-9" ? "selected" : ""}>7–9</option>
             </select>
           </div>
