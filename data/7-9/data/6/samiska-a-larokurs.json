@@ -1,0 +1,157 @@
+{
+  "subjectId": "samiska-a-larokurs",
+  "subjectName": "Samiska, A -lärokurs",
+  "gradeCategory": "6",
+  "notes": null,
+  "goals": [
+    {
+      "id": "M1",
+      "goalText": "väcka elevens intresse för den språkliga och kulturella mångfalden i närområdet, Sameland, Finland och Norden, och för sin egen språkoch kulturbakgrund",
+      "assessmentTarget": null,
+      "assessable": false,
+      "message": "Används inte som grund för bildandet av vitsord.",
+      "notes": "Eleven handleds att reflektera över sina erfarenheter som en del av självvärderingen.",
+      "criteria": {}
+    },
+    {
+      "id": "M2",
+      "goalText": "motivera eleven att uppskatta de samiska språkens ställning som urfolksspråk samt introducera eleven i den lokala, levande samekulturen",
+      "assessmentTarget": "Förmåga att bilda sig en uppfattning om de samiska språkens ställning och betydelse som urfolksspråk samt kännedom om den lokala, levande samekulturen.",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan nämna några samiska språk. Eleven kan ge något exempel på typiska drag för den lokala, levande samekulturen.",
+        "7": "Eleven kan nämna några samiska språk som talas i Sameland. Eleven kan ge några exempel på typiska drag i den lokala, levande samekulturen.",
+        "8": "Eleven kan berätta varför samiska talas i Finland och känner till de samiska språkens mångfald. Eleven kan ge exempel på typiska drag i den lokala, levande samekulturen.",
+        "9": "Eleven kan berätta varför samiska talas i Sameland. Eleven kan beskriva de samiska språkens mångfald. Eleven kan jämföra typiska drag i den lokala, levande samekulturen."
+      }
+    },
+    {
+      "id": "M3",
+      "goalText": "handleda eleven att lägga märke till vad som förenar respektive skiljer olika språk åt samt stödja eleven att utveckla språklig nyfikenhet och språklig slutledningsförmåga",
+      "assessmentTarget": "Språklig slutledningsförmåga",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan nämna någon likhet och olikhet mellan de samiska språken och modersmålet eller andra språk hen kan.",
+        "7": "Eleven kan ge exempel på likheter och olikheter mellan de samiska språken och modersmålet eller andra språk hen kan.",
+        "8": "Eleven kan berätta om likheter och olikheter mellan de samiska språken och modersmålet eller andra språk hen kan. Eleven kan nämna några strategier som stödjer utvecklingen av hens språkliga slutledningsförmåga.",
+        "9": "Eleven kan jämföra likheter och olikheter mellan de samiska språken, modersmålet eller andra språk hen kan. Eleven kan använda lämpliga strategier som stödjer utvecklingen av hens språkliga slutledningsförmåga."
+      }
+    },
+    {
+      "id": "M4",
+      "goalText": "handleda eleven att hitta material på samiska",
+      "assessmentTarget": "Förmåga att hitta material på samiska",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan ge ett exempel på något för hen själv lämpligt material på samiska.",
+        "7": "Eleven kan ge exempel på material på samiska som är intressanta för hen själv.",
+        "8": "Eleven kan berätta om material på samiska som är lämpliga och intressanta för hen själv.",
+        "9": "Eleven kan jämföra material på samiska som är lämpliga och intressanta för hen själv."
+      }
+    },
+    {
+      "id": "M5",
+      "goalText": "tillsammans gå igenom målen för undervisningen och skapa en tillåtande studieatmosfär där det viktiga är att budskapet går fram och att uppmuntra varandra att lära sig tillsammans",
+      "assessmentTarget": "Förmåga att berätta om målen för sina studier i samiska och fungera i grupp.",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan nämna något enskilt mål för sina studier i samiska. Eleven deltar stundvis i gruppens aktiviteter och kan samarbeta.",
+        "7": "Eleven kan ge några exempel på mål för sina studier i samiska. Eleven deltar i gruppens aktiviteter och samarbetar.",
+        "8": "Eleven kan berätta om målen för sina studier i samiska. Eleven deltar i gruppens aktiviteter och samarbetar på ett sätt som motiverar till att lära sig tillsammans.",
+        "9": "Eleven kan berätta om målen för sina studier i samiska och berätta hur hen arbetar för att uppnå målen. Eleven deltar i gruppens aktiviteter och samarbetar på ett mångsidigt sätt och som motiverar till att lära sig tillsammans."
+      }
+    },
+    {
+      "id": "M6",
+      "goalText": "handleda eleven att ta ansvar för sina språkstudier och modigt öva sina kunskaper i samiska, också med hjälp av digitala verktyg, samt att pröva sig fram till vilka sätt att lära sig språk som passar hen bäst",
+      "assessmentTarget": "Förmåga att ta ansvar för sina studier i samiska samt hitta lämpliga sätt att lära sig språk.",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan under handledning i någon mån ta ansvar för sina studier i samiska. Eleven kan använda något sätt, även digitala, för att lära sig samiska och andra språk.",
+        "7": "Eleven kan i någon mån ta ansvar för sina studier i samiska. Eleven kan använda några sätt, även digitala, för att lära sig samiska och andra språk.",
+        "8": "Eleven kan ta relativt stort ansvar för sina studier i samiska. Eleven kan använda många olika sätt, även digitala, för att lära sig samiska och andra språk och som främjar det egna lärandet.",
+        "9": "Eleven kan ta stort ansvar för sina studier i samiska. Eleven kan mångsidigt utnyttja olika sätt, även digitala, för att lära sig samiska och andra språk och som främjar det egna lärandet."
+      }
+    },
+    {
+      "id": "M7",
+      "goalText": "ordna tillfällen där eleven med hjälp av olika medier får öva muntlig och skriftlig kommunikation",
+      "assessmentTarget": "Förmåga att kommunicera i olika situationer",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven klarar sporadiskt av, med stöd av sin samtalspartner, några ofta återkommande och rutinmässiga kommunikationssituationer.",
+        "7": "Eleven klarar sporadiskt av ofta återkommande rutinmässiga kommunikationssituationer, men tar för det mesta ännu stöd av sin samtalspartner.",
+        "8": "Eleven reder sig i många rutinmässiga kommunikationssituationer men tar ibland stöd av sin samtalspartner.",
+        "9": "Eleven kan utbyta tankar eller information i bekanta och vardagliga situationer och stundtals hålla igång en konversation."
+      }
+    },
+    {
+      "id": "M8",
+      "goalText": "stödja eleven i användningen av språkliga kommunikationsstrategier",
+      "assessmentTarget": "Förmåga att använda kommunikationsstrategier",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven behöver mycket hjälpmedel (till exempel gester, teckningar, lexikon, internet). Eleven kan ibland gissa eller härleda enskilda ords betydelse utgående från kontexten, allmän kunskap eller sina andra språkkunskaper. Eleven kan uttrycka om hen har förstått.",
+        "7": "Eleven använder sig av det mest centrala ordoch uttrycksförrådet i sin kommunikation. Eleven behöver mycket hjälpmedel. Eleven kan be samtalspartnern att upprepa eller tala långsammare.",
+        "8": "Eleven deltar i kommunikation men behöver fortfarande ofta hjälpmedel. Eleven kan reagera med korta verbala uttryck, små gester (t.ex. genom att nicka), ljud eller liknande minimal respons. Eleven måste ofta be samtalspartnern att förtydliga eller upprepa.",
+        "9": "Eleven deltar i allt högre grad i kommunikation. Eleven använder mer sällan nonverbala uttryck. Eleven måste relativt ofta be samtalspartnern upprepa eller förtydliga. Eleven kan i någon mån utnyttja samtalspartnerns uttryck i sin egen kommunikation."
+      }
+    },
+    {
+      "id": "M9",
+      "goalText": "hjälpa eleven att öka sin kännedom om uttryck som kan användas i och som hör till artigt språkbruk",
+      "assessmentTarget": "Kulturellt lämpligt språkbruk",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan använda några för språket eller kulturen typiska artighetsfraser (hälsa, säga adjö, tacka) i några mycket rutinmässiga sociala sammanhang.",
+        "7": "Eleven kan använda några av de allra vanligaste artighetsfraserna typiska för språket i rutinmässiga sociala sammanhang.",
+        "8": "Eleven kan använda vanliga uttryck som kännetecknar artigt språkbruk i många rutinmässiga sociala sammanhang.",
+        "9": "Eleven klarar av korta sociala situationer. Eleven kan använda de vanligaste artiga hälsningsoch tilltalsfraserna samt artigt framföra till exempel önskemål, invitationer, förslag och ursäkter och besvara sådana."
+      }
+    },
+    {
+      "id": "M10",
+      "goalText": "uppmuntra eleven att tolka för sig själv och sin åldersgrupp lämpliga och intressanta muntliga och skriftliga texter",
+      "assessmentTarget": "Förmåga att tolka texter",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven förstår en begränsad mängd talade och skrivna ord och uttryck. Eleven känner till teckensystemet eller ett mycket begränsat antal skrivtecken. A1.1",
+        "7": "Eleven förstår skriven text bestående av några ord och långsamt tal som innehåller inövade, bekanta ord och uttryck. Eleven kan urskilja enskilda fakta i en text. A1.1/A1.2",
+        "8": "Eleven förstår med hjälp av kontexten skriven text och långsamt tal som innehåller enkla, bekanta ord och uttryck. Eleven kan plocka ut enkel information som hen behöver ur en kort text. A1.2",
+        "9": "Eleven förstår texter som innehåller enkla, bekanta ord och uttryck samt tydligt tal. Eleven förstår det centrala innehållet i korta, enkla budskap som intresserar hen och grundtankarna i en förutsägbar text som innehåller ett bekant ordförråd. Eleven klarar mycket enkel slutledning med hjälp av kontexten. A1.3"
+      }
+    },
+    {
+      "id": "M11",
+      "goalText": "ge eleven många möjligheter att öva sig i att tala och skriva i för åldern lämpliga situationer och i detta sammanhang fästa uppmärksamhet vid uttal och vid strukturer som är relevanta för textens innehåll",
+      "assessmentTarget": "Förmåga att producera texter",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan uttrycka sig mycket begränsat i tal med hjälp av inövade ord och inlärda standarduttryck. Eleven uttalar några inövade uttryck begripligt. Eleven kan skriva några enskilda ord och uttryck.",
+        "7": "Eleven kan uttrycka sig mycket begränsat i tal med hjälp av inövade ord och inlärda standarduttryck. Eleven uttalar några inövade uttryck begripligt och kan skriva några enskilda ord och uttryck.",
+        "8": "Eleven kan med hjälp av ett begränsat uttrycksförråd berätta om några bekanta och för hen viktiga saker samt skriva några korta meningar om inövade ämnen. Eleven uttalar de flesta inövade uttrycken begripligt. Eleven behärskar ett mycket begränsat ordförråd, några situationsbundna uttryck och en del av den elementära grammatiken.",
+        "9": "Eleven behärskar en begränsad mängd korta, inövade uttryck, det mest centrala ordförrådet och grundläggande satsstrukturer. Eleven kan med hjälp av ett begränsat uttrycksförråd berätta om vardagliga och för hen viktiga saker samt skriva enkla meddelanden. Eleven uttalar inövade uttryck begripligt."
+      }
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "subjectId": "livsaskadningskunskap",
+  "subjectName": "Livsåskådningskunskap",
+  "gradeCategory": "6",
+  "notes": null,
+  "goals": [
+    {
+      "id": "M1",
+      "goalText": "skapa förutsättningar för eleven att utveckla sitt etiska tänkande och sporra eleven att tillämpa etiska principer i vardagliga situationer",
+      "assessmentTarget": "Förmåga till etiskt tänkande och att tillämpa etiska principer.",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan under handledning beskriva någon etisk princip eller ett etiskt val som ska göras i vardagen.",
+        "7": "Eleven kan beskriva en etisk princip och ett etiskt val som ska göras i vardagen.",
+        "8": "Eleven förstår centrala begrepp och principer i etiken. Eleven kan beskriva och motivera hur etiska principer kan tillämpas i vardagen.",
+        "9": "Eleven förstår centrala begrepp och principer i etiken. Eleven kan förklara och motivera hur etiska principer kan tillämpas logiskt i olika situationer."
+      }
+    },
+    {
+      "id": "M2",
+      "goalText": "handleda eleven att känna igen och bedöma ett argument och motiveringar till det",
+      "assessmentTarget": "Förmåga att känna igen och bedöma argument och motiveringar",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan under handledning känna igen ett argument i en diskussion eller text.",
+        "7": "Eleven kan urskilja ett argument och motiveringen till det i en diskussion och en text.",
+        "8": "Eleven kan urskilja centrala argument och motiveringar till dem i en diskussion och i en text samt reflektera över hur relevanta motiveringarna är.",
+        "9": "Eleven kan urskilja centrala argument med motiveringar i en diskussion och i olika texter. Eleven kan på ett mångsidigt sätt reflektera över hur relevanta motiveringarna är."
+      }
+    },
+    {
+      "id": "M3",
+      "goalText": "främja elevens förmåga att uppfatta samband mellan olika företeelser och att utveckla sitt tänkande",
+      "assessmentTarget": "Tankefärdigheter",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan under handledning uppfatta samband mellan olika företeelser eller felaktiga slutsatser.",
+        "7": "Eleven kan uppfatta samband mellan olika företeelser och felaktiga slutsatser.",
+        "8": "Eleven uppfattar samband mellan olika företeelser. Eleven kan identifiera felaktiga slutsatser och undvika sådana i sitt eget tänkande.",
+        "9": "Eleven uppfattar på ett mångsidigt sätt samband mellan olika företeelser och identifierar felaktiga slutsatser. Eleven kan tilllämpa dessa färdigheter i sitt tänkande."
+      }
+    },
+    {
+      "id": "M4",
+      "goalText": "vägleda eleven att ta ansvar för sig själv, andra människor och naturen",
+      "assessmentTarget": "Kunskap om vad det innebär att ta ansvar",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan under handledning beskriva ett sätt att ta ansvar för sig själv, andra människor eller naturen.",
+        "7": "Eleven kan beskriva ett sätt att ta ansvar för sig själv, andra människor och naturen.",
+        "8": "Eleven kan beskriva vad det innebär att ta ansvar för sig själv, andra och naturen och redogöra för vad det innebär att ta ansvar för sina egna handlingar.",
+        "9": "Eleven kan förklara och motivera vad det innebär att ta ansvar för sig själv, andra och naturen och med olika exempel beskriva vad det innebär att ta ansvar för sina egna handlingar."
+      }
+    },
+    {
+      "id": "M5",
+      "goalText": "vägleda eleven att lära känna Finlands, Europas och världens kulturarv och att förstå kulturell mångfald som fenomen",
+      "assessmentTarget": "Förmåga att tilllämpa kunskaper och begrepp",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan under handledning nämna en kulturell minoritet. Eleven kan under handledning nämna ett kulturarv.",
+        "7": "Eleven vet att det finns olika kulturer och kan nämna en kulturell minoritet och något karakteristiskt för den. Eleven kan nämna ett kulturarv.",
+        "8": "Eleven kan nämna och förklara några särdrag i anknytning till kultur i Finlands, Europas och världens kulturarv. Eleven kan ge exempel på kulturell mångfald i gruppen eller i samhället.",
+        "9": "Eleven kan nämna och förklara flera särdrag i anknytning till kultur i Finlands, Europas och världens kulturarv. Eleven kan beskriva gruppens eller samhällets kulturella mångfald och reflektera över dess betydelse."
+      }
+    },
+    {
+      "id": "M6",
+      "goalText": "stödja eleven att utveckla sin allmänbildning inom åskådning och kultur",
+      "assessmentTarget": "Förmåga att tilllämpa kunskaper och begrepp",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan nämna någon åskådning, kultur eller något åskådningsmässigt begrepp.",
+        "7": "Eleven kan nämna någon åskådning eller kultur och något särdrag i anknytning till den. Eleven känner till åtminstone ett åskådningsmässigt begrepp.",
+        "8": "Eleven kan nämna någon åskådning eller kultur och redogöra för den med hjälp av åskådningsmässiga begrepp.",
+        "9": "Eleven kan nämna några åskådningar och kulturer. Eleven kan berätta om och ge exempel på dem genom att använda åskådningsmässiga begrepp."
+      }
+    },
+    {
+      "id": "M7",
+      "goalText": "handleda eleven att planera och utvärdera sitt eget lärande i livsåskådning",
+      "assessmentTarget": "Förmåga att lära sig",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan under handledning ställa upp ett mål för sitt eget åskådningsmässiga lärande.",
+        "7": "Eleven kan identifiera sitt kunnande och ställa upp åtminstone ett mål för sitt eget åskådningsmässiga lärande. Under handledning planerar och utvärderar eleven sina studier.",
+        "8": "Eleven kan ställa upp ändamålsenliga mål för sig i anknytning till sina åskådningsmässiga studier, sträva efter att arbeta i riktning mot målen och utvärdera hur de nås.",
+        "9": "Eleven ställer upp ändamålsenliga mål för sig i anknytning till sina åskådningsmässiga studier och arbetar i enlighet med dem. Eleven utvärderar på ett mångsidigt sätt hur hen når målen."
+      }
+    },
+    {
+      "id": "M8",
+      "goalText": "uppmuntra eleven att uttrycka sin åskådning och att lyssna på andras ställningstaganden i åskådningsfrågor",
+      "assessmentTarget": "Sociala färdigheter och förmåga att arbeta i grupp",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven lyssnar sakligt till de andras ställningstaganden i åskådningsmässiga frågor.",
+        "7": "Eleven uttrycker under handledning sina ställningstaganden i åskådningsmässiga frågor.",
+        "8": "Eleven uttrycker sina åskådningsmässiga tankar eller sin identitet på ett konstruktivt sätt. Eleven agerar i positiv kommunikation med andra.",
+        "9": "Eleven uttrycker sina åskådningsmässiga tankar eller sin identitet på ett mångsidigt sätt. Eleven agerar konstruktivt i kommunikation med andra."
+      }
+    },
+    {
+      "id": "M9",
+      "goalText": "vägleda eleven att bekanta sig med människorättsetiken som bygger på FN:s deklaration om de mänskliga rättigheterna, i synnerhet barnets rättigheter",
+      "assessmentTarget": "Kunskap om människorättsetik",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan under handledning beskriva en central barnets rättighet.",
+        "7": "Eleven känner till begreppet mänskliga rättigheter. Eleven vet att det finns mänskliga rättigheter och kan beskriva en central sådan. Eleven vet att det finns rättigheter för barn och kan beskriva en central sådan.",
+        "8": "Eleven förstår begreppet mänsklig rättighet. Eleven vet att FN:s universella deklaration om mänskliga rättigheter finns och kan redogöra för två mänskliga rättigheter.",
+        "9": "Eleven förstår och kan förklara begreppet mänsklig rättighet. Eleven vet att FN:s universella deklaration om mänskliga rättigheter finns och kan redogöra för åtminstone tre mänskliga rättigheter. Eleven vet och kan motivera det att det finns många rättigheter för barn och kan redogöra för åtminstone tre."
+      }
+    },
+    {
+      "id": "M10",
+      "goalText": "uppmuntra eleven att ta initiativ och agera på ett ansvarsfullt sätt i sin omgivning",
+      "assessmentTarget": "Kännedom om sätt att påverka",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan under handledning berätta om ett sätt att agera ansvarsfullt i sin omgivning.",
+        "7": "Eleven kan beskriva ett mål för hållbar utveckling. Eleven kan berätta om ett sätt att",
+        "8": "Eleven vet att det finns olika mål för hållbar utveckling och kan beskriva och motivera två av dem.",
+        "9": "Eleven vet att uppsättningen av mål för hållbar utveckling är en omfattande helhet. Eleven kan beskriva och motivera"
+      }
+    }
+  ]
+}

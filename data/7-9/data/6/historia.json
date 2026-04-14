@@ -1,0 +1,129 @@
+{
+  "subjectId": "historia",
+  "subjectName": "Historia",
+  "gradeCategory": "6",
+  "notes": null,
+  "goals": [
+    {
+      "id": "M1",
+      "goalText": "väcka elevens intresse för historia som vetenskap och identitetsskapande läroämne",
+      "assessmentTarget": null,
+      "assessable": false,
+      "message": "Används inte som grund för bildandet av vitsord.",
+      "notes": "Eleven handleds att reflektera över sina erfarenheter som en del av självvärderingen.",
+      "criteria": {}
+    },
+    {
+      "id": "M2",
+      "goalText": "handleda eleven att känna till olika historiska källor",
+      "assessmentTarget": "Förmåga att känna till historiska källor",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven känner till några historiska källor.",
+        "7": "Eleven ger exempel på historiska ursprungskällor för de tidsperioder som ska studeras.",
+        "8": "Eleven ger ett exempel på hur en ursprungskälla skiljer sig från andrahandskällor.",
+        "9": "Eleven ger exempel på hur ursprungskällorna för de tidsperioder som studeras skiljer sig från andrahandskällor."
+      }
+    },
+    {
+      "id": "M3",
+      "goalText": "hjälpa eleven att inse att historisk information kan tolkas på olika sätt",
+      "assessmentTarget": "Förmåga att inse att historisk information kan tolkas på olika sätt",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven ger exempel på historiska fakta.",
+        "7": "Eleven ger exempel på historiska fakta och tolkningar.",
+        "8": "Eleven inser att det kan finnas olika tolkningar av samma händelse eller företeelse.",
+        "9": "Eleven ger exempel på olika tolkningar i anknytning till samma händelse eller företeelse."
+      }
+    },
+    {
+      "id": "M4",
+      "goalText": "hjälpa eleven att förstå olika sätt att dela in historien i epoker och att använda därmed relaterade historiska begrepp",
+      "assessmentTarget": "Kronologisk uppfattning",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven känner till de centrala indelningarna i historiska epoker (antiken, medeltiden, nya tiden; förhistorisk tid, historisk tid; f.v.t., e.v.t)",
+        "7": "Eleven nämner de centrala indelningarna i historiska epoker och placerar händelser under olika epoker kronologiskt.",
+        "8": "Eleven använder de centrala indelningarna i historiska epoker och ger exempel på olika särdrag som kännetecknar samhällen under olika tider och epoker.",
+        "9": "Eleven beskriver företeelser utifrån vilka indelningen i historiska epoker görs."
+      }
+    },
+    {
+      "id": "M5",
+      "goalText": "hjälpa eleven att förstå motiven bakom människans handlingar",
+      "assessmentTarget": "Historisk inlevelseförmåga",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven inser att människor har haft olika motiv för sina handlingar.",
+        "7": "Eleven ger exempel på motiv som människor i förgången tid har haft för sina handlingar.",
+        "8": "Eleven lever sig in i situationen för människan i förgången tid och anger motiv till hennes handlingar.",
+        "9": "Eleven lever sig in i hur människan levde förr och granskar hur människans samhälleliga ställning påverkar hennes handlingar."
+      }
+    },
+    {
+      "id": "M6",
+      "goalText": "handleda eleven att inse olika orsaker till och följder av historiska händelser och företeelser",
+      "assessmentTarget": "Förståelse för orsakssammanhang i historia",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven känner till en enskild orsak till eller följd av något som hänt i det förgångna.",
+        "7": "Eleven känner till en enskild orsak och en följd av den för sådant som hänt i det förgångna.",
+        "8": "Eleven känner till orsaker till och följder av sådant som hänt i det förgångna.",
+        "9": "Eleven känner till olika orsaker (direkta och indirekta) till och följder (långvariga och kortvariga) av sådant som hänt i det förgångna."
+      }
+    },
+    {
+      "id": "M7",
+      "goalText": "hjälpa eleven att identifiera förändringar i den egna familjens eller samhällets historia samt förstå hur samma förändringar har kunnat få olika innebörd för olika människor",
+      "assessmentTarget": "Förmåga att förstå förändring",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven känner till saker som förändrats.",
+        "7": "Eleven känner till förändringar i det förgångna och ger exempel på vad en förändring inneburit för olika människor.",
+        "8": "Eleven beskriver med hjälp av exempel hur en förändring haft olika innebörd för olika människogrupper.",
+        "9": "Eleven ger exempel på situationer i vilka en förändring inte innebär utveckling för olika människor eller människogrupper."
+      }
+    },
+    {
+      "id": "M8",
+      "goalText": "lära eleven att uppfatta historiska kontinuiteter",
+      "assessmentTarget": "Förmåga att förstå kontinuitet",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven känner till hur en företeelse ur det förgångna är synlig i nutid.",
+        "7": "Eleven nämner företeelser som kännetecknas av kontinuitet från en tidsepok till en annan.",
+        "8": "Eleven beskriver kontinuitet i företeelser i det förgångna.",
+        "9": "Eleven anger orsaker till att någon företeelse inte förändrats under olika tider."
+      }
+    },
+    {
+      "id": "M9",
+      "goalText": "handleda eleven att redogöra för orsaker till förändringar",
+      "assessmentTarget": "Förmåga att beskriva förhållandet mellan orsak och verkan",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven anger orsaken till en förändring.",
+        "7": "Eleven ger exempel på orsaker som lett till förändringar.",
+        "8": "Eleven beskriver inverkan av direkta och indirekta orsaker på en förändring.",
+        "9": "Eleven jämför olika orsakers inverkan på en förändring."
+      }
+    }
+  ]
+}

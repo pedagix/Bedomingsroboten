@@ -1,0 +1,204 @@
+{
+  "subjectId": "finska-och-litteratur",
+  "subjectName": "Finska och litteratur",
+  "gradeCategory": "6",
+  "notes": null,
+  "goals": [
+    {
+      "id": "T1",
+      "goalText": "opastaa oppilasta vahvistamaan taitoaan toimia rakentavasti erilaisissa viestintäympäristöissä ja Opetuksen tavoite ilmaisemaan mielipiteensä",
+      "assessmentTarget": "Toiminta vuorovaikutustilanteissa Arvioinnin kohteet",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Oppilas osaa toimia itselleen tutuissa ja arkisissa vuorovaikutustilanteissa. Osaamisen kuvaus arvosanalle 5 Oppilas osaa ilmaista ajatuksiaan vastaamalla esitettyihin kysymyksiin.",
+        "7": "Oppilas osaa toimia tavanomaisissa vuorovaikutustilanteissa. Osaamisen kuvaus arvosanalle 7 Oppilas osaa ohjatusti ilmaista ajatuksiaan ja mielipiteitään.",
+        "8": "Oppilas osaa toimia erilaisissa vuorovaikutustilanteissa. Osaamisen kuvaus arvosanalle 8 Oppilas osaa ilmaista ajatuksiaan ja mielipiteitään sekä esittää mielipiteelleen joitakin perusteluja.",
+        "9": "Oppilas osaa toimia rakentavasti monenlaisissa vuorovaikutustilanteissa. Osaamisen kuvaus arvosanalle 9 Oppilas osaa ilmaista mielipiteitään ja perustella niitä tilanteeseen sopivalla tavalla."
+      }
+    },
+    {
+      "id": "T2",
+      "goalText": "ohjata oppilasta huomaamaan omien kielellisten ja viestinnällisten valintojensa vaikutuksia ja huomioimaan toisten tarpeita ryhmäviestintä-tilanteissa",
+      "assessmentTarget": "Ryhmäviestinnän taidot",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Oppilas osaa kuunnella muita ja osallistuu keskusteluun asiallisesti.",
+        "7": "Oppilas osaa käyttää erilaisia kielellisiä keinoja osallistuessaan keskusteluun ryhmätilanteessa. Oppilas osaa mukauttaa viestintäänsä jonkin verran tilanteeseen sopivaksi.",
+        "8": "Oppilas osaa hyödyntää kielellisten keinojen lisäksi äänenkäytön, viestien kohdentamisen ja kontaktinoton taitoja erilaisissa ryhmätilanteissa. Oppilas osaa mukauttaa viestintäänsä ryhmätilanteeseen sopivaksi ja ottaa muut osallistujat huomioon.",
+        "9": "Oppilas osaa mukauttaa kielellisiä ja viestinnällisiä keinojaan tilanteeseen sopivalla tavalla. Oppilas osaa toimia rakentavasti ryhmässä ja ottaa muiden näkemykset huomioon keskustellessaan."
+      }
+    },
+    {
+      "id": "T3",
+      "goalText": "ohjata oppilasta käyttämään luovuuttaan ja ilmaisemaan itseään monipuolisesti erilaisissa viestintäja esitystilanteissa, myös draaman avulla Opetuksen tavoite",
+      "assessmentTarget": "Esiintymisen taidot Arvioinnin kohteet",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Oppilas osaa pitää lyhyen ja yksinkertaisen puhe-esityksen konkreettisesta, itselleen tutusta aiheesta apukysymysten avulla. Osaamisen kuvaus arvosanalle 5 Oppilas osaa ilmaista itseään ymmärrettävästi.",
+        "7": "Oppilas osaa pitää lyhyen valmistellun puhe-esityksen itselleen tutusta aiheesta. Oppilas osaa käyttää joitakin Osaamisen kuvaus arvosanalle 7 kokonaisilmaisun keinoja esiintyessään.",
+        "8": "Oppilas osaa pitää lyhyen valmistellun puhe-esityksen. Oppilas osaa käyttää kokonaisilmaisun keinoja esiintyessään. Osaamisen kuvaus arvosanalle 8",
+        "9": "Oppilas osaa pitää valmistellun puheesityksen. Oppilas osaa käyttää luovasti ja monipuolisesti kokonaisilmaisun keinoja esiintyessään. Osaamisen kuvaus arvosanalle 9"
+      }
+    },
+    {
+      "id": "T4",
+      "goalText": "kannustaa oppilasta kehittämään myönteistä viestijäkuvaa sekä halua ja kykyä toimia erilaisissa, myös monimediaisissa vuorovaikutustilanteissa",
+      "assessmentTarget": "Vuorovaikutus taitojen kehittäminen",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Oppilas osaa nimetä jonkin viestinnällisen vahvuutensa tai kehittämiskohteensa.",
+        "7": "Oppilas osaa kuvata itseään viestijänä ja nimetä muutaman vahvuutensa ja kehittämiskohteen.",
+        "8": "Oppilas osaa kuvata vahvuuksiaan ja kehittämiskohteitaan. Oppilas osaa ottaa vastaan palautetta ja antaa niukkaa palautetta muille.",
+        "9": "Oppilas osaa arvioida realistisesti omia viestintätaitojaan. Oppilas osaa ottaa vastaan ja hyödyntää palautetta omasta toiminnastaan sekä antaa monipuolista palautetta muille."
+      }
+    },
+    {
+      "id": "T5",
+      "goalText": "ohjata oppilasta sujuvoittamaan lukutaitoaan ja käyttämään tekstin ymmärtämisen strategioita sekä tarkkailemaan ja arvioimaan omaa lukemistaan Opetuksen tavoite",
+      "assessmentTarget": "Lukutaidon kehittäminen Arvioinnin kohteet",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Oppilas lukee hitaasti ja takellellen rakenteellisesti ja kielellisesti yksinkertaisia tekstejä. Oppilas osaa nimetä jonkin yksittäisen kehittämiskohteensa lukijana. Osaamisen kuvaus arvosanalle 5",
+        "7": "Oppilas lukee melko sujuvasti rakenteeltaan ja kieleltään yksinkertaisia tekstejä. Oppilas osaa käyttää jotakin yksinkertaista tekstinymmärtämisen perusstrategiaa. Oppilas osaa tarkkailla omaa Osaamisen kuvaus arvosanalle 7 lukemistaan ja kuvata itseään lukijana.",
+        "8": "Oppilas lukee sujuvasti ikätasolleen sopivia tekstejä. Oppilas osaa käyttää tavallisimpia tekstinymmärtämisen perusstrategioita. Oppilas osaa tarkkailla ja arvioida itseään lukijana. Osaamisen kuvaus arvosanalle 8",
+        "9": "Oppilas lukee sujuvasti ja tarkasti monenlaisia ikätasolleen sopivia tekstejä. Oppilas osaa käyttää tekstinymmärtämisen perusstrategioita monipuolisesti ja tarkoituksenmukaisesti. Osaamisen kuvaus arvosanalle 9"
+      }
+    },
+    {
+      "id": "T6",
+      "goalText": "opastaa oppilasta kehittämään monimuotoisten tekstien erittelyn, arvioinnin ja tulkitsemisen taitoja ja laajentamaan sanaja käsitevarantoaan sekä edistämään ajattelutaitojaan",
+      "assessmentTarget": "Tekstien erittely ja tulkinta",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Oppilas osaa selostaa jotakin tekstin sisällöstä apukysymysten avulla. Oppilas osaa tunnistaa teksteistä itselleen uusia sanoja ja käsitteitä. Oppilas osaa tunnistaa ohjatusti joitakin yksinkertaisille tekstilajeille tyypillisiä piirteitä.",
+        "7": "Oppilas osaa erottaa tekstin pääasioita ja nimetä ohjatusti tekstin jonkin tavoitteen. Oppilas osaa ohjatusti päätellä itselleen uusien sanojen ja käsitteiden merkityksiä. Oppilas osaa tehdä ohjatusti havaintoja kertovien, kuvaavien, ohjaavien ja yksinkertaisten kantaa ottavien tekstien joistakin kielellisistä ja tekstuaalisista piirteistä.",
+        "8": "Oppilas osaa ohjatusti tehdä havaintoja tekstin rakentamista merkityksistä ja pohtia sen tavoitteita. Oppilas osaa päätellä itselleen uusien sanojen ja käsitteiden merkityksiä. Oppilas osaa kuvata ohjatusti tavallisimpien kertovien, kuvaavien, ohjaavien ja yksinkertaisten kantaa ottavien tekstien keskeisiä kielellisiä, visuaalisia ja tekstuaalisia piirteitä.",
+        "9": "Oppilas osaa tehdä havaintoja tekstien rakentamista merkityksistä ja pohtia sen tavoitteita."
+      }
+    },
+    {
+      "id": "T7",
+      "goalText": "ohjata oppilasta tiedonhankintaan, monipuolisten tiedonlähteiden käyttöön ja tiedon Opetuksen tavoite luotettavuuden arviointiin",
+      "assessmentTarget": "Tiedonhankintataidot ja lähdekriittisyys Arvioinnin kohteet",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Oppilas osaa etsiä ohjatusti yksittäisiä tietoja annetuista lähteistä. Osaamisen kuvaus arvosanalle 5",
+        "7": "Oppilas osaa käyttää lähteenä eri tekstiympäristöjä sekä hakea ohjatusti tietoa niistä. Osaamisen kuvaus arvosanalle 7 Oppilas osaa ohjatusti tehdä havaintoja käyttämiensä lähteiden luotettavuudesta.",
+        "8": "Oppilas osaa käyttää erilaisia lähteitä sekä hakea tietoa niistä. Osaamisen kuvaus arvosanalle 8 Oppilas osaa nimetä joitakin lähteiden luotettavuuteen liittyviä piirteitä.",
+        "9": "Oppilas osaa käyttää monipuolisesti erilaisia lähteitä. Osaamisen kuvaus arvosanalle 9"
+      }
+    },
+    {
+      "id": "T8",
+      "goalText": "kannustaa oppilasta kehittämään kirjallisuudentuntemusta ja kiinnostustaan lapsille ja nuorille tarkoitettua kirjallisuutta, mediaja muita tekstejä kohtaan, luomalla mahdollisuuksia myönteisiin lukukokemuksiin ja elämyksiin, tiedonhalun tyydyttämiseen sekä lukukokemusten jakamiseen, myös monimediaisissa ympäristöissä",
+      "assessmentTarget": "Lapsille ja nuorille tarkoitetun kirjallisuuden ja tekstien tuntemus ja lukukokemusten jakaminen",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Oppilas osaa ohjatusti selostaa yksinkertaisen fiktiivisen tekstin juonen. Oppilas osaa apukysymysten avulla kertoa luku-, kuunteluja katselukokemuksistaan.",
+        "7": "Oppilas osaa kuvailla fiktiivisten tekstien piirteitä käyttämällä käsitteitä juoni ja henkilö. Oppilas osaa kuvata pintapuolisesti luku-, kuunteluja katselukokemuksiaan.",
+        "8": "Oppilas osaa eritellä fiktiivisiä tekstejä käyttämällä käsitteitä juoni, henkilö ja tapahtumapaikka ja -aika. Oppilas osaa kuvata luku-, kuunteluja katselukokemuksiaan.",
+        "9": "Oppilas osaa eritellä fiktiivisiä tekstejä käyttämällä tarkoituksenmukaisia käsitteitä. Oppilas osaa kuvata monipuolisesti ja pohtia luku-, kuunteluja katselukokemuksiaan."
+      }
+    },
+    {
+      "id": "T9",
+      "goalText": "rohkaista oppilasta ilmaisemaan kokemuksiaan, ajatuksiaan ja mielipiteitään ja vahvistamaan myönteistä Opetuksen tavoite kuvaa itsestään tekstien tuottajana",
+      "assessmentTarget": "Kokemusten, ajatusten ja mielipiteiden ilmaiseminen sekä tekstin tuottamisen taitojen kehittäminen Arvioinnin kohteet",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Oppilas osaa tuottaa mallien tai apukysymysten avulla tekstejä, joissa hän ilmaisee Osaamisen kuvaus arvosanalle 5 ajatuksiaan, kokemuksiaan tai mielipiteitään. Oppilas osaa ohjatusti nimetä jonkin yksittäisen kehittämiskohteensa tekstin tuottajana.",
+        "7": "Oppilas osaa ohjatusti tuottaa tekstejä, joissa hän ilmaisee kokemuksiaan, ajatuksiaan ja Osaamisen kuvaus arvosanalle 7 mielipiteitään ymmärrettävästi. Oppilas osaa kuvata itseään tekstin tuottajana ja nimetä jonkin vahvuuden ja kehittämiskohteen.",
+        "8": "Oppilas osaa tuottaa ajatuksiaan, kokemuksiaan ja mielipiteitään ilmaisevia tekstejä. Osaamisen kuvaus arvosanalle 8 Oppilas osaa eritellä vahvuuksiaan ja kehittämiskohteitaan tekstin tuottajana.",
+        "9": "Oppilas osaa tuottaa monipuolisesti ja sujuvasti kokemuksiaan, ajatuksiaan ja Osaamisen kuvaus arvosanalle 9 mielipiteitään ilmaisevia tekstejä. Oppilas osaa arvioida realistisesti itseään tekstin tuottajana."
+      }
+    },
+    {
+      "id": "T10",
+      "goalText": "kannustaa ja ohjata oppilasta kielentämään ajatuksiaan ja harjoittelemaan kertovien, kuvaavien, ohjaavien ja yksinkertaisten kantaa ottavien tekstien tuottamista, myös monimediaisissa ympäristöissä",
+      "assessmentTarget": "Tekstilajien hallinta",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Oppilas osaa tuottaa mallien tai apukysymysten avulla yksinkertaisia kertovia tekstejä itselleen tutuista aiheista.",
+        "7": "Oppilas osaa tuottaa ohjatusti kertovia, kuvaavia, ohjaavia tekstejä sekä käyttää joitakin niille tyypillisiä ilmaisutapoja.",
+        "8": "Oppilas osaa ohjatusti käyttää kertomiselle, kuvaamiselle, ohjaaville ja yksinkertaiselle kantaa ottavalle tekstille tyypillisiä ilmaisutapoja.",
+        "9": "Oppilas osaa käyttää tarkoituksenmukaisesti kertomiselle, kuvaamiselle, ohjaavalle ja yksinkertaiselle kantaa ottavalle tekstille tyypillisiä ilmaisutapoja."
+      }
+    },
+    {
+      "id": "T11",
+      "goalText": "ohjata oppilasta edistämään käsinkirjoittamisen ja näppäintaitojen sujuvoitumista ja vahvistamaan kirjoitetun kielen ja tekstien rakenteiden ja oikeinkirjoituksen hallintaa Opetuksen tavoite",
+      "assessmentTarget": "Kirjoitustaidon kehittäminen ja kirjoitetun kielen hallinta Arvioinnin kohteet",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Oppilas osaa kirjoittaa käsin sekä tietoja viestintäteknologiaa hyödyntäen lyhyitä tekstejä, joista saa selvää. Oppilas osaa käyttää yksinkertaisia Osaamisen kuvaus arvosanalle 5 virkeja lauserakenteita sekä käyttää satunnaisesti virkkeen lopetusmerkkejä ja isoa alkukirjainta virkkeen alussa ja erisnimissä. Ilmaisussa on paljon puheenvaraisuutta.",
+        "7": "Oppilas osaa kirjoittaa tekstejä melko sujuvasti sekä käsin kirjoittaen että tietoja viestintäteknologiaa hyödyntäen. Oppilas osaa ohjatusti otsikoida Osaamisen kuvaus arvosanalle 7 tekstinsä sekä muotoilla virkkeitä ja käyttää muutamia erilaisia lauserakenteita sekä noudattaa joitakin kirjoitetun yleiskielen käytänteitä.",
+        "8": "Oppilas osaa kirjoittaa tekstejä sujuvasti sekä käsin että tietoja viestintäteknologiaa hyödyntäen. Oppilas osaa ohjatusti otsikoida ja jaksottaa tekstinsä Osaamisen kuvaus arvosanalle 8 sekä hallitsee keskeiset kirjoitetun yleiskielen käytänteet. Ilmaisussa on satunnaista puheenvaraisuutta.",
+        "9": "Oppilas osaa kirjoittaa sujuvasti ja selkeästi käsin sekä tuottaa tekstiä tietoja viestintäteknologiaa hyödyntäen. Oppilas osaa otsikoida ja jaksottaa Osaamisen kuvaus arvosanalle 9 tekstinsä tarkoituksenmukaisella tavalla sekä hallitsee kirjoitetun yleiskielen käytänteitä."
+      }
+    },
+    {
+      "id": "T12",
+      "goalText": "kannustaa oppilasta kehittämään tekstin tuottamisen prosesseja ja taitoa arvioida omia tekstejä, tarjota mahdollisuuksia tekstien tuottamiseen yhdessä, rakentavan palautteen antamiseen ja saamiseen, ohjata ottamaan huomioon tekstin vastaanottaja sekä toimimaan eettisesti verkossa yksityisyyttä ja tekijänoikeuksia kunnioittaen Opetuksen tavoite",
+      "assessmentTarget": "Tekstin tuottamisen prosessin hallinta ja eettinen viestintä Arvioinnin kohteet",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Oppilas osaa ideoida ja tuottaa tekstiä mallien tai apukysymysten avulla. Oppilas osaa tehdä satunnaisia pintatason havaintoja omasta tekstistään. Osaamisen kuvaus arvosanalle 5",
+        "7": "Oppilas osaa ohjatusti suunnitella ja tuottaa tekstiä sekä yksin että ryhmässä. Oppilas osaa tehdä ohjatusti havaintoja omasta tekstistään. Hän osaa antaa niukkaa ja ylimalkaista palautetta toisten teksteistä. Oppilas osaa käyttää mekaanisesti lähteitä. Oppilas noudattaa ohjatusti tekijänoikeuksia. Osaamisen kuvaus arvosanalle 7",
+        "8": "Oppilas osaa ohjatusti muokata tekstiään palautteen pohjalta. Oppilas osaa arvioida omia tekstejään sekä antaa ja vastaanottaa palautetta teksteistä. Oppilas osaa ohjatusti käyttää lähteitä. Oppilas noudattaa tekijänoikeuksia. Osaamisen kuvaus arvosanalle 8",
+        "9": "Oppilas osaa muokata tekstinsä rakennetta ja kieltä. Oppilas osaa arvioida omia tekstejään ja vastaanottaa palautetta sekä antaa rakentavaa palautetta muiden teksteistä. Oppilas osaa käyttää lähteitä tarkoituksenmukaisella tavalla. Osaamisen kuvaus arvosanalle 9"
+      }
+    },
+    {
+      "id": "T13",
+      "goalText": "ohjata oppilasta vahvistamaan kielitietoisuuttaan, innostaa häntä tutkimaan ja tarkkailemaan kieltä ja sen eri variantteja ja harjaannuttaa käyttämään käsitteitä, joiden avulla kielestä ja sen rakenteista puhutaan ja auttaa ymmärtämään kielellisten valintojen vaikutuksia",
+      "assessmentTarget": "Kielen tarkastelun kehittyminen ja kielikäsitteiden hallinta",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Oppilas osaa tehdä satunnaisia havaintoja joistakin kielenkäyttötilanteista. Oppilas osaa nimetä joitakin kielen ja tekstien piirteitä ja rakenteita.",
+        "7": "Oppilas osaa tehdä havaintoja erilaisista kielenkäyttötilanteista. Oppilas osaa nimetä useita kielen ja tekstien piirteitä ja rakenteita.",
+        "8": "Oppilas osaa tehdä havaintoja kielellisten valintojen vaikutuksista eri tilanteissa. Oppilas osaa kuvailla sopivien käsitteiden avulla erilaisissa tilanteissa tuotettujen kielen ja tekstien piirteitä ja rakenteita.",
+        "9": "Oppilas osaa tehdä monipuolisia havaintoja kielellisten valintojen vaikutuksista suhteessa kielenkäyttötilanteen tavoitteeseen. Oppilas osaa kuvailla monipuolisesti sopivien käsitteiden avulla erilaisissa tilanteissa tuotettujen kielen ja tekstien piirteitä ja rakenteita."
+      }
+    },
+    {
+      "id": "T14",
+      "goalText": "kannustaa oppilasta laajentamaan tekstivalikoimaansa ja lukemaan lapsille ja nuorille suunnattua kirjallisuutta sekä rohkaista lukuharrastukseen ja lukuelämysten jakamiseen ja kirjaston aktiiviseen käyttöön",
+      "assessmentTarget": "Kirjallisuuden tuntemus ja tekstivalikoiman laajentaminen",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Oppilas on lukenut jonkin lyhyen kokonaisen kaunokirjallisen tekstin tai tietotekstin.",
+        "7": "Oppilas on lukenut osan sovituista kaunokirjallisista ja tietoteoksista. Oppilas pitäytyy itselleen tutuissa tekstilajeissa. Oppilas osaa käyttää kirjastoa ohjatusti.",
+        "8": "Oppilas on lukenut sovitut kaunokirjalliset ja tietoteokset. Oppilas osaa valita luettavakseen erilaisia ikäkaudelleen sopivia tekstejä.",
+        "9": "Oppilas osaa valita luettavakseen myös itselleen uudenlaisia tekstejä. Oppilas osaa käyttää kirjastoa monipuolisesti."
+      }
+    }
+  ]
+}
