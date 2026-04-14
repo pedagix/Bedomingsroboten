@@ -33,7 +33,7 @@
         "5": "Eleven känner till att vissa fenomen hör ihop med fysik och betydelsen av att kunna fysik i vissa yrken.",
         "7": "Eleven kan ge exempel på vardagliga situationer där man behöver kunskaper och färdigheter i fysik. Eleven kan nämna yrken, i vilka man behöver kunskap i fysik.",
         "8": "Eleven förklarar med hjälp av exempel vilka kunskaper och färdigheter i fysik som vi har nytta av i den egna livsmiljön. Eleven kan ge exempel på betydelsen av att kunna fysik inom olika yrken och i fortsatta studier.",
-        "9": "Eleven förklarar med hjälp av exempel vilka kunskaper och färdigheter i fysik som vi har nytta av i det egna livet och i samhället. Eleven kan motivera vilken betydelse kunskaper i fysik har inom olika yrken och i fortsatta studier."
+        "9": "Eleven förklarar med hjälp av exempel vilka kunskaper och färdigheter i fysik som vi har nytta av i det egna livet och i samhället. Eleven kan motivera vilken betydelse kunskaper i fysik har inom olika yrken och i fortsatta studier. Årskurs 79 Årskurs"
       }
     },
     {
@@ -76,6 +76,118 @@
         "7": "Eleven kan göra observationer och mätningar enligt en plan, vid behov under handledning. Eleven arbetar på ett säkert sätt tillsammans med andra.",
         "8": "Eleven arbetar på ett säkert sätt och gör observationer och mätningar enligt anvisningar eller en plan. Eleven samarbetar med de andra.",
         "9": "Eleven arbetar på ett säkert och konsekvent sätt, vid behov självständigt, samt gör observationer och mätningar på ett ändamålsenligt sätt. Eleven kan genomföra olika undersökningar i samarbete med andra och stöder vid behov de övriga gruppmedlemmarna."
+      }
+    },
+    {
+      "id": "M7",
+      "goalText": "vägleda eleven att behandla, tolka och presentera egna undersökningsresultat samt utvärdera dem och hela undersökningsprocessen",
+      "assessmentTarget": "Förmåga att behandla, presentera och utvärdera undersökningsresultat",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven beskriver den utförda undersökningen och dess resultat genom att stöda sig på den sammanställda informationen eller på observationerna i undersökningen.",
+        "7": "Eleven behandlar den information som sammanställts i undersökningen och presenterar undersökningsresultaten enligt anvisningar samt drar enkla slutsatser. Eleven kan ge exempel på faktorer som påverkar resultatens korrekthet och tillförlitlighet.",
+        "8": "Eleven behandlar och presenterar undersökningsresultat samt drar slutsatser. Eleven kan ge exempel på faktorer som påverkar hur korrekta och pålitliga resultaten är och på hur undersökningsprocessen fungerar.",
+        "9": "Eleven behandlar, tolkar och presenterar undersökningsresultat på ett för fysiken typiskt sätt, samt motiverar slutsatserna genom att stöda sig på det material som tagits fram i undersökningarna. Eleven kan utvärdera både resultaten och undersökningsprocessen."
+      }
+    },
+    {
+      "id": "M8",
+      "goalText": "vägleda eleven att förstå betydelsen av tekniska tillämpningar och hur de fungerar samt inspirera eleven att vara med och skapa, planera, utveckla och tillämpa enkla tekniska lösningar tillsammans med andra",
+      "assessmentTarget": "Teknologiska kunskaper och förmåga att samarbeta kring teknologisk problemlösning",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven förstår betydelsen av tekniska tillämpningar i sitt eget liv och kan nämna några exempel bland dem där man använt fysik.",
+        "7": "Eleven kan ge exempel på hur fysik tillämpas inom teknologin och beskriva hur dessa tillämpningar används. Eleven deltar med idéer och planer för teknologisk problemlösning.",
+        "8": "Eleven kan beskriva tekniska tillämpningar där fysik använts och förklara principerna för hur de fungerar. Eleven arbetar i samarbete med andra för att söka idéer till samt planera, utveckla och tillämpa en teknisk lösning i vilken fysik använts.",
+        "9": "Eleven beskriver tillämpningar inom teknik där fysik används och förklarar principerna för hur de fungerar samt motiverar deras betydelse för samhället. Eleven är aktiv då man söker idéer, planerar, utvecklar och tillämpar en teknisk lösning både självständigt och konstruktivt i samarbete med andra."
+      }
+    },
+    {
+      "id": "M9",
+      "goalText": "vägleda eleven attanvända informations och kommunikationsteknik för att söka, behandla och presentera information och mätresultat samt stödja elevens lärande med hjälp av åskådliga simuleringar",
+      "assessmentTarget": "Förmåga att använda digitala verktyg",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven använder under handledning digitala verktyg för att skaffa information. Eleven bekantar sig med någon simulering som stöder lärandet.",
+        "7": "Eleven använder digitala verktyg för att hämta och presentera information utgående från anvisningarna. Eleven kan göra observationer av en simulering.",
+        "8": "Eleven använder digitala verktyg eller applikationer för att hämta, behandla och presentera information och mätresultat. Eleven kan göra observationer och dra slutsatser av en simulering.",
+        "9": "Eleven använder digitala verktyg eller applikationer självständigt för att hämta, behandla och presentera information och mätresultat. Eleven kan göra observationer och dra slutsatser av en simulering. Eleven kan göra generaliseringar med hjälp av en simulering."
+      }
+    },
+    {
+      "id": "M10",
+      "goalText": "vägleda eleven att använda fysikaliska begrepp på ett exakt sätt och att forma sina begreppsstrukturer i enlighet med uppfattningar som utgår från naturvetenskapliga teorier",
+      "assessmentTarget": "Förmåga att använda och strukturera begrepp",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven förklarar fenomen i fysiken genom att använda några fysikaliska begrepp.",
+        "7": "Eleven förklarar fenomen i fysiken genom att använda fysikens centrala begrepp.",
+        "8": "Eleven förklarar fenomen i fysiken genom att använda fysikens centrala begrepp. Eleven kan kombinera ett fenomen med tillhörande egenskaper och med storheter som beskriver egenskaperna.",
+        "9": "Eleven förklarar fenomen i fysiken genom att använda fysikens centrala begrepp exakt. Eleven kan kombinera egenskaper och storheter som beskriver egenskaperna i anknytning till fenomen till en begreppsstruktur Årskurs 79 Årskurs"
+      }
+    },
+    {
+      "id": "M11",
+      "goalText": "lära eleven att använda olika modeller för att beskriva och förklara fenomen samt att göra prognoser",
+      "assessmentTarget": "Förmåga att använda modeller",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan ge några exempel på modeller som använts i beskrivningen av fenomen.",
+        "7": "Eleven använder enkla modeller i beskrivning av fenomen och uppgörande av prognoser.",
+        "8": "Eleven använder enkla modeller och gör utgående från dem upp prognoser och kan förklara hur modellen är skapad utgående från mätresultat. Eleven kan bedöma modellens relation till verkligheten.",
+        "9": "Eleven använder modeller och gör utgående från dem upp prognoser och kan skapa enkla modeller utgående från mätresultat. Eleven kan bedöma modellens relation till verkligheten samt modellens begränsningar eller brister."
+      }
+    },
+    {
+      "id": "M12",
+      "goalText": "handleda eleven att använda och kritiskt bedöma olika informationskällor och att uttrycka och motivera olika åsikter på ett för fysiken typiskt sätt",
+      "assessmentTarget": "Förmåga att argumentera och använda informationskällor",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven söker under handledning information ur olika informationskällor. Eleven känner till synpunkter som motiveras på ett för fysiken typiskt sätt.",
+        "7": "Eleven söker information ur olika informationskällor. Eleven kan uttrycka olika synvinklar och övar sig att motivera dem på ett för fysiken typiskt sätt.",
+        "8": "Eleven söker information ur olika informationskällor och väljer informationskällor som anses vara tillförlitliga. Eleven kan uttrycka och motivera olika synvinklar på ett för fysiken typiskt sätt.",
+        "9": "Eleven söker information ur olika informationskällor och kan reflektera över informationskällans tillförlitlighet. Eleven kan uttrycka och motivera olika synvinklar på ett för fysiken typiskt sätt samt jämföra motstridiga synvinklar med varandra."
+      }
+    },
+    {
+      "id": "M13",
+      "goalText": "vägleda eleven att uppfatta den naturvetenskapliga kunskapens karaktär och utveckling samt vetenskapliga sätt att producera kunskap",
+      "assessmentTarget": "Förmåga att uppfatta den naturvetenskapliga kunskapens karaktär och sätt på vilka kunskap produceras",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven känner till att experimentellt arbete är det sätt på vilket man inom fysik producerar naturvetenskaplig kunskap.",
+        "7": "Eleven kan ge exempel på hur naturvetenskaplig kunskap utvecklas och på vetenskapliga sätt att producera kunskap.",
+        "8": "Eleven kan med hjälp av exempel i anknytning till fysik beskriva den naturvetenskapliga kunskapens karaktär och utveckling. Eleven kan beskriva vetenskapliga sätt att producera kunskap.",
+        "9": "Eleven kan med hjälp av exempel i anknytning till fysik förklara och motivera den naturvetenskapliga kunskapens karaktär och utveckling. Eleven kan förklara och motivera vetenskapliga sätt att producera kunskap."
+      }
+    },
+    {
+      "id": "M14",
+      "goalText": "vägleda eleven att nå tillräckliga teoretiska kunskaper för fortsatta studier i fråga om växelverkan och rörelse samt elektricitet",
+      "assessmentTarget": "Hur eleven nått teoretiska kunskaper i fråga om växelverkan och rörelse samt elektricitet för fortsatta studier",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven känner i bekanta situationer till några begrepp, fenomen och storheter i anknytning till växelverkan och rörelse samt elektricitet.",
+        "7": "Eleven kan i bekanta situationer använda några centrala begrepp, objekt, fenomen, egenskaper, storheter, modeller och lagar i anknytning till växelverkan och rörelse samt elektricitet.",
+        "8": "Eleven kan i bekanta situationer använda centrala begrepp, objekt, fenomen, egenskaper, storheter, modeller och lagar i anknytning till växelverkan och rörelse samt elektricitet.",
+        "9": "Eleven kan i bekanta och tillämpningsbara situationer använda centrala begrepp, objekt, fenomen, egenskaper, storheter, modeller och lagar i anknytning till växelverkan och rörelse samt elektricitet."
       }
     },
     {
