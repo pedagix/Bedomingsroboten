@@ -1,119 +1,147 @@
 {
-  "subjectId": "finska",
-  "subjectName": "Finska, modersmålsinriktad finska, A-lärokurs",
+  "subjectId": "finska-modersmalsinriktad-larokurs",
+  "subjectName": "Finska, modersmålsinriktad lärokurs",
   "gradeCategory": "7-9",
   "notes": null,
   "goals": [
     {
       "id": "M1",
-      "goalText": "(årskurs 8-9) handleda eleven att fördjupa sin förståelse för finskans och svenskans betydelse som nationalspråk i Finland och för finska språket och dess kulturella mångfald i närmiljön och i olika språkliga sammanhang samt handleda eleven att lägga märke till frågor och värderingar som berör skola och samhälle",
-      "assessmentTarget": "Förmåga att bilda sig en uppfattning om finska språket och dess kulturella mångfald i närmiljön och i olika språkliga sammanhang.",
+      "goalText": "utveckla elevens förmåga att reflektera över värderingar och företeelser som är förknippade med nationalspråkens ställning i Finland samt stärka elevens förmåga och vilja att ta del av och verka i flerspråkiga och mångkulturella miljöer",
+      "assessmentTarget": "Förståelse för frågor som gäller nationalspråkens ställning",
       "assessable": true,
       "message": null,
       "notes": null,
       "criteria": {
-        "5": "Eleven kan nämna någon orsak till att man talar finska och svenska i Finland. Eleven kan ge ett exempel på någon finskspråkig miljö och dess kulturella särdrag.",
-        "7": "Eleven kan ge något exempel på finskans och svenskans betydelse som nationalspråk i Finland. Eleven kan ge några exempel på finskspråkiga miljöer och deras kulturella särdrag.",
-        "8": "Eleven kan berätta om finskans och svenskans betydelse som nationalspråk i Finland. Eleven kan berätta om finskspråkiga miljöer och dess kulturella särdrag.",
-        "9": "Eleven kan jämföra finskans och svenskans betydelse som nationalspråk i Finland. Eleven kan jämföra olika språkmiljöer och särdragen i dessa."
+        "5": "Eleven kan berätta om våra nationalspråk och ge några exempel på flerspråkiga miljöer. Eleven kan reagera i flerspråkiga miljöer.",
+        "7": "Eleven är medveten om värderingar och företeelser som anknyter till nationalspråken. Eleven kan komma till rätta i flerspråkiga miljöer.",
+        "8": "Eleven kan ta i beaktande värderingar och företeelser som anknyter till nationalspråken. Eleven kan agera i flerspråkiga miljöer.",
+        "9": "Eleven kan genom sitt agerande beakta värderingar och företeelser som anknyter till nationalspråken. Eleven kan agera flexibelt enligt situation i flerspråkiga miljöer."
+      }
+    },
+    {
+      "id": "M2",
+      "goalText": "uppmuntra eleven att upptäcka möjligheter att mångsidigt använda finska i olika sammanhang och miljöer",
+      "assessmentTarget": "Förmåga att mångsidigt använda sig av sina språkkunskaper för att utveckla sina världsmedborgerliga färdigheter",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan ge exempel på några sammanhang och miljöer där hen kan använda finska.",
+        "7": "Eleven kan berätta om sammanhang och miljöer där hen kan använda finska för att främja det egna lärandet.",
+        "8": "Eleven kan jämföra olika sammanhang och miljöer där hen kan använda finska för att främja det egna lärandet.",
+        "9": "Eleven kan reflektera över hur hen ändamålsenligt kan använda finska i olika sammanhang och miljöer för att främja det egna lärandet."
       }
     },
     {
       "id": "M3",
-      "goalText": "(årskurs 8-9) handleda eleven att ta ansvar och ställa upp mål för sina studier i finska, uppmuntra eleven att använda många olika sätt för att lära sig finska även tillsammans med andra samt att mångsidigt använda och utveckla sina färdigheter i finska, även med hjälp av digitala verktyg",
-      "assessmentTarget": "Förmåga att ta ansvar för sina studier i finska och att använda mångsidiga strategier i sina studier i finska.",
+      "goalText": "handleda eleven att lägga märke till regelbundenheter i finska språket, på vilket sätt man i olika språk uttrycker samma saker samt att använda sig av språkvetenskapliga begrepp som stöd för sitt lärande",
+      "assessmentTarget": "Språklig förmåga",
       "assessable": true,
       "message": null,
       "notes": null,
       "criteria": {
-        "5": "Eleven tar under handledning sporadiskt ansvar för sina studier i finska. Eleven kan använda något sätt för att lära sig finska och för att utveckla sina språkkunskaper även tillsammans med andra.",
-        "7": "Eleven tar ofta ansvar för sina studier i finska. Eleven kan använda några sätt för att lära sig finska och för att utveckla sina språkkunskaper även tillsammans med andra.",
-        "8": "Eleven tar i huvudsak ansvar för sina studier i finska. Eleven kan använda flera för honom eller henne själv lämpliga sätt att lära sig finska och för att utveckla sina språkkunskaper även tillsammans med andra.",
-        "9": "Eleven tar ansvar för sina studier i finska. Eleven kan mångsidigt använda för honom eller henne själv lämpliga sätt att lära sig finska och för att utveckla sina språkkunskaper även tillsammans med andra."
+        "5": "Eleven kan göra iakttagelser om regelbundenheter och känner till några språkvetenskapliga begrepp i finska.",
+        "7": "Eleven kan dra slutsatser om finskans regelbundenheter i jämförelse med andra språk. Eleven känner till de vanligaste språkvetenskapliga begreppen i finska.",
+        "8": "Eleven kan dra slutsatser om finskans regelbundenheter och jämföra olika sätt att uttrycka samma saker i olika språk. Eleven känner till centrala språkvetenskapliga begrepp i finska.",
+        "9": "Eleven kan dra slutsatser om finskans regelbundenheter, tillämpa dem samt jämföra olika sätt att uttrycka samma saker i olika språk. Eleven känner till och kan använda centrala språkvetenskapliga begrepp i finska."
       }
     },
     {
       "id": "M4",
-      "goalText": "(årskurs 8-9) uppmuntra eleven att se egna kunskaper i finska som en viktig del av kontinuerligt lärande och utökade personliga språkresurser, uppmuntra och handleda eleven att lägga märke till möjligheter att använda sina kunskaper i finska i det egna livet samt modigt använda finska i olika situationer även utanför skolan",
-      "assessmentTarget": "Förmåga att bilda sig en uppfattning om betydelsen av kunskaper i finska som en del av de egna språkresurserna och kontinuerligt lärande.",
+      "goalText": "uppmuntra eleven att ställa upp mål, att utnyttja mångsidiga sätt för att lära sig finska och att reflektera över sitt lärande självständigt och i samarbete med andra samt handleda eleven att delta på ett uppbyggande sätt i kommunikation",
+      "assessmentTarget": "Förmåga att ställa upp mål, att utnyttja studiestrategier och att reflektera över sitt lärande samt förmåga att bilda sig en uppfattning om olika sätt att delta i kommunikation",
       "assessable": true,
       "message": null,
       "notes": null,
       "criteria": {
-        "5": "Eleven kan ge något exempel på betydelsen av kunskaper i finska.",
-        "7": "Eleven kan ge exempel på betydelsen av kunskaper i finska som en del av det egna livet. Eleven övar och använder sporadiskt sina kunskaper i finska i olika situationer och sammanhang.",
-        "8": "Eleven kan ge exempel på betydelsen av kunskaper i finska som en del av det egna livet och personliga språkresurser. Eleven övar och använder ofta sina kunskaper i finska i olika situationer och sammanhang.",
-        "9": "Eleven kan berätta om betydelsen av kunskaper i finska som en del av det egna livet och för personliga språkresurser samt för kontinuerligt lärande. Eleven övar och använder regelbundet sina kunskaper i finska i olika situationer och sammanhang."
+        "5": "Eleven kan använda några för hen själv passande sätt att lära sig språk. Eleven kan ge några exempel på olika sätt att delta uppbyggande i kommunikation.",
+        "7": "Eleven kan använda de vanligaste och för hen själv passande sätten att lära sig språk. Eleven kan beskriva olika sätt att delta uppbyggande i kommunikation.",
+        "8": "Eleven kan utnyttja de mest centrala och för hen själv passande sätten att lära sig språk. Eleven kan jämföra olika sätt att delta uppbyggande i kommunikation.",
+        "9": "Eleven kan mångsidigt utnyttja varierande och för hen själv passande sätt att lära sig språk. Eleven kan jämföra och reflektera över olika sätt att delta uppbyggande i kommunikation."
       }
     },
     {
       "id": "M5",
-      "goalText": "(årskurs 8-9) erbjuda eleven tillfällen att öva sig i muntlig och skriftlig kommunikation med hjälp av olika kommunikationskanaler",
+      "goalText": "stödja elevens egen aktivitet och förmåga att kreativt tillämpa sina språkfärdigheter och utveckla sina färdigheter för kontinuerligt språklärande",
+      "assessmentTarget": "Förmåga att utveckla sina färdigheter för kontinuerligt språklärande",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan använda sina färdigheter i finska i några situationer och ge exempel på hur hen kan utveckla de egna färdigheterna.",
+        "7": "Eleven kan beskriva olika möjligheter att utveckla sina färdigheter i finska även avslutad skolgång. Eleven kan använda sina kunskaper i finska i olika situationer.",
+        "8": "Eleven kan jämföra olika möjligheter att tillämpa och utveckla sina färdigheter i finska även efter avslutad skolgång. Eleven kan mångsidigt tillämpa sina kunskaper i finska i olika situationer.",
+        "9": "Eleven kan reflektera över och jämföra olika möjligheter att tillämpa och utveckla sina färdigheter i finska även efter avslutad skolgång. Eleven kan målmedvetet tillämpa sina kunskaper enligt situation."
+      }
+    },
+    {
+      "id": "M6",
+      "goalText": "uppmuntra eleven att delta i olika, kommunikationssituationer, vilkas teman också kan vara relativt krävande",
       "assessmentTarget": "Kommunikationsförmåga i olika situationer",
       "assessable": true,
       "message": null,
       "notes": null,
       "criteria": {
-        "5": "Kunskapsnivå A1.1: Eleven klarar sporadiskt av, med stöd av sin samtalspartner, några ofta återkommande och rutinmässiga kommunikationssituationer.",
-        "7": "Kunskapsnivå A1.2: Eleven klarar sporadiskt av ofta återkommande rutinmässiga kommunikationssituationer, men tar för det mesta ännu stöd av sin samtalspartner.",
-        "8": "Kunskapsnivå A1.3: Eleven reder sig i många rutinmässiga kommunikationssituationer, ibland med stöd av sin samtalspartner.",
-        "9": "Kunskapsnivå A1.3/A2.1: Eleven reder sig i många rutinmässiga kommunikationssituationer. Eleven kan utbyta tankar eller information i bekanta och vardagliga situationer."
+        "5": "Kunskapsnivå A2.1: Eleven kan utbyta tankar eller information i bekanta och vardagliga situationer och stundtals hålla igång en konversation.",
+        "7": "Kunskapsnivå B1.1: Eleven kan relativt obehindrat kommunicera, delta i diskussioner och uttrycka sina åsikter i vardagliga kommunikationssituationer.",
+        "8": "Kunskapsnivå B1.2: Eleven kan relativt obehindrat delta i kommunikation också i vissa mera krävande situationer som till exempel då man informerar om en aktuell händelse.",
+        "9": "Kunskapsnivå B1.2/B2.1: Eleven kan kommunicera relativt obehindrat också i nya och mer krävande situationer."
       }
     },
     {
-      "id": "M6",
-      "goalText": "(årskurs 8-9) stödja eleven i användningen av språkliga kommunikationsstrategier",
+      "id": "M7",
+      "goalText": "handleda eleven att öva sig i att föra ordet, att ta initiativ i muntlig eller skriftlig kommunikation och att förhandla om betydelser",
       "assessmentTarget": "Användning av kommunikationsstrategier",
       "assessable": true,
       "message": null,
       "notes": null,
       "criteria": {
-        "5": "Kunskapsnivå A1.1: Eleven behöver mycket hjälpmedel (till exempel gester, teckningar, ordlistor, internet). Eleven kan ibland gissa eller härleda enskilda ords betydelse utgående från kontexten, allmänna kunskaper eller sina andra språkkunskaper. Eleven kan uttrycka om hen har förstått eller inte.",
-        "7": "Kunskapsnivå A1.2: Eleven använder sig av det mest centrala ord- och uttrycksförrådet i sin kommunikation. Eleven behöver mycket hjälpmedel. Eleven kan be sin samtalspartner att upprepa eller tala långsammare.",
-        "8": "Kunskapsnivå A1.3: Eleven deltar i kommunikationen men behöver fortfarande ofta hjälpmedel. Eleven kan reagera med korta verbala uttryck, små gester (till exempel genom att nicka), ljud eller liknande minimal respons. Eleven måste ofta be sin samtalspartner att förtydliga eller upprepa.",
-        "9": "Kunskapsnivå A1.3/A2.1: Eleven deltar i kommunikationen och behöver endast sporadiskt hjälpmedel. Eleven kan reagera med korta verbala uttryck. Eleven måste relativt ofta be om förtydligande eller upprepning och behöver mera sällan stödja sig på ickeverbala uttryck. Eleven kan i viss mån tillämpa sin samtalspartners uttryck i sin egen kommunikation."
+        "5": "Kunskapsnivå A2.1: Eleven deltar i allt högre grad i kommunikation. Eleven använder mer sällan nonverbala uttryck. Eleven måste relativt ofta be samtalspartnern upprepa eller förtydliga. Eleven kan i någon mån utnyttja samtalspartnerns uttryck i sin egen kommunikation.",
+        "7": "Kunskapsnivå B1.1: Eleven kan i någon mån ta initiativ i olika skeden av en kommunikationssituation och försäkra sig om att samtalspartnern har förstått budskapet. Eleven kan omskriva eller byta ut obekanta ord eller omformulera sitt budskap. Eleven kan diskutera betydelsen av obekanta uttryck.",
+        "8": "Kunskapsnivå B1.2: Eleven kan ta initiativ och använda lämpliga uttryck i en kommunikationssituation där ett bekant ämne behandlas. Eleven kan relativt naturligt rätta till missförstånd. Eleven kan diskutera betydelsen också av mera komplicerade uttryck.",
+        "9": "Kunskapsnivå B1.2/B2.1: Eleven kan uttrycka sin åsikt och diskutera betydelsen också där mer krävande ämnen behandlas. Eleven kan diskutera betydelsen också av komplicerade uttryck och begrepp. Eleven kan naturligt rätta till missförstånd och korrigera sitt språk."
       }
     },
     {
-      "id": "M7",
-      "goalText": "(årskurs 8-9) hjälpa eleven att öka sin kännedom om uttryck som hör till artigt språkbruk",
+      "id": "M8",
+      "goalText": "handleda eleven att i kommunikationen fästa uppmärksamhet vid hur formell situationen är, att öva sig i att använda olika slags texter (t.ex. bloggar, intervjuer) och att i sin kommunikation bli förtrogen med kraven på kulturell växelverkan",
       "assessmentTarget": "Kulturellt lämpligt språkbruk",
       "assessable": true,
       "message": null,
       "notes": null,
       "criteria": {
-        "5": "Kunskapsnivå A1.1: Eleven kan använda några för språket eller kulturen typiska artighetsfraser (hälsa, säga adjö, tacka) i några mycket rutinmässiga sociala sammanhang.",
-        "7": "Kunskapsnivå A1.2: Eleven kan använda några av de allra vanligaste artighetsfraserna på språket i rutinmässiga sociala sammanhang.",
-        "8": "Kunskapsnivå A1.3: Eleven kan använda vanliga uttryck som kännetecknar artigt språkbruk i många rutinmässiga sociala sammanhang.",
-        "9": "Kunskapsnivå A1.3/A2.1: Eleven klarar av några korta sociala situationer och kan använda några artiga hälsnings- och tilltalsfraser samt framföra till exempel önskemål, inbjudningar, förslag och ursäkter och besvara sådana."
+        "5": "Kunskapsnivå A2.1: Eleven kan använda de vanligaste artiga hälsnings och tilltalsfraserna samt artigt framföra till exempel önskemål, invitationer, förslag och ursäkter och besvara sådana.",
+        "7": "Kunskapsnivå B1.1: Eleven visar att hen behärskar de viktigaste artighetskutymerna. Eleven kan i sin kommunikation ta hänsyn till några viktiga kulturellt betingade aspekter.",
+        "8": "Kunskapsnivå B1.2: Eleven kan för olika ändamål använda ett språk som inte är för familjärt men inte heller för formellt. Eleven känner till de viktigaste artighetskutymerna och följer dem. Eleven kan i sin kommunikation ta hänsyn till viktiga kulturellt betingade aspekter.",
+        "9": "Kunskapsnivå B1.2/B2.1: Eleven kan för olika ändamål använda ett språk som inte är för familjärt men inte heller för formellt. Eleven kan ta hänsyn till sin samtalspartner och till de krav som olika situationer ställer."
       }
     },
     {
-      "id": "M8",
-      "goalText": "(årskurs 8-9) uppmuntra eleven att tolka för sig själv och sin åldersgrupp lämpliga och intressanta talade och skrivna texter",
+      "id": "M9",
+      "goalText": "erbjuda eleven och tillsammans med hen söka mångsidiga och betydelsefulla texter vilka kräver slutledningsförmåga och textförståelsestrategier",
       "assessmentTarget": "Förmåga att tolka texter",
       "assessable": true,
       "message": null,
       "notes": null,
       "criteria": {
-        "5": "Kunskapsnivå A1.1: Eleven förstår en begränsad mängd talade och skrivna ord och uttryck. Eleven känner till teckensystemet eller ett mycket begränsat antal skrivtecken.",
-        "7": "Kunskapsnivå A1.2: Eleven förstår skriven text bestående av några ord och långsamt tal som innehåller inövade, bekanta ord och uttryck. Eleven kan urskilja enskilda fakta i en text.",
-        "8": "Kunskapsnivå A1.3: Eleven förstår med hjälp av kontexten skriven text och långsamt tal som innehåller enkla, bekanta ord och uttryck. Eleven kan plocka ut enkel information enligt behov ur en kort text.",
-        "9": "Kunskapsnivå A1.3/A2.1: Eleven förstår texter som innehåller enkla, bekanta ord och uttryck samt tydligt tal. Eleven förstår det centrala innehållet i korta, enkla budskap som intresserar hen och grundtankarna i en förutsägbar text som innehåller ett bekant ordförråd."
+        "5": "Kunskapsnivå A2.1: Eleven förstår texter som innehåller enkla, bekanta ord och uttryck samt tydligt tal. Eleven förstår det centrala innehållet i korta, enkla budskap som intresserar hen och grundtankarna i en förutsägbar text som innehåller ett bekant ordförråd. Eleven klarar mycket enkel slutledning med hjälp av kontexten.",
+        "7": "Kunskapsnivå B1.1: Eleven förstår det väsentliga och vissa detaljer i tydligt och relativt långsamt allmänspråkligt tal eller i lättfattlig skriven text. Eleven förstår tal eller skriven text som bygger på gemensam erfarenhet eller allmän kunskap. Eleven urskiljer även utan förberedelse det centrala innehållet, nyckelord och viktiga detaljer.",
+        "8": "Kunskapsnivå B1.2: Eleven förstår tydligt tal som innehåller fakta om bekanta eller ganska allmänna ämnen och klarar också i någon mån av texter som förutsätter slutledning. Eleven förstår det väsentliga och de viktigaste detaljerna i en pågående mera omfattande formell eller informell diskussion i omgivningen.",
+        "9": "Kunskapsnivå B1.2/B2.1: Eleven förstår muntlig och skriven text som är mera invecklad till språk och innehåll samt klarar av texter som förutsätter slutledning. Eleven kan följa med komplicerad argumentation samt redogöra för det centrala innehållet i olika texter. Eleven förstår en stor del av en pågående diskussion i omgivningen."
       }
     },
     {
-      "id": "M9",
-      "goalText": "(årskurs 8-9) erbjuda eleven rikligt med möjligheter att öva sig i att kort tala och skriva i för åldern lämpliga situationer och i detta sammanhang även fästa uppmärksamhet vid uttal och vid strukturer som är relevanta för textens innehåll",
+      "id": "M10",
+      "goalText": "handleda eleven att producera, tolka och dela texter vars tema också kan vara något mer krävande och att i sammanhanget fästa uppmärksamhet vid texternas mångsidighet och användandet samt behärskningen av varierande strukturer",
       "assessmentTarget": "Förmåga att producera texter",
       "assessable": true,
       "message": null,
       "notes": null,
       "criteria": {
-        "5": "Kunskapsnivå A1.1: Eleven kan uttrycka sig mycket begränsat i tal med hjälp av inövade ord och inlärda standarduttryck. Eleven uttalar några inövade uttryck begripligt. Eleven kan skriva några enskilda ord och uttryck.",
-        "7": "Kunskapsnivå A1.2: Eleven kan med hjälp av ett begränsat uttrycksförråd berätta om några bekanta och för honom eller henne viktiga saker samt skriva några korta meningar om inövade ämnen. Eleven uttalar de flesta inövade uttrycken begripligt. Eleven behärskar ett mycket begränsat ordförråd, några situationsbundna uttryck och en del av den grundläggande grammatiken.",
-        "8": "Kunskapsnivå A1.3: Eleven behärskar en begränsad mängd korta, inövade uttryck, det mest centrala ordförrådet och grundläggande satsstrukturer. Eleven kan med hjälp av ett begränsat uttrycksförråd berätta om vardagliga och för hen viktiga saker samt skriva enkla meddelanden. Eleven uttalar inövade uttryck begripligt.",
-        "9": "Kunskapsnivå A1.3/A2.1: Eleven kan med enkla meningar och ett konkret ordförråd berätta om vardagliga och konkreta saker som är viktiga för hen. Eleven behärskar ett centralt ordförråd och strukturer. Eleven kan tillämpa några grundläggande uttalsregler."
+        "5": "Kunskapsnivå A2.1: Eleven kan med enkla meningar och ett konkret ordförråd berätta om vardagliga och konkreta saker som är viktiga för hen. Eleven behärskar ett lätt förutsägbart ordförråd och många centrala strukturer.",
+        "7": "Kunskapsnivå B1.1: Eleven kan redogöra för det väsentliga och även för vissa detaljer angående vardagliga ämnen, verkliga eller fiktiva, som intresserar hen. Eleven använder sig av ett relativt omfattande ordförråd och olika strukturer samt en del allmänna fraser och idiom.",
+        "8": "Kunskapsnivå B1.2: Eleven kan berätta om vanliga konkreta ämnen genom att beskriva, specificera och jämföra. Eleven uttrycker sig relativt obehindrat. Eleven kan skriva personliga och mera allmänna meddelanden och uttrycka sina tankar också om en del fiktiva ämnen. Eleven använder sig av ett relativt omfattande ordförråd, vanliga idiom, olika strukturer och även komplicerade meningar.",
+        "9": "KUnskapsnivå B1.2/B2.1: Eleven kan med rätt mångsidiga strukturer och ett omfattande ordförråd uttrycka sig klart och exakt om olika ämnen som hör till det egna erfarenhetsområdet. Eleven kan uttrycka sina tankar också om fiktiva ämnen. Eleven kan delta också i mer formella diskussioner."
       }
     }
   ]
