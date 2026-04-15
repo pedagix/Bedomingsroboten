@@ -1,5 +1,5 @@
 {
-  "subjectId": "finska",
+  "subjectId": "finska-a-larokurs",
   "subjectName": "Finska, A-lärokurs",
   "gradeCategory": "7-9",
   "notes": null,
@@ -128,6 +128,20 @@
         "7": "Kunskapsnivå A2.2: Eleven kan i mycket stora drag följa med ett tydligt anförande, känner ofta igen ämnet i en pågående diskussion och förstår det väsentliga i en allmänspråklig text eller långsamt tal som innehåller bekanta ord. Eleven kan härleda betydelsen av obekanta ord utgående från kontexten.",
         "8": "Kunskapsnivå B1.1: Eleven förstår det väsentliga och vissa detaljer i tydligt och relativt långsamt allmänspråkligt tal eller i lättfattlig skriven text. Eleven förstår tal eller skriven text som bygger på gemensam erfarenhet eller allmän kunskap. Eleven urskiljer även oförberedd det centrala innehållet, nyckelord och viktiga detaljer.",
         "9": "Kusnkapsnivå B1.1/B1.2: Eleven förstår det väsentliga och flera detaljer i mer krävande allmänspråkligt tal i normalt tempo eller i allmänspråklig skriven text. Eleven förstår tal eller skriven text som bygger på gemensam erfarenhet eller allmän kunskap. Eleven urskiljer även oförberedd det centrala innehållet, nyckelord eller viktiga detaljer."
+      }
+    },
+    {
+      "id": "M10",
+      "goalText": "erbjuda eleven möjligheter att producera tal och skrift som berör en tilltagande mängd temaområden och med beaktande av centrala strukturer och grundregler för uttal",
+      "assessmentTarget": "Förmåga att producera texter",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Kunskapsnivå A1.2: Eleven kan med hjälp av ett begränsat uttrycksförråd berätta om några bekanta och för hen viktiga saker samt skriva några korta meningar om inövade ämnen. Eleven uttalar de flesta inövade uttrycken begripligt. Eleven behärskar ett mycket begränsat ordförråd, några situationsbundna uttryck och en del av den elementära grammatiken.",
+        "7": "Kunskapsnivå A2.1: Eleven kan med enkla meningar och ett konkret ordförråd berätta om vardagliga och konkreta saker som är viktiga för hen. Eleven behärskar ett lätt förutsägbart ordförråd och många centrala strukturer. Eleven kan tillämpa några grundläggande uttalsregler också i andra än inövade uttryck.",
+        "8": "Kunskapsnivå A2.2: Eleven kan räkna upp och beskriva (för åldern typiska) saker som anknyter till vardagen med hjälp av vanliga ord, några idiomatiska uttryck samt grundläggande och ibland också lite svårare strukturer. Eleven kan tillämpa några grundläggande uttalsregler också i andra än inövade uttryck.",
+        "9": "Kunskapsnivå A2.2/B1.1: Eleven kan redogöra för det väsentliga angående vardagliga ämnen, verkliga eller fiktiva, som intresserar hen. Eleven använder sig av ett relativt omfattande ordförråd och också krävande strukturer samt idiomatiska uttryck. Eleven kan tillämpa grundläggande uttalsregler också på andra än inövade uttryck."
       }
     }
   ]
