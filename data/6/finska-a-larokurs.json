@@ -50,7 +50,7 @@
       "notes": null,
       "criteria": {
         "5": "Eleven kan ge ett exempel på något för hen själv lämpligt finskspråkigt material.",
-        "7": "Eleven kan ge exempel på finskspråkigt material som är intressant för hen själv",
+        "7": "Eleven kan ge exempel på finskspråkigt material som är intressant för hen själv.",
         "8": "Eleven kan berätta om finskspråkiga material som är lämpliga och intressanta för hen själv.",
         "9": "Eleven kan jämföra finskspråkiga material som är intressanta och lämpliga för hen själv."
       }
@@ -58,7 +58,7 @@
     {
       "id": "M5",
       "goalText": "tillsammans gå igenom målen för undervisningen och skapa en tillåtande studieatmosfär som stöder och uppmuntrar eleverna att lära sig och lära av varandra",
-      "assessmentTarget": "Förmåga att berätta om mål för sina studier i finska, att samarbeta och fungera i grupp.",
+      "assessmentTarget": "Förmåga att berätta om mål för sina studier i finska, att samarbeta och fungera i grupp",
       "assessable": true,
       "message": null,
       "notes": null,
@@ -72,7 +72,7 @@
     {
       "id": "M6",
       "goalText": "handleda eleven att ta ansvar för sina språkstudier och modigt öva sina kunskaper i finska, också med hjälp av digitala verktyg, samt att få insikt i vilket sätt att lära sig språk som bäst passar var och en",
-      "assessmentTarget": "Förmåga att ta ansvar för sina studier i finska samt hitta lämpliga sätt att lära sig språk.",
+      "assessmentTarget": "Förmåga att ta ansvar för sina studier i finska samt hitta lämpliga sätt att lära sig språk",
       "assessable": true,
       "message": null,
       "notes": null,
@@ -91,10 +91,10 @@
       "message": null,
       "notes": null,
       "criteria": {
-        "5": "Eleven klarar sporadiskt av, med stöd av sin samtalspartner, några ofta återkommande och rutinmässiga kommunikations-situationer.",
-        "7": "Eleven reder sig i många rutinmässiga kommunikationssituationer men tar ibland stöd av sin samtalspartner",
-        "8": "Eleven kan utbyta tankar eller information i bekanta och vardagliga situationer och stundtals hålla igång en konversation.",
-        "9": "Eleven reder sig relativt bra i olika vardagliga kommunikationssituationer. Eleven kan i allt högre grad ta initiativ i en kommunikationssituation."
+        "5": "Kunskapsnivå A1.1: Eleven klarar sporadiskt av, med stöd av sin samtalspartner, några ofta återkommande och rutinmässiga kommunikationssituationer.",
+        "7": "Kunskapsnivå A1.3: Eleven reder sig i många rutinmässiga kommunikationssituationer men tar ibland stöd av sin samtalspartner.",
+        "8": "Kunskapsnivå A2.1: Eleven kan utbyta tankar eller information i bekanta och vardagliga situationer och stundtals hålla igång en konversation.",
+        "9": "Kunskapsnivå A2.2: Eleven reder sig relativt bra i olika vardagliga kommunikationssituationer. Eleven kan i allt högre grad ta initiativ i en kommunikationssituation."
       }
     },
     {
@@ -105,10 +105,10 @@
       "message": null,
       "notes": null,
       "criteria": {
-        "5": "Eleven behöver mycket hjälpmedel (till exempel gester, teckningar, lexikon, internet). Eleven kan ibland gissa eller härleda enskilda ords betydelse utgående från kontexten, allmän kunskap eller sina andra språkkunskaper. Eleven kan uttrycka om hen har förstått.",
-        "7": "Eleven deltar i kommunikation men behöver fortfarande ofta hjälpmedel. Eleven kan reagera med korta verbala uttryck, små gester (till exempel genom att nicka), ljud eller liknande minimal respons. Eleven måste ofta be samtalspartnern att förtydliga eller upprepa.",
-        "8": "Eleven deltar i allt högre grad i kommunikation. Använder mera sällan nonverbala uttryck. Eleven måste ganska ofta be samtalspartnern upprepa eller förtydliga. Eleven kan i någon mån utnyttja samtalspartnerns uttryck i sin egen kommunikation.",
-        "9": "Eleven deltar i allt högre grad i kommunikation. Eleven använder vid behov standarduttryck för att be om precisering av nyckelord. Eleven måste då och då be samtalspartnern upprepa eller förtydliga. Eleven använder till exempel ett närliggande eller allmännare begrepp när hen inte vet det exakta begreppet (hund/djur eller hus/stuga)."
+        "5": "Kunskapsnivå A1.1: Eleven behöver mycket hjälpmedel (till exempel gester, teckningar, lexikon, internet). Eleven kan ibland gissa eller härleda enskilda ords betydelse utgående från kontexten, allmän kunskap eller sina andra språkkunskaper. Eleven kan uttrycka om hen har förstått.",
+        "7": "Kunskapsnivå A1.3: Eleven deltar i kommunikation men behöver fortfarande ofta hjälpmedel. Eleven kan reagera med korta verbala uttryck, små gester (till exempel genom att nicka), ljud eller liknande minimal respons. Eleven måste ofta be samtalspartnern att förtydliga eller upprepa.",
+        "8": "Kunskapsnivå A2.1: Eleven deltar i allt högre grad i kommunikation. Använder mera sällan nonverbala uttryck. Eleven måste ganska ofta be samtalspartnern upprepa eller förtydliga. Eleven kan i någon mån utnyttja samtalspartnerns uttryck i sin egen kommunikation.",
+        "9": "Kunskapsnivå A2.2: Eleven deltar i allt högre grad i kommunikation. Eleven använder vid behov standarduttryck för att be om precisering av nyckelord. Eleven måste då och då be samtalspartnern upprepa eller förtydliga. Eleven använder till exempel ett närliggande eller allmännare begrepp när hen inte vet det exakta begreppet (hund/djur eller hus/stuga)."
       }
     },
     {
@@ -119,10 +119,10 @@
       "message": null,
       "notes": null,
       "criteria": {
-        "5": "Eleven kan använda några för språket eller kulturen typiska artighetsfraser (hälsa, säga adjö, tacka) i några mycket rutinmässiga sociala sammanhang.",
-        "7": "Eleven kan använda vanliga uttryck som kännetecknar artigt språkbruk i många rutinmässiga sociala sammanhang.",
-        "8": "Eleven klarar av korta sociala situationer. Eleven kan använda de vanligaste artiga hälsningsoch tilltalsfraserna samt artigt framföra till exempel önskemål, invitationer, förslag och ursäkter och besvara sådana.",
-        "9": "Eleven kan räkna upp och beskriva (för sin ålder typiska) saker som anknyter till vardagen med hjälp av vanliga ord, några idiomatiska uttryck samt grundläggande och ibland också lite svårare strukturer. Eleven kan tilllämpa några grundläggande uttalsregler också i andra än inövade uttryck."
+        "5": "Kunskapsnivå A1.1: Eleven kan använda några för språket eller kulturen typiska artighetsfraser (hälsa, säga adjö, tacka) i några mycket rutinmässiga sociala sammanhang.",
+        "7": "Kunskapsnivå A1.3: Eleven kan använda vanliga uttryck som kännetecknar artigt språkbruk i många rutinmässiga sociala sammanhang.",
+        "8": "Kunskapsnivå A2.1: Eleven klarar av korta sociala situationer. Eleven kan använda de vanligaste artiga hälsnings och tilltalsfraserna samt artigt framföra till exempel önskemål, invitationer, förslag och ursäkter och besvara sådana.",
+        "9": "Kunskapsnivå A2.2: Eleven kan räkna upp och beskriva (för sin ålder typiska) saker som anknyter till vardagen med hjälp av vanliga ord, några idiomatiska uttryck samt grundläggande och ibland också lite svårare strukturer. Eleven kan tilllämpa några grundläggande uttalsregler också i andra än inövade uttryck."
       }
     },
     {
@@ -133,10 +133,10 @@
       "message": null,
       "notes": null,
       "criteria": {
-        "5": "Eleven förstår en begränsad mängd talade och skrivna ord och uttryck. Eleven känner till teckensystemet eller ett mycket begränsat antal skrivtecken.",
-        "7": "Eleven förstår med hjälp av kontexten skriven text och långsamt tal som innehåller enkla, bekanta ord och uttryck. Eleven kan plocka ut enkel information enligt behov ur en kort text.",
-        "8": "Eleven förstår texter som innehåller enkla, bekanta ord och uttryck samt tydligt tal. Eleven förstår det centrala innehållet i korta, enkla budskap som intresserar hen och grundtankarna i en förutsägbar text som innehåller ett bekant ordförråd. Eleven klarar mycket enkel slutledning med hjälp av kontexten.",
-        "9": "Eleven kan i mycket stora drag följa med ett tydligt anförande, känner ofta igen ämnet i en pågående diskussion och förstår det väsentliga i en allmänspråklig text eller långsamt tal som innehåller bekanta ord. Eleven kan härleda betydelsen av obekanta ord utgående från kontexten."
+        "5": "Kunskapsnivå A1.1: Eleven förstår en begränsad mängd talade och skrivna ord och uttryck. Eleven känner till teckensystemet eller ett mycket begränsat antal skrivtecken.",
+        "7": "Kunskapsnivå A1.3: Eleven förstår med hjälp av kontexten skriven text och långsamt tal som innehåller enkla, bekanta ord och uttryck. Eleven kan plocka ut enkel information enligt behov ur en kort text.",
+        "8": "Kunskapsnivå A2.1: Eleven förstår texter som innehåller enkla, bekanta ord och uttryck samt tydligt tal. Eleven förstår det centrala innehållet i korta, enkla budskap som intresserar hen och grundtankarna i en förutsägbar text som innehåller ett bekant ordförråd. Eleven klarar mycket enkel slutledning med hjälp av kontexten.",
+        "9": "Kunskapsnivå A2.2: Eleven kan i mycket stora drag följa med ett tydligt anförande, känner ofta igen ämnet i en pågående diskussion och förstår det väsentliga i en allmänspråklig text eller långsamt tal som innehåller bekanta ord. Eleven kan härleda betydelsen av obekanta ord utgående från kontexten."
       }
     },
     {
@@ -147,10 +147,10 @@
       "message": null,
       "notes": null,
       "criteria": {
-        "5": "Eleven kan uttrycka sig mycket begränsat i tal med hjälp av inövade ord och inlärda standarduttryck. Eleven uttalar några inövade uttryck begripligt. Eleven kan skriva några enskilda ord och uttryck.",
-        "7": "Eleven kan med hjälp av ett begränsat uttrycksförråd berätta om några bekanta och för hen viktiga saker samt skriva några korta meningar om inövade ämnen. Eleven uttalar de flesta inövade uttrycken begripligt. Eleven behärskar ett mycket begränsat ordförråd, några situa-tionsbundna uttryck och en del av den elementära grammatiken.",
-        "8": "Eleven behärskar en begränsad mängd korta, inövade uttryck, det mest centrala ordförrådet och grundläggande satsstrukturer. Eleven kan med hjälp av ett begränsat uttrycksförråd berätta om vardagliga och för hen viktiga saker samt skriva enkla meddelanden. Eleven uttalar inövade uttryck begripligt.",
-        "9": "Eleven kan med enkla meningar och ett konkret ordförråd berätta om vardagliga och konkreta saker som är viktiga för hen. Eleven behärskar ett lätt förutsägbart ordförråd och många centrala strukturer. Eleven kan tilllämpa några grundläggande uttalsregler också i andra än inövade uttryck."
+        "5": "Kunskapsnivå A1.1: Eleven kan uttrycka sig mycket begränsat i tal med hjälp av inövade ord och inlärda standarduttryck. Eleven uttalar några inövade uttryck begripligt. Eleven kan skriva några enskilda ord och uttryck.",
+        "7": "Kunskapsnivå A1.2: Eleven kan med hjälp av ett begränsat uttrycksförråd berätta om några bekanta och för hen viktiga saker samt skriva några korta meningar om inövade ämnen. Eleven uttalar de flesta inövade uttrycken begripligt. Eleven behärskar ett mycket begränsat ordförråd, några situationsbundna uttryck och en del av den elementära grammatiken.",
+        "8": "Kunskapsnivå A1.3: Eleven behärskar en begränsad mängd korta, inövade uttryck, det mest centrala ordförrådet och grundläggande satsstrukturer. Eleven kan med hjälp av ett begränsat uttrycksförråd berätta om vardagliga och för hen viktiga saker samt skriva enkla meddelanden. Eleven uttalar inövade uttryck begripligt.",
+        "9": "Kunskapsnivå A2.1: Eleven kan med enkla meningar och ett konkret ordförråd berätta om vardagliga och konkreta saker som är viktiga för hen. Eleven behärskar ett lätt förutsägbart ordförråd och många centrala strukturer. Eleven kan tilllämpa några grundläggande uttalsregler också i andra än inövade uttryck."
       }
     }
   ]
