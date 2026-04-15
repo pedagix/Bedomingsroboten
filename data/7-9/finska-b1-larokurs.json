@@ -1,0 +1,120 @@
+{
+  "subjectId": "finska",
+  "subjectName": "Finska, B1-lärokurs",
+  "gradeCategory": "7-9",
+  "notes": null,
+  "goals": [
+    {
+      "id": "M1",
+      "goalText": "(årskurs 7) handleda eleven att förstå finskans och svenskans ställning som nationalspråk i Finland och handleda eleven att lägga märke till och känna igen finska språket i olika språkliga sammanhang och miljöer samt till finskan och dess kulturella mångfald i närmiljön och olika språkliga sammanhang.",
+      "assessmentTarget": "Förmåga att bilda sig en uppfattning om finskans och svenskans betydelse i Finland Förmåga att bilda sig en uppfattning om finska språket och dess kulturella mångfald i närmiljön och i olika språkliga sammanhang",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "",
+        "7": "",
+        "8": "",
+        "9": ""
+      }
+    },
+    {
+      "id": "M2",
+      "goalText": "(årskurs 7) stärka utvecklingen av elevens språkliga nyfikenhet och härledningsförmåga, handleda eleven att lägga märke till regelbundenheter i finska språket och att utnyttja språkvetenskapliga begrepp som stöd samt dra nytta av andra språk i sitt lärande i finska.",
+      "assessmentTarget": "Bedömningskriterierna i källdokumentet är inte knutna mål för mål i detta avsnitt och behöver fördelas manuellt i efterhand.",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "",
+        "7": "",
+        "8": "",
+        "9": ""
+      }
+    },
+    {
+      "id": "M3",
+      "goalText": "(årskurs 7) handleda eleven att ta ansvar och ställa upp mål för sina studier i finska, att pröva många olika sätt för att lära sig finska även tillsammans med andra samt uppmuntra eleven att mångsidigt använda och utveckla sina färdigheter i finska, även med hjälp av digitala verktyg",
+      "assessmentTarget": "Förmåga att ta ansvar för och ställa upp mål för sina studier i finska och att använda mångsidiga strategier i studierna i finska.",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "",
+        "7": "",
+        "8": "",
+        "9": ""
+      }
+    },
+    {
+      "id": "M4",
+      "goalText": "(årskurs 7) uppmuntra eleven att se kunskaper i finska som en viktig del av kontinuerligt lärande och utökade personliga språkresurser samt att hitta och utnyttja finskspråkiga sammanhang och miljöer för att utveckla det egna lärandet",
+      "assessmentTarget": "Förmåga att bilda sig en uppfattning om betydelsen av kunskaper i finska som en del av kontinuerligt lärande och personliga språkresurser.",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "",
+        "7": "",
+        "8": "",
+        "9": ""
+      }
+    },
+    {
+      "id": "M5",
+      "goalText": "(årskurs 7) erbjuda eleven tillfällen att öva sig muntlig och skriftlig kommunikation med hjälp av olika kommunikationskanaler",
+      "assessmentTarget": "Kommunikationsförmåga i olika situationer",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "",
+        "7": "",
+        "8": "",
+        "9": ""
+      }
+    },
+    {
+      "id": "M6",
+      "goalText": "(årskurs 7) stöda eleven i användningen av språkliga kommunikationsstrategier",
+      "assessmentTarget": "Bedömningskriterierna i källdokumentet är inte knutna mål för mål i detta avsnitt och behöver fördelas manuellt i efterhand.",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "",
+        "7": "",
+        "8": "",
+        "9": ""
+      }
+    },
+    {
+      "id": "M7",
+      "goalText": "(årskurs 7) hjälpa eleven att öka sin kännedom om uttryck som hör till artigt språkbruk",
+      "assessmentTarget": "Kulturellt lämplig kommunikation",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "",
+        "7": "",
+        "8": "",
+        "9": ""
+      }
+    },
+    {
+      "id": "M8",
+      "goalText": "(årskurs 7) uppmuntra eleven att tolka för sig själv och sin åldersgrupp lämpliga och intressanta talade och skrivna texter",
+      "assessmentTarget": "Bedömningskriterierna i källdokumentet är inte knutna mål för mål i detta avsnitt och behöver fördelas manuellt i efterhand.",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "",
+        "7": "",
+        "8": "",
+        "9": ""
+      }
+    }
+  ]
+}

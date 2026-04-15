@@ -1,0 +1,148 @@
+{
+  "subjectId": "romani",
+  "subjectName": "Romani och litteratur",
+  "gradeCategory": "7-9",
+  "notes": null,
+  "goals": [
+    {
+      "id": "M1",
+      "goalText": "uppmuntra eleven att uttrycka sig på romani och att kommunicera i flerspråkiga och mångkulturella situationer",
+      "assessmentTarget": "Förmåga att kommunicera i olika situationer",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan agera i grupper som är bekanta för hen och i vardagliga kommunikationssituationer.",
+        "7": "Eleven kan agera målinriktat i grupp och i vanliga kommunikationssituationer.",
+        "8": "Eleven kan agera konstruktivt i olika grupper och kommunikationssituationer.",
+        "9": "Eleven kan agera konstruktivt i olika grupper, även i krävande flerspråkiga kommunikationssituationer."
+      }
+    },
+    {
+      "id": "M2",
+      "goalText": "handleda eleven att kommunicera konstruktivt, utveckla sin uttrycksförmåga och sin förmåga att ge och ta emot respons",
+      "assessmentTarget": "Förmåga att kommunicera, uttrycka sig samt ge och ta emot respons",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan lyssna på andra och deltar i diskussionen. Eleven kan ta emot respons.",
+        "7": "Eleven kan ta andras synpunkter i beaktande i sin egen kommunikation. Eleven kan ge knapphändig eller ensidig respons.",
+        "8": "Eleven kan föra diskussionen vidare genom sina egna inlägg samt på ett konstruktivt sätt ge och ta emot respons.",
+        "9": "Eleven kan tolka de andras inlägg och deras mål, samt anpassa sin egen kommunikation enligt situation. Eleven kan ge och ta emot respons på ett ändamålsenligt sätt."
+      }
+    },
+    {
+      "id": "M3",
+      "goalText": "uppmuntra eleven att bredda sina kommunikativa färdigheter och sin förmåga att uppträda i olika miljöer och att använda det romska språket med människor i olika åldrar",
+      "assessmentTarget": "Kommunikativa färdigheter",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan framföra ett kort anförande om ett för hen bekant och konkret ämne. Eleven kan uttrycka sig förståeligt, men ensidigt.",
+        "7": "Eleven kan framföra ett enkelt, förberett anförande. Eleven kan uttrycka sig tydligt.",
+        "8": "Eleven kan framföra ett förberett anförande samt anpassa det enligt åhörarna. Eleven kan uttrycka sig själv på ett för situationen lämpligt sätt.",
+        "9": "Eleven kan framföra ett förberett anförande, också om ett krävande ämne. Eleven kan uttrycka sig själv mångsidigt och anpassa sitt uttryck enligt åhörare och ändamål."
+      }
+    },
+    {
+      "id": "M4",
+      "goalText": "uppmuntra eleven att utveckla förmåga att läsa analytiskt och kritiskt samt kunskaper och färdigheter som behövs för att läsa, förstå och analysera texter",
+      "assessmentTarget": "Förmåga att analysera och tolka texter",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan plocka ut centralt innehåll ur en text med hjälp av stödfrågor. Eleven kan nämna några språkliga eller textuella drag i någon enkel texttyp.",
+        "7": "Eleven kan särskilja huvudpunkterna i en text och beskriva ändamålen med den. Eleven kan beskriva språkliga och textuella drag i vanliga texttyper.",
+        "8": "Eleven kan redogöra för textens syfte, målgrupp och betydelse. Eleven kan analysera typiska drag för texttyper och beskriva dem med hjälp av några centrala begrepp.",
+        "9": "Eleven kan tolka och reflektera över textens betydelse och bedöma textens inverkan. Eleven kan analysera texttyper med hjälp av ändamålsenliga begrepp och bedöma texter i relation till deras syfte och ändamål."
+      }
+    },
+    {
+      "id": "M5",
+      "goalText": "handleda eleven att använda, tolka och värdera olika typer av texter för att söka information, få upplevelser och utveckla sitt läsintresse",
+      "assessmentTarget": "Förmåga att vidga sin textvärld och söka information",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan läsa enkla skönlitterära, fakta- och medietexter i olika former. Eleven kan nämna en egenskap som har med källornas tillförlitlighet att göra.",
+        "7": "Eleven kan välja, använda och läsa olika texter men håller sig främst till bekanta texttyper. Eleven kan beskriva tillförlitligheten hos de källor hen använder.",
+        "8": "Eleven kan välja, använda och tolka texter som representerar olika texttyper. Eleven kan bedöma olika källors tillförlitlighet och användbarhet.",
+        "9": "Eleven kan välja, använda, tolka och utvärdera också nya texttyper. Eleven kan reflektera över faktorer som berör källornas tillförlitlighet och användbarhet och motivera sina egna val av källor."
+      }
+    },
+    {
+      "id": "M6",
+      "goalText": "vägleda eleven att utvärdera sin läsfärdighet och upptäcka utvecklingsbehov genom att öva lämpliga läs- och studiestrategier",
+      "assessmentTarget": "Förmåga att analysera sin läsfärdighet och sina lässtrategier",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan använda någon enkel lässtrategi för att förstå text. Eleven kan identifiera någon läsrelaterad styrka eller något utvecklingsbehov hos sig själv.",
+        "7": "Eleven kan använda sig av några lässtrategier. Eleven kan beskriva sig själv som läsare och identifiera några styrkor och utvecklingsbehov.",
+        "8": "Eleven kan välja lässtrategier som är lämpade för texttypen. Eleven kan redogöra för sin läsfärdighet och beskriva sina styrkor och utvecklingsbehov.",
+        "9": "Eleven kan använda för situationen ändamålsenliga lässtrategier. Eleven kan utvärdera sina läsfärdigheter och reflektera över hur de kan utvecklas."
+      }
+    },
+    {
+      "id": "M7",
+      "goalText": "uppmuntra eleven att framföra och motivera sina åsikter med hjälp av olika typer av texter i olika kommunikationsmiljöer",
+      "assessmentTarget": "Textkompetens vid produktion av texter",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan producera enkla texter enligt modell. Eleven kan nämna någon styrka eller något utvecklingsbehov hos sig själv som textproducent.",
+        "7": "Eleven kan producera olika typer av texter enligt instruktioner. Eleven kan beskriva sig själv som textproducent och nämna några styrkor eller utvecklingsbehov.",
+        "8": "Eleven kan producera texter enligt givet syfte. Eleven kan redogöra för sina styrkor och utvecklingsområden som textproducent.",
+        "9": "Eleven kan producera text på ett kreativt sätt enligt situation och ändamål. Eleven kan utvärdera sina styrkor och utvecklingsområden som textproducent och reflektera över hur de kan utvecklas."
+      }
+    },
+    {
+      "id": "M8",
+      "goalText": "stödja eleven att bredda sin kunskap om textgenrer, vidareutveckla sina skrivfärdigheter samt hjälpa eleven att identifiera sina styrkor och utvecklingsbehov som textproducent",
+      "assessmentTarget": "Kunskap om textgenrer, förmåga att producera texter och ge akt på sina färdigheter",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan med hjälp av modeller producera berättande och beskrivande texter som är enkla och konkreta. Texterna utgår från bekanta ämnen.",
+        "7": "Eleven kan producera instruerande och enkla ställningstagande texter och kan med hjälp av modeller använda uttryckssätt som är typiska för dem.",
+        "8": "Eleven kan producera diskuterande och olika ställningstagande texter och använda uttryckssätt som kännetecknar dem.",
+        "9": "Eleven kan självständigt producera olika slags texter och använder mångsidiga uttryckssätt som kännetecknar dem."
+      }
+    },
+    {
+      "id": "M9",
+      "goalText": "hjälpa eleven att befästa textproduktionsprocesserna, att producera text tillsammans med andra och att stärka förmågan att ge och ta emot respons, motivera eleven att stärka sin förmåga att söka och bedöma information och använda källor på ett mångsidigt sätt i egna texter med respekt för upphovsrätt, integritet och etiska normer för kommunikation på internet",
+      "assessmentTarget": "Att behärska textproduktionsprocesserna, förmåga att söka information och kommunicera etiskt korrekt",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan göra en enkel sammanfattning utifrån det eleven hört, läst eller sett. Eleven kan mekaniskt och på ett enkelt sätt använda källor i sina texter. Eleven kan skriva för hand och med hjälp av digitala verktyg.",
+        "7": "Eleven kan göra enkla anteckningar samt källhänvisningar enligt modell.",
+        "8": "Eleven kan göra mångsidiga anteckningar och sammanfatta information hen samlat. Eleven hänvisar till källor på ett korrekt sätt. Eleven kan flytande skriva för hand och med hjälp av digitala verktyg.",
+        "9": "Eleven kan kombinera information från flera olika källor i sina texter."
+      }
+    },
+    {
+      "id": "M10",
+      "goalText": "handleda eleven att fördjupa sina kunskaper om det romska språkets särdrag och att förstå betydelsen och konsekvenserna av språkliga val",
+      "assessmentTarget": "Kunskap om det romska språkets särdrag",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan göra enkla iakttagelser om särdrag i text. Eleven kan nämna några vanliga skillnader mellan skriftspråk och talspråk eller vardagligt språk och standardspråk.",
+        "7": "Eleven kan göra iakttagelser om särdrag i språk och text och skilja mellan olika språkvarianter och stildrag. Eleven kan beskriva språkliga variationer i olika situationer.",
+        "8": "Eleven kan redogöra för skillnaden mellan olika språkliga varianter och stildrag. Eleven kan reflektera över betydelsen och följderna av språkliga och textuella val.",
+        "9": "Eleven kan analysera drag i texter, språkvarianter och stildrag. Eleven kan tillämpa information om följderna av språkliga val i sin egen kommunikation."
+      }
+    }
+  ]
+}

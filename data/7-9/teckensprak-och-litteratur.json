@@ -1,0 +1,162 @@
+{
+  "subjectId": "teckensprak",
+  "subjectName": "Teckenspråk och litteratur",
+  "gradeCategory": "7-9",
+  "notes": null,
+  "goals": [
+    {
+      "id": "M1",
+      "goalText": "uppmuntra eleven att utveckla sin förmåga att klara av olika kommunikationssituationer genom att framföra sina åsikter och genom att ta i beaktande andras åsikter samt förmåga att ge och få respons, lära eleven att ta ansvar i olika språksituationer och att identifiera värderingar och attityder som förmedlas genom språket",
+      "assessmentTarget": "Förmåga att kommunicera i olika situationer",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan agera i grupper som är bekanta för hen och i vardagliga kommunikationssituationer. Eleven kan ta emot respons.",
+        "7": "Eleven kan agera målinriktat i grupp och i vanliga kommunikationssituationer. Eleven kan ge knapp eller ensidig respons.",
+        "8": "Eleven kan agera konstruktivt i olika grupper och kommunikationssituationer. Eleven kan ge och ta emot respons på ett konstruktivt sätt.",
+        "9": "Eleven kan agera konstruktivt i olika grupper, även i krävande flerspråkiga kommunikationssituationer. Eleven kan ge och ta emot respons på ett för situationen ändamålsenligt sätt."
+      }
+    },
+    {
+      "id": "M2",
+      "goalText": "erbjuda eleven möjligheter att analysera, ta ställning och uppmana samt uppmuntra eleven att fördjupa sin förståelse för sin roll i kommunikationen och att uttrycka sig, delta och påverka, även med hjälp av olika hjälpmedel",
+      "assessmentTarget": "Förmåga att använda olika kommunikationssätt och kommunicera",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan framföra ett kort anförande om ett för hen bekant och konkret ämne. Eleven kan uttrycka sig förståeligt.",
+        "7": "Eleven kan framföra ett enkelt, förberett anförande. Eleven kan uttrycka sig tydligt.",
+        "8": "Eleven kan framföra ett förberett anförande samt anpassa det enligt mottagarna. Eleven kan uttrycka sig själv på ett för situationen lämpligt sätt.",
+        "9": "Eleven kan framföra ett förberett anförande, också om ett krävande ämne. Eleven kan uttrycka sig själv mångsidigt och anpassa sitt uttryck enligt mottagare och ändamål."
+      }
+    },
+    {
+      "id": "M3",
+      "goalText": "uppmuntra eleven att iaktta, analysera, tolka och vara kritisk till olika typer av framföranden och föredrag och hjälpa eleven att upptäcka hur hens tolkningsförmåga behöver utvecklas",
+      "assessmentTarget": "Tolkningsförmåga och utvärdering av den",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan plocka ut centralt innehåll ur teckenspråkiga texter och anföranden med hjälp av stödfrågor.",
+        "7": "Eleven kan särskilja huvudpunkterna i en teckenspråkig text eller ett anförande och beskriva ändamålen med den.",
+        "8": "Eleven kan redogöra för syfte, målgrupp och betydelse i en teckenspråkig text eller ett tecknat anförande.",
+        "9": "Eleven kan tolka och reflektera över betydelse och bedöma vilken inverkan en teckenspråkig text eller ett anförande har."
+      }
+    },
+    {
+      "id": "M4",
+      "goalText": "uppmuntra eleven att utöver berättande, beskrivande och ställningstagande texter också arbeta med instruerande och diskuterande texter, att diskutera om dem och dela sina erfarenheter i kommunikationsmiljöer på olika sätt",
+      "assessmentTarget": "Förmåga att arbeta med olika texter och dela med sig av textupplevelser",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan läsa enkla skönlitterära, fakta- och medietexter i olika former.",
+        "7": "Eleven kan välja, använda och läsa olika texter men håller sig främst till bekanta texttyper.",
+        "8": "Eleven kan välja, använda och tolka texter som representerar olika texttyper.",
+        "9": "Eleven kan välja, använda, tolka och utvärdera också nya texttyper."
+      }
+    },
+    {
+      "id": "M5",
+      "goalText": "handleda eleven att använda ett av de mest använda teckenspråkens skriftsystem",
+      "assessmentTarget": "Kunskap om teckenspråkets skriftsystem",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan med teckenspråkets skriftsystem producera enkla texter enligt modell. Eleven kan nämna någon styrka eller något utvecklingsbehov hos sig själv som textproducent.",
+        "7": "Eleven kan med teckenspråkets skriftsystem producera olika typer av texter enligt instruktioner. Eleven kan beskriva sig själv som textproducent och nämna några styrkor eller utvecklingsbehov.",
+        "8": "Eleven kan producera texter enligt givet syfte och där hen använder teckenspråkets skriftsystem. Eleven kan redogöra för sina styrkor och utvecklingsområden som textproducent.",
+        "9": "Eleven kan producera text på ett kreativt sätt enligt situation och ändamål och enligt teckenspråkets skriftsystem. Eleven kan utvärdera sina styrkor och utvecklingsområden som textproducent och reflektera över hur de kan utvecklas."
+      }
+    },
+    {
+      "id": "M6",
+      "goalText": "uppmuntra eleven att uttrycka sig mångsidigare och att fördjupa sin kunskap om teckenspråkets strukturer, vad ett tecken består av och hur det uttrycks",
+      "assessmentTarget": "Förmåga att uttrycka sig på teckenspråk",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan planera och producera enkla texter med hjälp av modell eller stödfrågor.",
+        "7": "Eleven kan producera text och fästa uppmärksamhet vid enkla strukturella drag inom teckenspråket.",
+        "8": "Eleven kan producera text som är smidig och lätt att förstå. Eleven känner till teckenspråkets allmänna strukturella drag, hur tecken produceras samt följer i huvudsak centrala konventioner inom teckenspråkets skriftsystem när hen producerar och bearbetar texter.",
+        "9": "Eleven kan producera en sammanhängande och åskådlig text. Eleven kan mångsidigt använda teckenspråkets olika uttryckssätt. Eleven kan mångsidigt använda olika grepp i anslutning till teckenspråkets satser och fästa uppmärksamhet vid textens stil."
+      }
+    },
+    {
+      "id": "M7",
+      "goalText": "uppmuntra eleven att befästa processerna för självständig eller gemensam produktion av olika slags texter i olika kommunikationsmiljöer, bredda användningen av källor samt respektera upphovsrätt och etisk kommunikation",
+      "assessmentTarget": "Förmåga att producera texter och behärska textprocessen, etisk kommunikation",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan göra en enkel sammanfattning utifrån det eleven sett. Eleven kan mekaniskt och på ett enkelt sätt använda källor i sina texter.",
+        "7": "Eleven kan göra enkla anteckningar samt källhänvisningar enligt modell.",
+        "8": "Eleven kan göra mångsidiga anteckningar och sammanfatta information hen samlat. Eleven hänvisar till källor på ett korrekt sätt.",
+        "9": "Eleven kan kombinera information från flera olika källor i sina texter."
+      }
+    },
+    {
+      "id": "M8",
+      "goalText": "handleda eleven att fördjupa sin språkliga medvetenhet och att känna igen olika språkregister, stildrag och nyanser och att förstå betydelsen av språkliga val och följderna av dem",
+      "assessmentTarget": "Förmåga att utveckla språklig medvetenhet",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan göra iakttagelser om enkla särdrag i text och språk. Eleven kan nämna några vanliga skillnader mellan teckenspråk och vardagligt och standardspråk.",
+        "7": "Eleven kan göra iakttagelser om särdrag i text och språk. Eleven kan beskriva språkliga variationer i olika situationer.",
+        "8": "Eleven kan redogöra för särdrag i olika språkliga varianter och stildrag. Eleven kan reflektera över betydelsen och följderna av språkliga och textuella val.",
+        "9": "Eleven kan analysera drag i texter, språkvarianter och stildrag. Eleven kan tillämpa information om följderna av språkliga val i sin egen kommunikation."
+      }
+    },
+    {
+      "id": "M9",
+      "goalText": "handleda eleven att lära känna det finlandssvenska teckenspråkets kulturella och språkliga mångfald, hjälpa eleven att se språket som en resurs, att reflektera över teckenspråkets betydelse och ställning och att förstå dess historia samt stödja eleven att utveckla en teckenspråkig och kulturell identitet",
+      "assessmentTarget": "Förmåga att uppfatta teckenspråkets betydelse och ställning",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan nämna de teckenspråk som används i Finland. Eleven kan nämna något drag som är typiskt för teckenspråket. Eleven kan berätta om modersmålets betydelse för hen.",
+        "7": "Eleven kan nämna centrala drag som är typiska för teckenspråket. Eleven kan beskriva modersmålets betydelse för individen.",
+        "8": "Eleven kan beskriva mångfalden inom teckenspråket och deras ställning bland andra språk. Eleven kan redogöra för centrala drag inom teckenspråket och beskriva skillnaden mellan talat och tecknat språk. Eleven kan reflektera över modersmålets kopplingar till identiteten.",
+        "9": "Eleven kan reflektera över den språkliga och kulturella mångfaldens betydelse för individen och samhället. Eleven kan redogöra för drag som är typiska för teckenspråket i relation till andra språk. Eleven kan reflektera över modersmål som begrepp och dess betydelse för identitetsbygget."
+      }
+    },
+    {
+      "id": "M10",
+      "goalText": "uppmuntra eleven att vidga sin kultursyn, att bekanta sig med olika kulturformer och -institutioner samt hjälpa eleven att reflektera över språkets och kulturens betydelse både i sitt eget liv och i samhället",
+      "assessmentTarget": "Kännedom om kultur och olika kulturformer",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan särskilja olika kulturformer från varandra och känner till någon kulturinstitution. Eleven kan nämna någon av teckenspråkets användargrupper.",
+        "7": "Eleven kan beskriva hur olika kulturformer kopplas ihop med olika kulturinstitutioner. Eleven kan nämna teckenspråkets olika användargrupper.",
+        "8": "Eleven kan beskriva kulturens mångfald och känner till de viktigaste kulturinstitutionerna. Eleven kan beskriva teckenspråkets olika användargrupper och olika kommunikationsmetoder.",
+        "9": "Eleven kan analysera kulturens mångfald i samhället och i det egna livet. Eleven kan analysera teckenspråkets olika användargrupper och deras situation i samhället."
+      }
+    },
+    {
+      "id": "M11",
+      "goalText": "ge eleven möjlighet att stärka sin förmåga att använda tolktjänster och samarbeta med en teckenspråkstolk i studierna eller för att uträtta olika ärenden och besöka kulturevenemang",
+      "assessmentTarget": "Förmåga att använda tolk",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan använda tolktjänster under handledning.",
+        "7": "Eleven kan använda tolktjänster och känner till enkel tolkningspraxis.",
+        "8": "Eleven kan beställa en tolk självständigt och agera med tolken i vanliga situationer.",
+        "9": "Eleven kan tolkningens principer och praxis och kan ta hänsyn till dem i sitt eget agerande."
+      }
+    }
+  ]
+}

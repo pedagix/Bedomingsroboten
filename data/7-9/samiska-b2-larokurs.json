@@ -1,0 +1,92 @@
+{
+  "subjectId": "samiska",
+  "subjectName": "Samiska, B2-lärokurs",
+  "gradeCategory": "7-9",
+  "notes": null,
+  "goals": [
+    {
+      "id": "M1",
+      "goalText": "hjälpa eleven att bilda sig en uppfattning om förhållandet mellan det samiska språket hen studerar och andra samiska språk, finska samt de språk eleven tidigare studerat, och att bekanta sig med områden där samiska talas, sameområdet samt vissa centrala delar av den samiska kulturen och det samiska levnadssättet",
+      "assessmentTarget": "Förmåga att bilda sig en uppfattning om det samiska språket i relation till andra språk och om språkområdet samt känna till samiska kulturer och levnadssätt",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan berätta var samiska talas. Eleven kan ge några exempel på samiska kulturer och levnadssätt som anknyter till dem.",
+        "7": "Eleven kan berätta var samiska talas och ge några exempel på det samiska språkets relation till det finska språket. Eleven kan berätta om de samiska kulturerna och levnadssätt som anknyter till dem.",
+        "8": "Eleven kan berätta var samiska talas samt om det samiska språket i relation till det finska språket. Eleven kan beskriva samiska kulturer och levnadssätt som anknyter till dem.",
+        "9": "Eleven kan berätta var samiska talas samt om det samiska språket i relation till det finska språket och de språk hen har tidigare studerat. Eleven kan jämföra samiska kulturer och levnadssätt som anknyter till dem."
+      }
+    },
+    {
+      "id": "M2",
+      "goalText": "uppmuntra eleven att se kunskaperna i samiska som en del av det kontinuerliga lärandet och breddade språkresurser, handleda eleven att hitta sätt att lära sig språk som bäst lämpar sig för hen själv och hens ålder samt uppmuntra hen att använda även begränsade språkfärdigheter utanför lektionerna",
+      "assessmentTarget": "Förmåga att utveckla färdigheterna och studiestrategierna för kontinuerligt språklärande",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan ge några exempel på möjligheter att använda det samiska språket. Eleven kan använda några för hen själv passande sätt att lära sig samiska.",
+        "7": "Eleven kan berätta om möjligheter att använda kunskaperna i samiska även efter avslutad skolgång. Eleven kan använda de vanligaste och för hen själv passande sätten att lära sig samiska.",
+        "8": "Eleven kan berätta för vilka ändamål hen kan använda sina kunskaper i samiska även efter avslutad skolgång. Eleven kan använda de mest centrala och för hen själv passande sätten att lära sig samiska.",
+        "9": "Eleven kan berätta hur kunskaperna i samiska kan utnyttjas även efter avslutad skolgång. Eleven kan använda mångsidiga och för hen själv passande sätt att lära sig samiska."
+      }
+    },
+    {
+      "id": "M3",
+      "goalText": "erbjuda eleven tillfällen att öva sig i muntlig och skriftlig kommunikation med hjälp av olika medier",
+      "assessmentTarget": "Kommunikationsförmåga i olika situationer",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Kunskapsnivå A1.1: Eleven klarar sporadiskt av, med stöd av sin samtalspartner, några ofta återkommande och rutinmässiga kommunikationssituationer.",
+        "7": "Kunskapsnivå A1.2: Eleven klarar sporadiskt av ofta återkommande rutinmässiga kommunikationssituationer, men tar för det mesta ännu stöd av sin samtalspartner.",
+        "8": "Kunskapsnivå A1.3: Eleven reder sig i många rutinmässiga kommunikationssituationer men tar ibland stöd av sin samtalspartner.",
+        "9": "Kunskapsnivå A2.1: Eleven kan utbyta tankar eller information i bekanta och vardagliga situationer och stundtals hålla igång en konversation."
+      }
+    },
+    {
+      "id": "M4",
+      "goalText": "stödja eleven i att använda sig av språkliga kommunikationsstrategier",
+      "assessmentTarget": "Användning av kommunikationsstrategier",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Kunskapsnivå A1.1: Eleven behöver mycket hjälpmedel (till exempel gester, teckningar, lexikon, internet). Eleven kan ibland gissa eller härleda enskilda ords betydelse utgående från kontexten, allmän kunskap eller sina andra språkkunskaper. Kan uttrycka om hen har förstått.",
+        "7": "Kunskapsnivå A1.2: Eleven använder sig av det mest centrala ord- och uttrycksförrådet i sin kommunikation. Eleven behöver mycket hjälpmedel. Eleven kan be samtalspartnern att upprepa eller tala långsammare.",
+        "8": "Kunskapsnivå A1.3: Eleven deltar i kommunikation men behöver fortfarande ofta hjälpmedel. Kan reagera med korta verbala uttryck, små gester (t.ex. genom att nicka), ljud eller liknande minimal respons. Måste ofta be samtalspartnern att förtydliga eller upprepa.",
+        "9": "Kunskapsnivå A2.1: Eleven deltar i allt högre grad i kommunikation. Eleven använder mer sällan non-verbala uttryck. Eleven måste relativt ofta be samtalspartnern upprepa eller förtydliga. Eleven kan i någon mån utnyttja samtalspartnerns uttryck i sin egen kommunikation."
+      }
+    },
+    {
+      "id": "M5",
+      "goalText": "hjälpa eleven att öka sin kännedom om uttryck som hör till artigt språkbruk",
+      "assessmentTarget": "Kulturellt lämpligt språkbruk",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Kunskapsnivå A1.1: Eleven kan använda några för språket eller kulturen typiska artighetsfraser (hälsa, säga adjö, tacka) i några mycket rutinmässiga sociala sammanhang.",
+        "7": "Kunskapsnivå A1.2 : Eleven kan använda några av de allra vanligaste artighetsfraserna typiska för språket i rutinmässiga sociala sammanhang.",
+        "8": "Kunskapsnivå A1.3: Eleven kan använda vanliga uttryck som kännetecknar artigt språkbruk i många rutinmässiga sociala sammanhang.",
+        "9": "Kunskapsnivå A2.1: Eleven klarar av korta sociala situationer. Eleven kan använda de vanligaste artiga hälsnings- och tilltalsfraserna samt artigt framföra till exempel önskemål, invitationer, förslag och ursäkter och besvara sådana."
+      }
+    },
+    {
+      "id": "M6",
+      "goalText": "uppmuntra eleven att tolka för hens ålder lämpliga och för hen själv intressanta muntliga och skriftliga texter",
+      "assessmentTarget": "Förmåga att tolka texter",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Kunskapsnivå A1.1: Eleven förstår en begränsad mängd talade och skrivna ord och uttryck. Eleven känner till teckensystemet eller ett mycket begränsat antal skrivtecken.",
+        "7": "Kunskapsnivå A1.2: Eleven förstår skriven text bestående av några ord och långsamt tal som innehåller inövade, bekanta ord och uttryck. Eleven kan urskilja enskilda fakta i en text.",
+        "8": "Kunskapsnivå A1.3: Eleven förstår med hjälp av kontexten skriven text och långsamt tal som innehåller enkla, bekanta ord och uttryck. Kan plocka ut enkel information hen behöver ur en kort text.",
+        "9": "Kunskapsnivå A2.1: Eleven förstår texter som innehåller enkla, bekanta ord och uttryck samt tydligt tal. Eleven förstår det centrala innehållet i korta, enkla budskap som intresserar hen och grundtankarna i en förutsägbar text som innehåller ett bekant ordförråd. Eleven klarar mycket enkel slutledning med hjälp av kontexten."
+      }
+    }
+  ]
+}

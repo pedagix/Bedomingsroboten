@@ -1,0 +1,106 @@
+{
+  "subjectId": "latin-b2-larokurs",
+  "subjectName": "Latin, valfri B2-lärokurs",
+  "gradeCategory": "7-9",
+  "notes": null,
+  "goals": [
+    {
+      "id": "M1",
+      "goalText": "handleda eleven att strukturera sin uppfattning om sambandet mellan de språk hen kan samt förstå latinets betydelse som europeiskt språk och som grund för de romanska språken",
+      "assessmentTarget": "Kännedom om latinets ställning och betydelse",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan ge några exempel på latinets ställning och betydelse som europeiskt språk.",
+        "7": "Eleven kan ge exempel på relationen mellan de språk hen kan. Eleven kan ge exempel på latinets ställning och betydelse som europeiskt språk och som grund för de romanska språken.",
+        "8": "Eleven kan berätta om relationen mellan de språk hen kan. Eleven kan berätta om latinets ställning och betydelse som europeiskt språk och som grund för de romanska språken.",
+        "9": "Eleven kan jämföra relationen mellan de olika språk hen kan. Eleven kan reflektera över latinets ställning och betydelse som europeiskt språk och som grund för de romanska språken."
+      }
+    },
+    {
+      "id": "M2",
+      "goalText": "hjälpa eleven att identifiera och förstå företeelser i det latinska språket och antikens kultur och hur de påverkat genom medeltiden till nutiden",
+      "assessmentTarget": "Kännedom om det latinska språket och den antika kulturens betydelse",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan ge några exempel på företeelser i antikens kultur.",
+        "7": "Eleven kan berätta om några företeelser som anknyter till det latinska språket och antikens kultur och deras påverkan.",
+        "8": "Eleven kan berätta om företeelser som anknyter till det latinska språket och antikens kultur och deras påverkan.",
+        "9": "Eleven kan reflektera över företeelser som anknyter till det latinska språket och antikens kultur och bedöma deras påverkan."
+      }
+    },
+    {
+      "id": "M3",
+      "goalText": "uppmuntra eleven att ställa upp egna mål för sina språkstudier, att utnyttja olika sätt att lära sig språk och att reflektera över sitt lärande självständigt och i samarbete med andra samt handleda eleven att delta på ett uppbyggande sätt i kommunikation där det viktigaste är att man når fram med sitt budskap",
+      "assessmentTarget": "Förmåga att ställa upp mål, utnyttja studiestrategier och reflektera över sitt lärande samt förmåga att bilda sig en uppfattning om olika sätt att delta i kommunikation",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan använda några för hen själv passande sätt att lära sig språk. Eleven kan ge några exempel på olika sätt att delta uppbyggande i kommunikation.",
+        "7": "Eleven kan använda de vanligaste och för hen själv passande sätten att lära sig språk. Eleven kan beskriva några sätt att delta uppbyggande i kommunikation.",
+        "8": "Eleven kan använda de mest centrala och för hen själv passande sätten att lära sig latin. Eleven kan jämföra olika sätt att delta uppbyggande i kommunikation.",
+        "9": "Eleven kan använda mångsidiga och för hen själv passande sätt att lära sig latin. Eleven kan jämföra och reflektera över olika sätt att delta uppbyggande i kommunikation."
+      }
+    },
+    {
+      "id": "M4",
+      "goalText": "utveckla elevens förmåga att på egen hand och kreativt tillämpa sina språkkunskaper samt utveckla sina färdigheter för kontinuerligt språklärande",
+      "assessmentTarget": "Förmåga att utveckla färdigheterna för kontinuerligt språklärande",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan ge några exempel på möjligheter att utveckla sina kunskaper i latin.",
+        "7": "Eleven kan beskriva olika möjligheter att utveckla sina kunskaper i latin även efter avslutad skolgång.",
+        "8": "Eleven kan jämföra olika möjligheter att tillämpa och utveckla sina kunskaper i latin även efter avslutad skolgång.",
+        "9": "Eleven kan jämföra och reflektera över olika möjligheter att tillämpa och utveckla sina kunskaper i latin även efter avslutad skolgång."
+      }
+    },
+    {
+      "id": "M5",
+      "goalText": "handleda eleven att bekanta sig med huvuddragen i latinets form- och satslära, basordförråd, principer för uttal samt hjälpa hen att strukturera det språkstoff som studeras",
+      "assessmentTarget": "Kännedom om språket",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven behärskar en begränsad mängd av latinets ordförråd samt form- och satslära.",
+        "7": "Eleven behärskar i någon mån latinets form- och satslära, ordförråd och några grundregler för uttal.",
+        "8": "Eleven behärskar det centrala i latinets form- och satslära. Eleven behärskar relativt bra det centrala latinska ordförrådet och grundreglerna för uttal.",
+        "9": "Eleven behärskar det centrala i latinets form- och satslära. Eleven behärskar bra det centrala latinska ordförrådet och grundreglerna för uttal."
+      }
+    },
+    {
+      "id": "M6",
+      "goalText": "erbjuda eleven möjligheter att mångsidigt öva kortfattad muntlig och skriftlig kommunikation i sammanhang som är typiska för latinet",
+      "assessmentTarget": "Förmåga att använda språket i olika situationer",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven behärskar i någon mån bekanta ord och fasta uttryck.",
+        "7": "Eleven kan agera i några situationer där språket används genom att använda bekanta ord och fasta uttryck.",
+        "8": "Eleven kan agera i situationer som anknyter till bekanta ämnen och förutsätter användning av bekanta ord och fasta uttryck.",
+        "9": "Eleven kan agera i många olika situationer som anknyter till bekanta eller allmänna ämnen genom att använda bekanta ord och fasta uttryck."
+      }
+    },
+    {
+      "id": "M7",
+      "goalText": "uppmuntra eleven att med hjälp av kontexten förstå innebörden i tal eller text som är förutsägbara",
+      "assessmentTarget": "Förmåga att tolka texter",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven förstår en begränsad mängd enskilda muntliga och skriftliga ord och uttryck.",
+        "7": "Eleven förstår skrivna texter bestående av några ord och långsamt tal som innehåller bekanta ord och uttryck. Eleven kan urskilja enskilda fakta i en text.",
+        "8": "Eleven förstår skrivna texter och långsamt tal som innehåller bekanta ord och uttryck. Eleven kan plocka ut enkel information som hen behöver ur en kort text.",
+        "9": "Eleven förstår med hjälp av kontexten mer omfattande skrivna texter och långsamt tal som i huvudsak innehåller bekanta ord och uttryck. Eleven förstår det centrala innehållet i korta, enkla budskap som intresserar hen och grundtankarna i en förutsägbar text som innehåller ett bekant ordförråd."
+      }
+    }
+  ]
+}

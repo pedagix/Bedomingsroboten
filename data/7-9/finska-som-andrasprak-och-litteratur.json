@@ -1,0 +1,190 @@
+{
+  "subjectId": "finska-som-andrasprak-och-litteratur",
+  "subjectName": "Finska som andraspråk och litteratur",
+  "gradeCategory": "7-9",
+  "notes": null,
+  "goals": [
+    {
+      "id": "T1",
+      "goalText": "rohkaista oppilasta kehittämään taitoaan toimia tavoitteellisesti, eettisesti ja vuorovaikutussuhdetta rakentaen koulun ja yhteiskunnan vuorovaikutustilanteissa",
+      "assessmentTarget": "Vuorovaikutussuhteen rakentaminen Suomi toisena kielenä ja kirjallisuus -oppimäärän päättöarvioinnin kriteerit oppimäärän päättyessä",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Oppilas osallistuu ennakoitaviin koulun vuorovaikutustilanteisiin aktiivisesti kuuntelemalla.",
+        "7": "Oppilas osallistuu suullisesti ja rakentavalla tavalla koulun vuorovaikutustilanteisiin.",
+        "8": "Oppilas edistää omalla toiminnallaan vuorovaikutuksen onnistumista.",
+        "9": "Oppilas toimii vuorovaikutustilanteissa aloitteellisesti ja sovittaa puhettaan tilanteen mukaan."
+      }
+    },
+    {
+      "id": "T2",
+      "goalText": "ohjata oppilasta syventämään muodollisten puhetilanteiden, opetuspuheen ja median puhuttujen tekstien ymmärtämistaitoja",
+      "assessmentTarget": "Ymmärtämistaidot vuorovaikutustilanteissa Suomi toisena kielenä ja kirjalisuus -oppimäärän päättöarvioinnin kriteerit oppimäärän päättyessä",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Oppilas ymmärtää selkeästi havainnollistettuja puhuttuja arkikielisiä tekstejä.",
+        "7": "Oppilas ymmärtää puhuttuja arkikielisiä tekstejä ja selvittää niiden merkityksiä yhdessä muiden kanssa.",
+        "8": "Oppilas ymmärtää pääkohdat opetuspuheesta ja tuttuja aiheita käsittelevistä median puhutuista teksteistä.",
+        "9": "Oppilas erottaa olennaiset asiat opetuspuheesta ja median puhutuista teksteistä sekä arvioi kuulemaansa. Oppilas pystyy vastaanottamaan tietoa muodollisissa puhetilanteissa."
+      }
+    },
+    {
+      "id": "T3",
+      "goalText": "kannustaa oppilasta kehittämään esiintymistaitojaan ja taitoaan ilmaista itseään erilaisissa tilanteissa tavoitteellisesti ja erilaisia ilmaisukeinoja hyödyntäen",
+      "assessmentTarget": "Esiintymistaidot Suomi toisena kielenä ja kirjallisuus -oppimäärän päättöarvioinnin kriteerit oppimäärän päättyessä",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Oppilas ilmaisee itseään erilaisissa arkisissa tilanteissa tai kertoo jostakin omakohtaisesta aiheesta kielitaitonsa mahdollistamalla tavalla. Oppilas täydentää kielitaitonsa rajoitteita muilla ilmaisun keinoilla.",
+        "7": "Oppilas valmistelee ja pitää puheenvuoron tai puhe-esityksen itselleen läheisestä aiheesta. Oppilas ilmaisee itseään ymmärrettävästi.",
+        "8": "Oppilas valmistelee ja pitää selkeän esityksen aiheesta, joka vaatii tiedonhankintaa. Oppilas ilmaisee itseään tilanteeseen sopivalla tavalla.",
+        "9": "Oppilas valmistelee ja pitää koherentin, sisällöltään monipuolisen ja havainnollisen esityksen. Oppilas ilmaisee itseään tavoitteellisesti ja tarkoituksenmukaisesti."
+      }
+    },
+    {
+      "id": "T4",
+      "goalText": "ohjata oppilasta hyödyntämään tekstilajitietoutta tekstien tulkinnassa, laajentamaan sana- ja käsitevarantoaan, käyttämään tehokkaasti lukustrategioita ja päättelemään tekstin merkityksiä tekstuaalisten, sanastollisten ja kieliopillisten vihjeiden perusteella",
+      "assessmentTarget": "Tekstilajitaidot puhuttujen, kirjoitettujen ja monimediaisten tekstien tulkinnassa Suomi toisena kielenä ja kirjallisuus -oppimäärän päättöarvioinnin kriteerit oppimäärän päättyessä",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Oppilas ymmärtää, miksi tekstit eroavat toisistaan. Oppilas tunnistaa joitakin piirteitä tavallisimmista tekstilajeista. Oppilas ymmärtää tekstin sisältöä puutteellisesti.",
+        "7": "Oppilas tunnistaa tavallisimpia tekstilajeja. Oppilas ymmärtää tuttuja aihepiirejä käsitteleviä tekstejä ja hahmottaa tekstin kokonaisuuden. Oppilas selvittää avainsanat ymmärtääkseen tekstin pääajatuksen. Oppilas hyödyntää tekstejä sana- ja käsitevarantonsa laajentamisessa.",
+        "8": "Oppilas tunnistaa eri tekstilajien rakennetta ja kielellisiä piirteitä. Oppilas laajentaa aktiivisesti sana- ja käsitevarantoaan lukemalla erilaisia tekstejä. Oppilas käyttää tarkoituksenmukaisia strategioita tekstien tulkinnassa.",
+        "9": "Oppilas erittelee eri tekstilajien rakennetta ja kielellisiä piirteitä tarkoituksenmukaisia käsitteitä käyttäen. Oppilas kehittää sana- ja käsitevarantoaan siten, että se riittää itsenäiseen tekstien tulkintaan ja arviointiin."
+      }
+    },
+    {
+      "id": "T5",
+      "goalText": "ohjata oppilasta kriittiseen tekstien tulkintaan itsenäisesti ja ryhmässä",
+      "assessmentTarget": "Puhuttujen, kirjoitettujen ja monimediaisten tekstien tulkinta Suomi toisena kielenä ja kirjallisuus -oppimäärän päättöarvioinnin kriteerit oppimäärän päättyessä",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Oppilas lukee ja ymmärtää yksinkertaisia, kieleltään konkreettisia tekstejä tutuissa tilanteissa. Oppilas esittää niistä kysymyksiä ja mielipiteitä yhdessä muiden kanssa ja itsenäisesti.",
+        "7": "Oppilas lukee ja ymmärtää ikäkauden mukaisia, myös abstrakteja tekstejä. Oppilas tekee teksteistä päätelmiä ja esittää niiden sisällöstä perusteltuja mielipiteitä.",
+        "8": "Oppilas käyttää tekstien tulkinnan taitoaan oppimisen resurssina. Oppilas arvioi tekstejä ja tekee tekstistä päätelmiä ja kriittisiä kysymyksiä. Oppilas ymmärtää, että muut tekstit vaikuttavat tekstin tulkintaan.",
+        "9": "Oppilas arvioi tekstien vaikutuskeinoja. Oppilas havainnoi tekstien sellaisia merkityksiä, joita ei sanota suoraan, kuten tekstin ajatuskulkua, asenteita ja näkökulmia. Oppilas tulkitsee, miten muut tekstit vaikuttavat tekstin merkityksiin."
+      }
+    },
+    {
+      "id": "T6",
+      "goalText": "ohjata oppilasta vahvistamaan taitoa suunnitella, tuottaa ja muokata tekstejä itsenäisesti ja ryhmässä sekä hyödyntämään eri tekstilajeja omien tekstien malleina ja lähteinä",
+      "assessmentTarget": "Tekstilajitaidot tekstien tuottamisessa Suomi toisena kielenä ja kirjallisuus -oppimäärän päättöarvioinnin kriteerit oppimäärän päättyessä",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Oppilas tuottaa rakenteeltaan, kieleltään ja sisällöltään yksinkertaisia ja konkreettisia tekstejä itselleen tutuista aiheista.",
+        "7": "Oppilas suunnittelee ja tuottaa tekstejä eri aihepiireistä mallien avulla itsenäisesti ja yhdessä muiden kanssa. Oppilas ottaa vastaan palautetta teksteistään. Oppilas tuottaa tekstilajiltaan tunnistettavia tekstejä, mutta tekstilajipiirteiden hyödyntäminen on rajallista.",
+        "8": "Oppilas suunnittelee, tuottaa ja muokkaa tekstejä, joissa käytetään eri tekstilajien piirteitä tarkoituksenmukaisesti.",
+        "9": "Oppilas tuottaa itsenäisesti tekstejä, joissa käytetään eri tekstilajien piirteitä monipuolisesti. Oppilas käyttää myös muita tekstejä omien tekstien lähteinä."
+      }
+    },
+    {
+      "id": "T7",
+      "goalText": "auttaa oppilasta vakiinnuttamaan kirjoitetun yleiskielen normien ja eri tekstilajeissa tarvittavan sanaston ja kieliopillisten rakenteiden hallintaa",
+      "assessmentTarget": "Kirjoitetun kielen hallinta Suomi toisena kielenä ja kirjallisuus -oppimäärän päättöarvioinnin kriteerit oppimäärän päättyessä",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Oppilas kirjoittaa tekstejä tutuista aihepiireistä. Teksti voi olla epäkoherenttia, verrattain hankalasti luettavaa ja sanastoltaan hyvin rajallista. Oppilas osaa kirjoittaa käsin ja tieto- ja viestintäteknologiaa hyödyntäen.",
+        "7": "Oppilas kirjoittaa ymmärrettäviä tekstejä kieliopillisista puutteista huolimatta. Sanasto voi olla vielä suppeaa. Kirjoitetun kielen normien noudattaminen on horjuvaa.",
+        "8": "Oppilas kirjoittaa koherentteja tekstejä ja käyttää niissä tarkoituksenmukaista sanastoa ja rakenteita. Kirjoitetun kielen normien noudattaminen on melko vakiintunutta. Oppilas osaa kirjoittaa sujuvasti käsin ja tieto- ja viestintäteknologiaa hyödyntäen.",
+        "9": "Oppilas kirjoittaa sisällöllisesti ja kielellisesti monipuolisia tekstejä. Kirjoitetun kielen normien noudattaminen on vakiintunutta."
+      }
+    },
+    {
+      "id": "T8",
+      "goalText": "ohjata oppilasta syventämään kielitietoisuuttaan ja kiinnostumaan kielen ilmiöistä, auttaa oppilasta tunnistamaan kielen rakenteita, eri rekistereitä, tyylipiirteitä ja sävyjä ja ymmärtämään kielellisten valintojen merkityksiä ja seurauksia",
+      "assessmentTarget": "Kielitietoisuuden kehittyminen Suomi toisena kielenä ja kirjallisuus -oppimäärän päättöarvioinnin kriteerit oppimäärän päättyessä",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Oppilas tunnistaa, että kielenkäyttö vaihtelee eri tilanteissa. Oppilas tunnistaa kirjoitetun ja puhutun kielen eroja. Oppilas hahmottaa lauserajat ja tunnistaa verbin lauseen keskuksena.",
+        "7": "Oppilas pohtii tekstien kielellisiä ja tekstuaalisia piirteitä sekä niiden merkityksiä yhdessä muiden kanssa. Oppilas tunnistaa muodollisen ja epämuodollisen kielenkäytön ja eri tyylien välisiä eroja. Oppilas osaa jakaa lauseen rakenneosiinsa.",
+        "8": "Oppilas havainnoi ja erittelee tekstien kielellisiä ja tekstuaalisia piirteitä sekä niiden merkityksiä tarkoituksenmukaisten käsitteiden avulla. Oppilas ymmärtää muodollisen ja epämuodollisen kielenkäytön ja eri tyylien vaikutuksia. Oppilas ymmärtää kielellisten valintojen merkityksiä",
+        "9": "Oppilas tekee päätelmiä tekstien kielellisistä ja tekstuaalisista piirteistä. Oppilas hyödyntää kielenkäytössään muodollista ja epämuodollista kieltä. Oppilas ymmärtää kielellisten valintojen vaikutuksen merkitysten rakentumiseen tekstissä."
+      }
+    },
+    {
+      "id": "T9",
+      "goalText": "innostaa oppilasta tutustumaan kirjallisuuden lajeihin, suomalaiseen kirjallisuuteen, sen historiaan ja yhteyksiin maailmankirjallisuuteen sekä ohjata tunnistamaan tekstin suhteita toisiin teksteihin",
+      "assessmentTarget": "Kirjallisuuden ja sen vaiheiden tuntemus Suomi toisena kielenä ja kirjallisuus -oppimäärän päättöarvioinnin kriteerit oppimäärän päättyessä",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Oppilas lukee lyhyitä, helppotajuisia suomenkielisiä kaunokirjallisia tekstejä. Oppilas erottaa fiktiivisen tekstin muista teksteistä. Oppilas hahmottaa, että eri aikoina on kirjoitettu erilaisia tekstejä. Oppilas tunnistaa mallien avulla tekstien välisiä yhteyksiä.",
+        "7": "Oppilas lukee suomenkielisiä kaunokirjallisia tekstejä ja keskustelee lukukokemuksestaan muiden kanssa. Oppilas on tutustunut joihinkin suomalaisen kirjallisuuden päävaiheita edustaviin teksteihin. Oppilas tuntee joitakin kirjallisuuden lajeja ja kuvailee vähintään yhtä niistä. Oppilas tunnistaa, mihin lajiin teksti kuuluu.",
+        "8": "Oppilas lukee suomenkielisiä kirjoja ja erittelee lukukokemustaan. Oppilas osaa nimetä suomalaisen kirjallisuuden päävaiheita. Oppilas osaa eritellä kirjallisuuden lajien piirteitä lukemastaan tekstistä.",
+        "9": "Oppilas lukee monipuolisesti suomenkielistä kirjallisuutta ja analysoi lukemaansa keskustelemalla ja kirjoittamalla. Oppilas tuntee suomalaisen kirjallisuuden päävaiheita ja niiden yhteyden eurooppalaisiin virtauksiin."
+      }
+    },
+    {
+      "id": "T10",
+      "goalText": "auttaa oppilasta avartamaan kulttuurinäkemystään ja erittelemään koulun ja yhteiskunnan monikielisyyttä ja kulttuurista monimuotoisuutta sekä tunnistamaan kulttuurien samanlaisuuksia ja erilaisten ilmiöiden kulttuurisidonnaisuutta",
+      "assessmentTarget": "Kulttuurisen tietoisuuden kehittyminen Suomi toisena kielenä ja kirjallisuus -oppimäärän päättöarvioinnin kriteerit oppimäärän päättyessä",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Oppilas tietää, että jokainen yhteiskunta on monikielinen ja kulttuurisesti monimuotoinen. Oppilas tunnistaa ja osaa kuvata kulttuurisia kytköksiä omassa elämässään.",
+        "7": "Oppilas tunnistaa yksilön ja lähiympäristön monikielisyyttä ja kulttuurista monimuotoisuutta. Oppilas monipuolistaa kulttuurisia kokemuksiaan ja osaa kertoa niistä.",
+        "8": "Oppilas erittelee yhteiskunnan monikielisyyttä ja kulttuurista monimuotoisuutta. Oppilas osaa eritellä kulttuurisia kokemuksiaan. Oppilas tekee havaintoja siitä, että kulttuuri, yksilöiden toiminta ja erilaisten ryhmien muodostuminen vaikuttavat toisiinsa.",
+        "9": "Oppilas esittää näkemyksiä kielellisen ja kulttuurisen monimuotoisuuden merkityksestä itselleen ja yhteiskunnalle. Oppilas osallistuu aktiivisesti yhteisten kulttuuristen kokemusten luomiseen."
+      }
+    },
+    {
+      "id": "T11",
+      "goalText": "ohjata oppilasta vakiinnuttamaan myönteistä käsitystä itsestään viestijänä, lukijana, tekstien tuottajana sekä kielenoppijana, ohjata häntä näkemään ja vertaamaan erilaisia oppimistyylejä ja tapoja sekä oppimaan muilta",
+      "assessmentTarget": "Oman kielenoppimisen kehittäminen Suomi toisena kielenä ja kirjallisuus -oppimäärän päättöarvioinnin kriteerit oppimäärän päättyessä",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Oppilas tekee havaintoja kielenoppimisestaan ja omista oppimisen tavoistaan.",
+        "7": "Oppilas tunnistaa vahvuuksiaan ja kehittämiskohteitaan kielenoppijana ja kielen käyttäjänä sekä asettaa itselleen oppimistavoitteita.",
+        "8": "Oppilas kehittää kielenoppimistaitojaan ja hyödyntää monipuolisesti ympäristöään kielenoppimisen resurssina.",
+        "9": "Oppilas asettaa itselleen haasteellisia oppimistavoitteita ja edistää yhteistä oppimista."
+      }
+    },
+    {
+      "id": "T12",
+      "goalText": "ohjata oppilasta havainnoimaan, miten kieltä käytetään eri tiedonaloilla",
+      "assessmentTarget": "Abstraktin kielen rakentuminen Suomi toisena kielenä ja kirjallisuus -oppimäärän päättöarvioinnin kriteerit oppimäärän päättyessä",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Oppilas käsittelee eri tiedonalojen aiheita arkikielellä.",
+        "7": "Oppilas ymmärtää ikätasolleen suunnattua kognitiivisesti melko vaativaa kieltä vahvan kontekstin tuen avulla.",
+        "8": "Oppilas tuntee abstraktin kielen keinoja ja käyttää niitä tekstien tulkinnassa.",
+        "9": "Oppilas tuntee abstraktin kielen keinoja ja käyttää niitä tekstien tulkinnassa."
+      }
+    },
+    {
+      "id": "T13",
+      "goalText": "kannustaa oppilasta kehittämään tiedonhankintataitoja, oman työskentelyn suunnittelua, jäsentämistä ja arviointia itsenäisesti ja ryhmässä",
+      "assessmentTarget": "Tiedonhankinta sekä oman työskentelyn suunnittelu, jäsentäminen ja arvioiminen Suomi toisena kielenä ja kirjallisuus -oppimäärän päättöarvioinnin kriteerit oppimäärän päättyessä",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Oppilas etsii yksittäisiä tietoja annetuista lähteistä. Oppilas noudattaa tekijänoikeuksia ja tietää, mitä yksityisyyden suojalla tarkoitetaan. Oppilas suunnittelee ja arvioi työskentelyään vain vähän.",
+        "7": "Oppilas etsii tietoa tutuista tai annetuista lähteistä, mutta käsittelee tietoa toistaen. Oppilas arvioi omaa työskentelyään.",
+        "8": "Oppilas etsii tietoa eri lähteistä sekä suunnittelee, jäsentää ja arvioi työskentelyään itsenäisesti ja ryhmässä. Oppilas tuo oman panoksensa yhteiseen työskentelyyn.",
+        "9": "Oppilas etsii ja yhdistelee monipuolisesti eri tietolähteiden tietoa vertaillen ja tiedon luotettavuutta arvioiden. Oppilas edistää tavoitteellisesti yhteistä työskentelyä."
+      }
+    }
+  ]
+}
