@@ -41,22 +41,36 @@ const subjectsByGrade = {
     { id: "teckensprak-och-litteratur", name: "Teckenspråk och litteratur" }
   ],
   "7-9": [
+    { id: "annat-frammande-sprak-a-larokurs", name: "Annat främmande språk, A-lärokurs" },
     { id: "biologi", name: "Biologi" },
     { id: "bildkonst", name: "Bildkonst" },
+    { id: "engelska-a-larokurs", name: "Engelska, A-lärokurs" },
+    { id: "finska-a-larokurs", name: "Finska, A-lärokurs" },
+    { id: "finska-b1-larokurs", name: "Finska, B1-lärokurs" },
+    { id: "finska-modersmalsinriktad-larokurs", name: "Finska, modersmålsinriktad lärokurs" },
+    { id: "finska-som-andrasprak-och-litteratur", name: "Finska som andraspråk och litteratur" },
     { id: "fysik", name: "Fysik" },
+    { id: "frammande-sprak-b1-larokurs", name: "Främmande språk, B1-lärokurs" },
+    { id: "frammande-sprak-b2-larokurs", name: "Främmande språk, B2-lärokurs" },
     { id: "geografi", name: "Geografi" },
     { id: "gymnastik", name: "Gymnastik" },
     { id: "halsokunskap", name: "Hälsokunskap" },
     { id: "historia", name: "Historia" },
     { id: "huslig-ekonomi", name: "Huslig ekonomi" },
     { id: "kemi", name: "Kemi" },
+    { id: "latin-b2-larokurs", name: "Latin, B2-lärokurs" },
     { id: "livsaskadningskunskap", name: "Livsåskådningskunskap" },
     { id: "matematik", name: "Matematik" },
     { id: "musik", name: "Musik" },
     { id: "religion", name: "Religion" },
+    { id: "romani-och-litteratur", name: "Romani och litteratur" },
     { id: "samhallslara", name: "Samhällslära" },
+    { id: "samiska-a-larokurs", name: "Samiska, A-lärokurs" },
+    { id: "samiska-b2-larokurs", name: "Samiska, B2-lärokurs" },
+    { id: "samiska-och-litteratur", name: "Samiska och litteratur" },
     { id: "slojd", name: "Slöjd" },
-    { id: "svenska-och-litteratur", name: "Svenska och litteratur" }
+    { id: "svenska-och-litteratur", name: "Svenska och litteratur" },
+    { id: "teckensprak-och-litteratur", name: "Teckenspråk och litteratur" }
   ]
 };
 
