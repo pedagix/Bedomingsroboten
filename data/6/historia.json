@@ -124,6 +124,34 @@
         "8": "Eleven beskriver inverkan av direkta och indirekta orsaker på en förändring.",
         "9": "Eleven jämför olika orsakers inverkan på en förändring."
       }
+    },
+    {
+      "id": "M10",
+      "goalText": "lära eleven förklara hur tolkningar kan ändras på grund av nya källor eller betraktelsesätt",
+      "assessmentTarget": "Förmåga att förklara tolkningar",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven ger ett exempel på en situation som det finns olika tolkningar om.",
+        "7": "Eleven förklarar med hjälp av ett exempel varför nya källor kan ändra tolkningen av en historisk händelse eller företeelse.",
+        "8": "Eleven kan utgående från några exempel förklara varför nya källor och betraktelsesätt kan ändra tolkningar av historien.",
+        "9": "Eleven jämför tolkningar som gjorts om samma historiska händelse eller företeelse och redogör för varför valet av källor inverkar på tolkningen."
+      }
+    },
+    {
+      "id": "M11",
+      "goalText": "handleda eleven att förklara mänsklig aktivitet",
+      "assessmentTarget": "Förmåga att förklara mänsklig aktivitet",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven anger hur motivet för en människas agerande syns i hennes aktivitet.",
+        "7": "Eleven beskriver möjliga orsaker till människans aktivitet i det förgångna.",
+        "8": "Eleven presenterar något som ska behandlas så att hen förklarar händelsen eller företeelsen ur en enskild aktörs perspektiv.",
+        "9": "Eleven analyserar motiven till människors aktivitet och ger en beskrivning av hur människors position i samhället inverkar på deras aktivitet."
+      }
     }
   ]
 }
