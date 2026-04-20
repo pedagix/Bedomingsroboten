@@ -6,7 +6,7 @@
   "goals": [
     {
       "id": "M1",
-      "goalText": "Vägleda eleven att inse sambandet mellan religion och kultur och att uppfatta den religiösa mångfalden",
+      "goalText": "vägleda eleven att inse sambandet mellan religion och kultur och att uppfatta den religiösa mångfalden",
       "assessmentTarget": "Förmåga att uppfatta det inflytande som mångfalden av religioner har samt religionernas inverkan på kultur och samhälle",
       "assessable": true,
       "message": null,
@@ -15,12 +15,12 @@
         "5": "Eleven känner under handledning igen olika saker i omgivningen som anknyter till religion såsom byggnader och symboler.",
         "7": "Eleven känner igen olika saker i omgivningen som anknyter till religion. Eleven kan kombinera begrepp och företeelser i anknytning till religion.",
         "8": "Eleven kan ge exempel på mångfalden i anknytning till den religion som studeras. Eleven visar att hen förstår att religion och kultur står i växelverkan med varandra. Eleven känner igen olika företeelser i anknytning till religion i olika kulturer och samhällen.",
-        "9": "Eleven kan ge mångsidiga exempel på den interna mångfalden i den religion som studeras. Eleven kan besk-riva växelverkan mellan religion och kultur på ett mångsidigt sätt. Eleven känner igen och kan nämna olika fö-reteelser i an-knytning till re-ligion i olika kul-turer och sam-hällen."
+        "9": "Eleven kan ge mångsidiga exempel på den interna mångfalden i den religion som studeras. Eleven kan beskriva växelverkan mellan religion och kultur på ett mångsidigt sätt. Eleven känner igen och kan nämna olika företeelser i anknytning till religion i olika kul turer och samhällen."
       }
     },
     {
       "id": "M2",
-      "goalText": "Handleda eleven at fördjupa sina kunskaper om den religion som studeras och dess inflytande",
+      "goalText": "handleda eleven att fördjupa sina kunskaper om den religion som studeras och dess inflytande",
       "assessmentTarget": "Förmåga att hantera information om den religion som studeras",
       "assessable": true,
       "message": null,
@@ -29,7 +29,7 @@
         "5": "Eleven kan ge ett exempel på lärorna i den religion som studeras och ett exempel på de viktigaste källorna. Eleven kan berätta om uppkomsten av den religion som studeras.",
         "7": "Eleven kan ge exempel på lärorna i den religion som studeras. Eleven kan redogöra för uppkomsten av den religion som studeras, samt för dess källor, inflytande och utbredning. Eleven kan enligt givna instruktioner söka ytterligare information om den religion som studeras.",
         "8": "Eleven kan analysera de grundläggande lärorna i den religion som studeras och beskriva innehållet i de viktigaste källorna. Eleven kan beskriva uppkomsten och utbredningen av den religion som studeras, samt dess inflytande i olika delar av världen. Eleven kan självständigt hämta ytterligare information om den religion som studeras och fästa uppmärksamhet vid källornas tillförlitlighet.",
-        "9": "Eleven kan analysera de grundläggande lärorna i den religion som studeras och innehållet i och tolkningen av de viktigaste källorna. Eleven kan beskriva uppkomsthistoria för den religion som studeras, dess utbredning och inflytande i olika delar av världen. Eleven kan själv-ständigt hämta ytterligare in-formation om den religion som studeras och fästa uppmärk-samhet vid käl-lornas tillförlit-lighet."
+        "9": "Eleven kan analysera de grundläggande lärorna i den religion som studeras och innehållet i och tolkningen av de viktigaste källorna. Eleven kan beskriva uppkomsthistoria för den religion som studeras, dess utbredning och inflytande i olika delar av världen. Eleven kan själv ständigt hämta ytterligare information om den religion som studeras och fästa uppmärk samhet vid käl lornas tillförlit lighet."
       }
     },
     {
@@ -43,12 +43,12 @@
         "5": "Eleven kan nämna två religioner och under handledning känna igen de centrala dragen i dem. Eleven känner under handledning igen skillnaderna mellan religion och irreligiositet.",
         "7": "Eleven kan nämna världsreligioner och berätta om de mest centrala dragen i dem. Eleven kan beskriva skillnaden mellan religion och irreligiositet. Eleven kan söka ytterligare information om religioner och åskådningar enligt givna instruktioner.",
         "8": "Eleven kan beskriva och jämföra de huvudsakliga dragen i de olika världsreligionerna. Eleven kan använda begreppen religion, irreligiositet och åskådning i ändamålsenliga sammanhang. Eleven kan söka information om religioner och åskådningar.",
-        "9": "Eleven kan analysera de huvudsakliga dragen i de olika världsre-ligionerna. Eleven kan beskriva den rådande mångfalden inom religioner och irreligiositet. Eleven kan söka information om religioner och åskådningar och fästa uppmärksamhet vid informationskällornas tillförlitlighet."
+        "9": "Eleven kan analysera de huvudsakliga dragen i de olika världsreligionerna. Eleven kan beskriva den rådande mångfalden inom religioner och irreligiositet. Eleven kan söka information om religioner och åskådningar och fästa uppmärksamhet vid informationskällornas tillförlitlighet."
       }
     },
     {
       "id": "M4",
-      "goalText": "Handleda eleven att känna igen seder och symboler i olika religioner och livsåskådningar samt ge akt på religiösa teman i medier, världspolitiken, inom konst och populärkultur",
+      "goalText": "handleda eleven att känna igen seder och symboler i olika religioner och livsåskådningar samt ge akt på religiösa teman i medier, världspolitiken, inom konst och populärkultur",
       "assessmentTarget": "Religiös och kulturell läskunnighet",
       "assessable": true,
       "message": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "M6",
-      "goalText": "Handleda eleven att utforska centrala etiska begrepp, de mänskliga rättigheterna och de etiska principerna i den religion sam studeras samt i andra religioner och livsåskådningar",
+      "goalText": "handleda eleven att utforska centrala etiska begrepp, de mänskliga rättigheterna och de etiska principerna i den religion som studeras samt i andra religioner och livsåskådningar",
       "assessmentTarget": "Förmåga att behärska information om etik och mänskliga rättigheter",
       "assessable": true,
       "message": null,
@@ -104,7 +104,7 @@
     },
     {
       "id": "M8",
-      "goalText": "Uppmuntra eleven att fundera över mänskliga livsfrågor och aktuella etiska frågor och egna värderingar i förhållande till dem",
+      "goalText": "uppmuntra eleven att fundera över mänskliga livsfrågor och aktuella etiska frågor och egna värderingar i förhållande till dem",
       "assessmentTarget": "Förmåga till etiskt tänkande och att uttrycka sina egna åsikter",
       "assessable": true,
       "message": null,
@@ -118,7 +118,7 @@
     },
     {
       "id": "M9",
-      "goalText": "Inspirera eleven att granska etiska aspekter i sina val och hur de påverkar välbefinnandet och uppmuntra eleven till en hållbar livsstil",
+      "goalText": "inspirera eleven att granska etiska aspekter i sina val och hur de påverkar välbefinnandet och uppmuntra eleven till en hållbar livsstil",
       "assessmentTarget": "Förmåga att uppfatta vilken påverkan etiska val har i förhållande till välbefinnande och en hållbar framtid",
       "assessable": true,
       "message": null,
