@@ -62,16 +62,16 @@
     },
     {
       "id": "M5",
-      "goalText": "handleda eleven att bekanta sig med huvuddragen i latinets form- och satslära, basordförråd, principer för uttal samt hjälpa hen att strukturera det språkstoff som studeras",
+      "goalText": "handleda eleven att bekanta sig med huvuddragen i latinets form och satslära, basordförråd, principer för uttal samt hjälpa hen att strukturera det språkstoff som studeras",
       "assessmentTarget": "Kännedom om språket",
       "assessable": true,
       "message": null,
       "notes": null,
       "criteria": {
-        "5": "Eleven behärskar en begränsad mängd av latinets ordförråd samt form- och satslära.",
-        "7": "Eleven behärskar i någon mån latinets form- och satslära, ordförråd och några grundregler för uttal.",
-        "8": "Eleven behärskar det centrala i latinets form- och satslära. Eleven behärskar relativt bra det centrala latinska ordförrådet och grundreglerna för uttal.",
-        "9": "Eleven behärskar det centrala i latinets form- och satslära. Eleven behärskar bra det centrala latinska ordförrådet och grundreglerna för uttal."
+        "5": "Eleven behärskar en begränsad mängd av latinets ordförråd samt form och satslära.",
+        "7": "Eleven behärskar i någon mån latinets form och satslära, ordförråd och några grundregler för uttal.",
+        "8": "Eleven behärskar det centrala i latinets form och satslära. Eleven behärskar relativt bra det centrala latinska ordförrådet och grundreglerna för uttal.",
+        "9": "Eleven behärskar det centrala i latinets form och satslära. Eleven behärskar bra det centrala latinska ordförrådet och grundreglerna för uttal."
       }
     },
     {
@@ -100,6 +100,20 @@
         "7": "Eleven förstår skrivna texter bestående av några ord och långsamt tal som innehåller bekanta ord och uttryck. Eleven kan urskilja enskilda fakta i en text.",
         "8": "Eleven förstår skrivna texter och långsamt tal som innehåller bekanta ord och uttryck. Eleven kan plocka ut enkel information som hen behöver ur en kort text.",
         "9": "Eleven förstår med hjälp av kontexten mer omfattande skrivna texter och långsamt tal som i huvudsak innehåller bekanta ord och uttryck. Eleven förstår det centrala innehållet i korta, enkla budskap som intresserar hen och grundtankarna i en förutsägbar text som innehåller ett bekant ordförråd."
+      }
+    },
+    {
+      "id": "M8",
+      "goalText": "erbjuda eleven möjligheter att öva sig i att tala och skriva kortfattat och i detta sammanhang fästa uppmärksamhet vid uttal och vid strukturer som är relevanta för textens innehåll",
+      "assessmentTarget": "Förmåga att producera texter",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan uttrycka sig muntligt och skriftligt med några ord.",
+        "7": "Eleven kan uttrycka sig mycket begränsat i tal med hjälp av bekanta och inövade ord och inlärda standarduttryck samt skriva några meningar. Eleven uttalar i huvudsak begripligt.",
+        "8": "Eleven kan med ett begränsat ordförråd muntligt berätta eller mycket kort skriva om några bekanta och för hen viktiga saker som behandlar inövade ämnen. Eleven uttalar begripligt.",
+        "9": "Eleven kan med ett begränsat ordförråd berätta eller skriva om vardagliga och för hen viktiga saker och skriva enkla meddelanden. Eleven kan uttala väl."
       }
     }
   ]
