@@ -6,7 +6,7 @@
   "goals": [
     {
       "id": "M1",
-      "goalText": "uppmuntra eleven att delta i gemensamt musicerande och att medverka till att skapa en positiv sammanhållning i sin grupp Musikaliska kunskaper",
+      "goalText": "uppmuntra eleven att delta i gemensamt musicerande och att medverka till att skapa en positiv sammanhållning i sin grupp",
       "assessmentTarget": "Förmåga att agera som en medlem i en musikalisk grupp",
       "assessable": true,
       "message": null,
@@ -20,16 +20,16 @@
     },
     {
       "id": "M2",
-      "goalText": "handleda eleven till en naturlig röstanvändning och sång samt att utveckla sina färdigheter att spela i grupp genom att använda kroppen, rytm-, melodioch ackordinstrument",
+      "goalText": "handleda eleven till en naturlig röstanvändning och sång samt att utveckla sina färdigheter att spela i grupp genom att använda kroppen, rytm, melodi och ackordinstrument",
       "assessmentTarget": "Röstanvändning, sång och förmåga att spela som en del av en grupp",
       "assessable": true,
       "message": null,
       "notes": null,
       "criteria": {
         "5": "Eleven prövar under individuell handledning på möjligheter för röstanvändning och musicerande.",
-        "7": "Eleven övar på röstanvändning och deltar i allsång. Eleven använder kroppen och spelar rytm-, melodioch ackordinstrument som del av en grupp.",
-        "8": "Eleven övar på röstanvändning, användning av kroppen samt på att spela rytm-, melodioch ackordinstrument. Eleven deltar i allsång och gemensamt musicerande, och strävar efter att göra sin del till en del av den musikaliska helheten.",
-        "9": "Eleven utvecklar sin röstanvändning och sina färdigheter i användning av kroppen, rytm-, melodioch ackordinstrument samt deltar smidigt i gemensam sång och gemensamt musicerande."
+        "7": "Eleven övar på röstanvändning och deltar i allsång. Eleven använder kroppen och spelar rytm, melodi och ackordinstrument som del av en grupp.",
+        "8": "Eleven övar på röstanvändning, användning av kroppen samt på att spela rytm, melodi och ackordinstrument. Eleven deltar i allsång och gemensamt musicerande, och strävar efter att göra sin del till en del av den musikaliska helheten.",
+        "9": "Eleven utvecklar sin röstanvändning och sina färdigheter i användning av kroppen, rytm, melodi och ackordinstrument samt deltar smidigt i gemensam sång och gemensamt musicerande."
       }
     },
     {
@@ -104,21 +104,21 @@
     },
     {
       "id": "M8",
-      "goalText": "hjälpa eleven att iaktta hur musiken påverkar välbefinnandet och att se till att musikoch ljudmiljön är trygg",
-      "assessmentTarget": "Förmåga att använda instrument och utrustning på ett säkert sätt. Eleven handleds också att reflektera över sina erfarenheter av ljud och musik, men detta används inte som grund för bildandet av vitsordet.",
+      "goalText": "hjälpa eleven att iaktta hur musiken påverkar välbefinnandet och att se till att musik och ljudmiljön är trygg",
+      "assessmentTarget": "Förmåga att använda instrument och utrustning på ett säkert sätt",
       "assessable": true,
       "message": null,
-      "notes": null,
+      "notes": "Eleven handleds också att reflektera över sina erfarenheter av ljud och musik, men detta används inte som grund för bildandet av vitsordet.",
       "criteria": {
         "5": "Eleven följer de säkerhetsanvisningar som ges då hen använder utrustning och instrument.",
         "7": "Eleven agerar i enlighet med säkerhetsanvisningarna då hen använder utrustning och instrument.",
         "8": "Eleven kan använda utrustning och instrument enligt säkerhetsanvisningarna.",
-        "9": "Eleven kan använda utrustning och instrument enligt säkerhetsanvisningarna och ser till att musikoch ljudmiljön är trygg."
+        "9": "Eleven kan använda utrustning och instrument enligt säkerhetsanvisningarna och ser till att musik och ljudmiljön är trygg."
       }
     },
     {
       "id": "M9",
-      "goalText": "handleda eleven att utveckla sina musikaliska färdigheter genom övning, att vara med och ställa upp mål och att utvärdera sina framsteg",
+      "goalText": "handleda eleven att utveckla sina musikaliska färdigheter genom övning, att vara med och ställa upp mål och att utvärdera sina framsteg i förhållande till målen",
       "assessmentTarget": "Förmåga att lära sig samt arbetsfärdigheter",
       "assessable": true,
       "message": null,
@@ -127,7 +127,7 @@
         "5": "Eleven utvecklar med lärarens stöd sina färdigheter inom något delområde inom musikaliska färdigheter i riktning mot ett givet mål.",
         "7": "Eleven utvecklar sina musikaliska färdigheter genom övning samt övar på att ställa upp mål och bedöma framsteg i gemensamt musicerande.",
         "8": "Eleven utvecklar sina musikaliska färdigheter genom övning samt deltar i att ställa upp mål och bedöma framsteg i gemensamt musicerande.",
-        "9": "Eleven ställer upp mål för sina musikaliska färdigheter och arbetar i enlighet med dem. Eleven utvärderar sitt agerande och anpassar sitt arbete i"
+        "9": "Eleven ställer upp mål för sina musikaliska färdigheter och arbetar i enlighet med dem. Eleven utvärderar sitt agerande och anpassar sitt arbete i enlighet med målen."
       }
     }
   ]
