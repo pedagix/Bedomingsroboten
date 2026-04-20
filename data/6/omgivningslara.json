@@ -57,7 +57,7 @@
     },
     {
       "id": "M5",
-      "goalText": "hjälpa eleven att planera och genomföra små undersökningar, göra observationer och mätningar i mångsidiga lärmiljöer med hjälp av olika sinnen samt undersökningsoch mätredskap",
+      "goalText": "hjälpa eleven att planera och genomföra små undersökningar, göra observationer och mätningar i mångsidiga lärmiljöer med hjälp av olika sinnen samt undersöknings och mätredskap",
       "assessmentTarget": "Undersökningsfärdigheter: förmåga att planera, observera och mäta",
       "assessable": true,
       "message": null,
@@ -93,8 +93,8 @@
       "criteria": {
         "5": "Eleven beskriver användningsområdet för en teknisk tillämpning. Eleven deltar under handledning i att experimentera och skapa nytt i grupp.",
         "7": "Eleven ger några exempel på användningsområden för vardagliga tekniska tillämpningar och hur de fungerar. Eleven arbetar under handledning med att experimentera och skapa nytt tillsammans med de andra.",
-        "8": "Eleven beskriver hur vissa vardagliga tekniska tilllämpningar fungerar och kan ge exempel på deras betydelse. Eleven samarbetar med de andra kring experiment och nyskapande.",
-        "9": "Eleven beskriver och förklarar hur flera tekniska tilllämpningar fungerar och kan ge exempel på deras användningsområden. Eleven är initiativrik i samband med experiment och nyskapande. Eleven hjälper vid behov de andra i samband med experiment och nyskapande."
+        "8": "Eleven beskriver hur vissa vardagliga tekniska tillämpningar fungerar och kan ge exempel på deras betydelse. Eleven samarbetar med de andra kring experiment och nyskapande.",
+        "9": "Eleven beskriver och förklarar hur flera tekniska tillämpningar fungerar och kan ge exempel på deras användningsområden. Eleven är initiativrik i samband med experiment och nyskapande. Eleven hjälper vid behov de andra i samband med experiment och nyskapande."
       }
     },
     {
@@ -141,8 +141,8 @@
     },
     {
       "id": "M11",
-      "goalText": "handleda eleven att använda informationsoch kommunikationsteknik för att söka, bearbeta och presentera information och för att kommunicera på ett ansvarsfullt, tryggt och ergonomiskt sätt",
-      "assessmentTarget": "Förmåga att använda informationsoch kommunikationsteknik",
+      "goalText": "handleda eleven att använda informations och kommunikationsteknik för att söka, bearbeta och presentera information och för att kommunicera på ett ansvarsfullt, tryggt och ergonomiskt sätt",
+      "assessmentTarget": "Förmåga att använda informations och kommunikationsteknik",
       "assessable": true,
       "message": null,
       "notes": null,
@@ -183,7 +183,7 @@
     },
     {
       "id": "M14",
-      "goalText": "handleda eleven att söka tillförlitlig information, uttrycka olika synpunkter och motivera dem samt tolka och kritiskt bedöma informationskällor och synvinklar.",
+      "goalText": "handleda eleven att söka tillförlitlig information, uttrycka olika synpunkter och motivera dem samt tolka och kritiskt bedöma informationskällor och synvinklar",
       "assessmentTarget": "Förmåga att uttrycka åsikter och läsa kritiskt",
       "assessable": true,
       "message": null,
@@ -205,8 +205,8 @@
       "criteria": {
         "5": "Eleven identifierar under handledning några organismer, livsmiljöer och faktorer i den icke-levande naturen. Eleven känner igen några av människans kroppsdelar, livsfunktioner samt skeden i människans utveckling.",
         "7": "Eleven identifierar några organismer och livsmiljöer. Eleven nämner faktorer i den ickelevande och den levande naturen som organismerna behöver av sin miljö. Eleven nämner några av människans kroppsdelar och ger exempel på människans livsfunktioner samt skeden i människans utveckling.",
-        "8": "Eleven nämner organismer och livsmiljöer som är kännetecknande för dem. Eleven ger exempel på interaktionen mellan den icke-levande och den levande naturen. Eleven nämner människans kroppsdelar och beskriver människans livsfunktioner och utveckling.",
-        "9": "Eleven nämner organismer och livsmiljöer på ett mångsidigt sätt. Eleven beskriver interaktionsförhållanden mellan organismer och den icke-levande naturen. Eleven nämner människans kroppsdelar på ett mångsidigt sätt och beskriver samband mellan människans livsfunktioner samt människans utveckling."
+        "8": "Eleven nämner organismer och livsmiljöer som är kännetecknande för dem. Eleven ger exempel på interaktionen mellan den ickelevande och den levande naturen. Eleven nämner människans kroppsdelar och beskriver människans livsfunktioner och utveckling.",
+        "9": "Eleven nämner organismer och livsmiljöer på ett mångsidigt sätt. Eleven beskriver interaktionsförhållanden mellan organismer och den ickelevande naturen. Eleven nämner människans kroppsdelar på ett mångsidigt sätt och beskriver samband mellan människans livsfunktioner samt människans utveckling."
       }
     },
     {
@@ -232,9 +232,9 @@
       "notes": null,
       "criteria": {
         "5": "Eleven gör observationer om något fysikaliskt fenomen och beskriver detta genom under handledning att använda fysikens begrepp. Eleven nämner några energikällor och energiformer i bekanta situationer.",
-        "7": "Eleven observerar, undersöker och beskriver enkla fysikaliska fenomen samt förklarar några enkla fenomen under handledning genom att använda fysikens begrepp. Eleven använder energi-, kraftoch rörelsebegrepp i bekanta situationer. Eleven nämner olika energikällor och energiformer samt kan ge enskilda exempel på omvandling av energi till olika former.",
-        "8": "Eleven observerar, undersöker och beskriver enkla fysikaliska fenomen samt förklarar några av dessa fenomen genom att använda fysikens begrepp. Eleven använder energi-, kraftoch rörelsebegrepp i vardagliga situationer och ger exempel på principen om energins bevarande.",
-        "9": "Eleven observerar, undersöker och förklarar fysikaliska fenomen genom att använda fysikens begrepp. Eleven använder energi-, kraftoch rörelsebegrepp i olika situationer. Eleven förklarar hur principen om energins bevarande framkommer i olika givna situationer."
+        "7": "Eleven observerar, undersöker och beskriver enkla fysikaliska fenomen samt förklarar några enkla fenomen under handledning genom att använda fysikens begrepp. Eleven använder energi, kraft och rörelsebegrepp i bekanta situationer. Eleven nämner olika energikällor och energiformer samt kan ge enskilda exempel på omvandling av energi till olika former.",
+        "8": "Eleven observerar, undersöker och beskriver enkla fysikaliska fenomen samt förklarar några av dessa fenomen genom att använda fysikens begrepp. Eleven använder energi, kraft och rörelsebegrepp i vardagliga situationer och ger exempel på principen om energins bevarande.",
+        "9": "Eleven observerar, undersöker och förklarar fysikaliska fenomen genom att använda fysikens begrepp. Eleven använder energi, kraft och rörelsebegrepp i olika situationer. Eleven förklarar hur principen om energins bevarande framkommer i olika givna situationer."
       }
     },
     {
