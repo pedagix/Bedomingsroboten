@@ -5,20 +5,6 @@
   "notes": null,
   "goals": [
     {
-      "id": "M12",
-      "goalText": "uppmuntra eleven att ta del av ett mångsidigt kulturutbud och erbjuda eleven möjligheter att själv producera kultur",
-      "assessmentTarget": "Kunskap om barnoch ungdomslitteratursamt bibliotek och medieoch kulturutbud",
-      "assessable": true,
-      "message": null,
-      "notes": null,
-      "criteria": {
-        "5": "Eleven har läst någon kort skönlitterär text eller facktext i sin helhet.",
-        "7": "Eleven har läs en del av de skönlitterära texter eller facktexter man kommit överens om. Eleven håller sig till välbekanta textgenrer. Eleven kan under handledning använda bibliotekstjänster, medieoch kulturutbud.",
-        "8": "Eleven har läst de skönlitterära texter och facktexter man kommit överens om. Eleven kan välja texter att läsa som är lämpliga för hens ålder. Eleven kan självständigt använda bibliotekstjänster, medieoch kulturutbud.",
-        "9": "Eleven kan välja texter att läsa som är nya för hen. Eleven kan mångsidigt använda bibliotekstjänster, medieoch kulturutbud."
-      }
-    },
-    {
       "id": "M1",
       "goalText": "handleda och uppmuntra eleven att utveckla sina kommunikationsfärdigheter och sin förmåga att kommunicera i olika situationer samt handleda eleven att stärka sin förmåga att kommunicera i en teckenspråkig och flerspråkig gemenskap också med hjälp av drama",
       "assessmentTarget": "Förmåga att agera i olika kommunikationssituationer",
@@ -34,7 +20,7 @@
     },
     {
       "id": "M2",
-      "goalText": "uppmuntra eleven att uttrycka sig allt mer mångsidigt och utveckla en positiv syn på sitt sätt att kommunicera samt handleda eleven att iaktta sin egen kommunikationsoch uttrycksförmåga",
+      "goalText": "uppmuntra eleven att uttrycka sig allt mer mångsidigt och utveckla en positiv syn på sitt sätt att kommunicera samt handleda eleven att iaktta sin egen kommunikations och uttrycksförmåga",
       "assessmentTarget": "Förmåga att utveckla uttrycksförmågan",
       "assessable": true,
       "message": null,
@@ -48,7 +34,7 @@
     },
     {
       "id": "M3",
-      "goalText": "handleda eleven att förstå och tolka olika typer av texter samt att diskutera texterna och samtidigt utöka sitt begreppsoch teckenförråd",
+      "goalText": "handleda eleven att förstå och tolka olika typer av texter samt att diskutera texterna och samtidigt utöka sitt begrepps och teckenförråd",
       "assessmentTarget": "Förmåga att redogöra för och tolka text",
       "assessable": true,
       "message": null,
@@ -139,15 +125,15 @@
       "notes": null,
       "criteria": {
         "5": "Eleven kan under handledning nämna några likheter och skillnader i språk och kultur. Eleven kan beskriva användningen av medier och kulturtjänster i den egna vardagen.",
-        "7": "Eleven kan nämna flera likheter och skillnader i språk och kultur. Eleven kan beskriva medieoch kulturutbud som intresserar hen.",
+        "7": "Eleven kan nämna flera likheter och skillnader i språk och kultur. Eleven kan beskriva medie och kulturutbud som intresserar hen.",
         "8": "Eleven kan under handledning jämföra teckenspråk med talat språk. Eleven kan beskriva mediernas och kulturens roll i den egna vardagen.",
-        "9": "Eleven kan reflektera över likheter och skillnader i språk och kultur. Eleven kan beskriva medieoch kulturutbudets roll mer omfattande än enbart utgående från sin egen erfarenhet."
+        "9": "Eleven kan reflektera över likheter och skillnader i språk och kultur. Eleven kan beskriva medie och kulturutbudets roll mer omfattande än enbart utgående från sin egen erfarenhet."
       }
     },
     {
       "id": "M10",
       "goalText": "erbjuda eleven möjligheter att öva sig att använda en teckenspråkstolk",
-      "assessmentTarget": "Förmåga att agera med en teckenspråkstolk.",
+      "assessmentTarget": "Förmåga att agera med en teckenspråkstolk",
       "assessable": true,
       "message": null,
       "notes": null,
@@ -166,9 +152,9 @@
       "message": null,
       "notes": null,
       "criteria": {
-        "5": "Eleven kan med hjälp av modeller och stödfrågor iaktta det språk",
+        "5": "Eleven kan med hjälp av modeller och stödfrågor iaktta det språk som behövs i olika läroämnen.",
         "7": "Eleven kan under handledning iaktta det språk som behövs i olika läroämnen.",
-        "8": "Eleven kan iaktta och under handledning använda det språk som",
+        "8": "Eleven kan iaktta och under handledning använda det språk som behövs i olika läroämnen.",
         "9": "Eleven kan iaktta och använda det språk som behövs i olika läroämnen."
       }
     }
