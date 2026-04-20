@@ -20,7 +20,7 @@
     },
     {
       "id": "M2",
-      "goalText": "uppmuntra eleven att diskutera om sina iakttagelser och tankar och att öva sig att motivera sina åsikter",
+      "goalText": "uppmuntra eleven att diskutera sina iakttagelser och tankar och att öva sig att motivera sina åsikter",
       "assessmentTarget": "Förmåga att uttrycka sina iakttagelser och tankar verbalt",
       "assessable": true,
       "message": null,
@@ -57,7 +57,7 @@
         "5": "Eleven prövar under handledning på att använda något material eller någon teknik när hen skapar bilder.",
         "7": "Eleven prövar och övar på att använda olika redskap och metoder för att uttrycka sig i bild. Hen använder några av dem när hen skapar bilder.",
         "8": "Eleven kan använda olika material, tekniker och uttryckssätt för att uttrycka sig i bild. Hen utvecklar sina färdigheter i att skapa bilder.",
-        "9": "Eleven kan tilllämpa olika material, tekniker och uttryckssätt på ett ändamålsenligt sätt för att skapa bilder. Hen övar sina färdigheter i att skapa bilder, huvudsakligen målmedvetet."
+        "9": "Eleven kan tillämpa olika material, tekniker och uttryckssätt på ett ändamålsenligt sätt för att skapa bilder. Hen övar sina färdigheter i att skapa bilder, huvudsakligen målmedvetet."
       }
     },
     {
@@ -91,7 +91,7 @@
     {
       "id": "M7",
       "goalText": "handleda eleven att iaktta bilder ur olika perspektiv och i olika sammanhang och att fundera över förhållandet mellan fakta och fiktion",
-      "assessmentTarget": "Förmåga att iaktta bilder",
+      "assessmentTarget": "Föremål för bedömningen i läroämnet",
       "assessable": true,
       "message": null,
       "notes": null,
@@ -127,21 +127,35 @@
         "5": "Eleven bekantar sig med och prövar under handledning något kulturellt sätt att uttrycka sig i bild när hen skapar bilder.",
         "7": "Eleven övar några kulturella sätt att uttrycka sig i sina bilder och när hen gör tolkningar.",
         "8": "Eleven använder olika kulturella sätt att uttrycka sig i sina bilder och när hen gör tolkningar.",
-        "9": "Eleven kan tilllämpa kulturella sätt att uttrycka sig i sina bilder och när hen gör tolkningar."
+        "9": "Eleven kan tillämpa kulturella sätt att uttrycka sig i sina bilder och när hen gör tolkningar."
       }
     },
     {
       "id": "M10",
-      "goalText": "handleda eleven att diskutera värderingar som finns i konsten,",
+      "goalText": "handleda eleven att diskutera värderingar som finns i konsten, omgivningen och i den visuella kulturen",
       "assessmentTarget": "Förmåga att granska och diskutera värderingar",
       "assessable": true,
       "message": null,
       "notes": null,
       "criteria": {
-        "5": "Eleven övar under handledning på att granska och diskutera värderingar",
-        "7": "Eleven uttrycker och diskuterar några av sina åsikter om värderingar",
-        "8": "Eleven uttrycker aktivt sina åsikter om värderingar",
-        "9": "Eleven tar ställning till diskussioner om värderingar i visuell kultur och"
+        "5": "Eleven övar under handledning på att granska och diskutera värderingar som uttrycks i visuell kultur.",
+        "7": "Eleven uttrycker och diskuterar några av sina åsikter om värderingar som uttrycks i visuell kultur.",
+        "8": "Eleven uttrycker aktivt sina åsikter om värderingar som uttrycks i visuell kultur.",
+        "9": "Eleven tar ställning till diskussioner om värderingar i visuell kultur och motiverar sina åsikter."
+      }
+    },
+    {
+      "id": "M11",
+      "goalText": "handleda eleven att beakta kulturell mångfald och hållbar utveckling i sina bilder och vid val av arbetssätt",
+      "assessmentTarget": "Förmåga att välja visuella uttryck när de egna åsikterna presenteras",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven för under handledning fram något perspektiv på kulturell mångfald eller hållbar utveckling.",
+        "7": "Eleven beaktar perspektiv på kulturell mångfald och hållbar utveckling i innehållet i några av sina bilder eller sätt att arbeta.",
+        "8": "Eleven beaktar perspektiv på kulturell mångfald och hållbar utveckling i innehållet i sina bilder och i sitt sätt att arbeta. Hen berättar om sina åsikter i sina bilder.",
+        "9": "Eleven beaktar målmedvetet perspektiv på kulturell mångfald och hållbar utveckling i sina bilder och innehållet och i sitt sätt att arbeta. Hen motiverar sina åsikter och lösningar."
       }
     }
   ]
