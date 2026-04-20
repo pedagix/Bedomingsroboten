@@ -153,7 +153,7 @@ function renderStartScreen() {
     <div class="start-shell">
       <div class="start-layout">
         <div class="start-card">
-          <h1 class="start-title">Bedömningsroboten</h1>
+          <h1 class="start-title">Bedömningsroboten (Beta)</h1>
 
           <div class="start-field">
             <label for="gradeSelect">Årskurs</label>
