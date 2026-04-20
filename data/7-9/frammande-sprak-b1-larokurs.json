@@ -6,7 +6,7 @@
   "goals": [
     {
       "id": "M1",
-      "goalText": "(årskurs 8-9) handleda eleven att fördjupa sin förståelse för målspråkets ställning som ett språk i världen och sina kunskaper om målspråkets språkliga och kulturella miljöer, ge eleven beredskap att utveckla interkulturella färdigheter samt handleda eleven att bekanta sig med frågor och värderingar som berör målspråkets ställning",
+      "goalText": "(årskurs 89) handleda eleven att fördjupa sin förståelse för målspråkets ställning som ett språk i världen och sina kunskaper om målspråkets språkliga och kulturella miljöer, ge eleven beredskap att utveckla interkulturella färdigheter samt handleda eleven att bekanta sig med frågor och värderingar som berör målspråkets ställning",
       "assessmentTarget": "Förmåga att bilda sig en uppfattning om målspråkets språkliga och kulturella miljö Förmåga att bilda sig en uppfattning om frågor och värderingar som anknyter till målspråkets ställning och varianter Förmåga att utveckla interkulturella färdigheter.",
       "assessable": true,
       "message": null,
@@ -19,8 +19,17 @@
       }
     },
     {
+      "id": "M2",
+      "goalText": "(årskurs 89) stödja utvecklingen av elevens språkliga nyfikenhet och härledningsförmåga, handleda eleven att lägga märke till regelbundenheter i målspråket och att använda språkvetenskapliga begrepp till stöd för sitt lärande samt att dra nytta av andra språk i sina studier i målspråket",
+      "assessmentTarget": null,
+      "assessable": false,
+      "message": "Används inte som grund för bedömningen.",
+      "notes": "Det kunnande som ska bedömas ingår i beskrivningarna av kunskapskraven för växande språkkunskap.",
+      "criteria": {}
+    },
+    {
       "id": "M3",
-      "goalText": "(årskurs 8-9) handleda eleven att ta ansvar och ställa upp mål för sina studier i målspråket samt uppmuntra eleven att använda många olika sätt för att lära sig målspråket även tillsammans med andra och att mångsidigt öva och utveckla sina färdigheter i målspråket, även med hjälp av digitala verktyg",
+      "goalText": "(årskurs 89) handleda eleven att ta ansvar och ställa upp mål för sina studier i målspråket samt uppmuntra eleven att använda många olika sätt för att lära sig målspråket även tillsammans med andra och att mångsidigt öva och utveckla sina färdigheter i målspråket, även med hjälp av digitala verktyg",
       "assessmentTarget": "Förmåga att ta ansvar för studierna i målspråket och att utnyttja mångsidiga strategier för att lära sig målspråket.",
       "assessable": true,
       "message": null,
@@ -34,7 +43,7 @@
     },
     {
       "id": "M4",
-      "goalText": "(årskurs 8-9) uppmuntra eleven att se egna kunskaper i målspråket som en viktig del av kontinuerligt lärande och utökade personliga språkresurser samt uppmuntra och handleda eleven att lägga märke till möjligheter att använda sina kunskaper i målspråket i det egna livet och modigt använda målspråket i olika situationer även utanför skolan",
+      "goalText": "(årskurs 89) uppmuntra eleven att se egna kunskaper i målspråket som en viktig del av kontinuerligt lärande och utökade personliga språkresurser samt uppmuntra och handleda eleven att lägga märke till möjligheter att använda sina kunskaper i målspråket i det egna livet och modigt använda målspråket i olika situationer även utanför skolan",
       "assessmentTarget": "Förmåga att bilda sig en uppfattning om betydelsen av kunskaper i målspråket som en del av de egna språkresurserna och kontinuerligt lärande.",
       "assessable": true,
       "message": null,
@@ -48,7 +57,7 @@
     },
     {
       "id": "M5",
-      "goalText": "(årskurs 8-9) erbjuda eleven tillfällen att öva muntlig och skriftlig kommunikation i olika kommunikationskanaler",
+      "goalText": "(årskurs 89) erbjuda eleven tillfällen att öva muntlig och skriftlig kommunikation i olika kommunikationskanaler",
       "assessmentTarget": "Kommunikationsförmåga i olika situationer",
       "assessable": true,
       "message": null,
@@ -62,21 +71,21 @@
     },
     {
       "id": "M6",
-      "goalText": "(årskurs 8-9) stödja eleven i att använda sig av språkliga kommunikationsstrategier",
+      "goalText": "(årskurs 89) stödja eleven i att använda sig av språkliga kommunikationsstrategier",
       "assessmentTarget": "Användning av kommunikationsstrategier",
       "assessable": true,
       "message": null,
       "notes": null,
       "criteria": {
         "5": "Kunskapsnivå A1.1: Eleven behöver mycket hjälpmedel (till exempel gester, teckningar, ordlistor, internet). Eleven kan ibland gissa eller härleda enskilda ords betydelse utgående från kontexten, allmänna kunskaper eller sina andra språkkunskaper. Eleven kan uttrycka om hen har förstått eller inte.",
-        "7": "Kunskapsnivå A1.2: Eleven använder sig av det mest centrala ord- och uttrycksförrådet i sin kommunikation. Eleven behöver mycket hjälpmedel. Eleven kan be sin samtalspartner att upprepa eller tala långsammare.",
+        "7": "Kunskapsnivå A1.2: Eleven använder sig av det mest centrala ord och uttrycksförrådet i sin kommunikation. Eleven behöver mycket hjälpmedel. Eleven kan be sin samtalspartner att upprepa eller tala långsammare.",
         "8": "Kunskapsnivå A1.3: Eleven deltar i kommunikationen, men behöver fortfarande ofta hjälpmedel. Eleven kan reagera med korta verbala uttryck, små gester (till exempel genom att nicka), ljud eller liknande minimal respons. Eleven måste ofta be sin samtalspartner att förtydliga eller upprepa.",
         "9": "Kunskapsnivå A1.3/A2.1: Eleven deltar i kommunikationen och behöver endast sporadiskt hjälpmedel. Eleven kan reagera med korta verbala uttryck. Eleven måste relativt ofta be om förtydligande eller upprepning och behöver mera sällan stödja sig på ickeverbala uttryck. Eleven kan i viss mån utnyttja samtalspartnerns uttryck i sin egen kommunikation."
       }
     },
     {
       "id": "M7",
-      "goalText": "(årskurs 8-9) hjälpa eleven att öka sin kännedom om uttryck som hör till artigt språkbruk",
+      "goalText": "(årskurs 89) hjälpa eleven att öka sin kännedom om uttryck som hör till artigt språkbruk",
       "assessmentTarget": "Kulturellt lämplig kommunikation",
       "assessable": true,
       "message": null,
@@ -85,12 +94,12 @@
         "5": "Kunskapsnivå A1.1: Eleven kan använda några för språket eller kulturen typiska artighetsfraser (hälsa, säga adjö, tacka) i några mycket rutinmässiga sociala sammanhang.",
         "7": "Kunskapsnivå A1.2: Eleven kan använda några av de vanligaste artighetsfraserna på språket i rutinmässiga sociala sammanhang.",
         "8": "Kunskapsnivå A1.3: Eleven kan använda vanliga uttryck som kännetecknar artigt språkbruk i många rutinmässiga sammanhang.",
-        "9": "Kunskapsnivå A1.3/A2.1: Eleven klarar av några korta sociala situationer och kan använda några artiga hälsnings- och tilltalsfraser samt framföra till exempel önskemål, inbjudningar, förslag och ursäkter och besvara sådana."
+        "9": "Kunskapsnivå A1.3/A2.1: Eleven klarar av några korta sociala situationer och kan använda några artiga hälsnings och tilltalsfraser samt framföra till exempel önskemål, inbjudningar, förslag och ursäkter och besvara sådana."
       }
     },
     {
       "id": "M8",
-      "goalText": "(årskurs 8-9) uppmuntra eleven att tolka för sig själv och sin åldersgrupp lämpliga och intressanta talade och skrivna texter",
+      "goalText": "(årskurs 89) uppmuntra eleven att tolka för sig själv och sin åldersgrupp lämpliga och intressanta talade och skrivna texter",
       "assessmentTarget": "Förmåga att tolka texter",
       "assessable": true,
       "message": null,
@@ -100,6 +109,20 @@
         "7": "Kunskapsnivå A1.2: Eleven förstår skriven text bestående av några ord och långsamt tal som innehåller inövade och bekanta ord och uttryck. Eleven kan urskilja enskilda fakta i en text.",
         "8": "Kunskapsnivå A1.3: Eleven förstår skriven text som innehåller enkla och bekanta ord och uttryck och långsamt tal med stöd av kontexten. Eleven kan plocka ut enkel information enligt behov ur en kort text.",
         "9": "Kunskapsnivå A1.3/A2.1: Eleven förstår texter som innehåller enkla och bekanta ord och uttryck samt tydligt tal. Eleven kan plocka ut den information hen behöver i korta och enkla meddelanden som intresserar honom eller henne och grundtankarna i en förutsägbar text som innehåller bekanta ord."
+      }
+    },
+    {
+      "id": "M9",
+      "goalText": "(årskurs 89) erbjuda eleven rikligt med möjligheter att öva sig på att kort tala och skriva om olika ämnen och i detta sammanhang även fästa uppmärksamhet vid uttal och vid strukturer som är relevanta för textens innehåll",
+      "assessmentTarget": "Förmåga att producera texter",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Kunskapsnivå A1.1: Eleven kan uttrycka sig mycket begränsat i tal med hjälp av inövade ord och inlärda standarduttryck. Eleven uttalar några inövade uttryck begripligt. Eleven kan skriva några enskilda ord och uttryck.",
+        "7": "Kunskapsnivå A1.2: Eleven kan med hjälp av ett begränsat uttrycksförråd berätta om några bekanta och för hen viktiga saker samt skriva några korta meningar om inövade ämnen. Eleven uttalar de flesta inövade uttrycken begripligt. Eleven behärskar ett mycket begränsat ordförråd, några situationsbundna uttryck och en del av den grundläggande grammatiken.",
+        "8": "Kunskapsnivå A1.3: Eleven behärskar en begränsad mängd korta, inövade uttryck, de mest centrala orden och grundläggande satsstrukturer. Eleven kan med hjälp av ett begränsat uttrycksförråd berätta om vardagliga och för hen viktiga saker samt skriva enkla meddelanden. Eleven uttalar inövade uttryck begripligt.",
+        "9": "Kunskapsnivå A1.3/A2.1: Eleven kan med enkla meningar och konkreta ord berätta om vardagliga och konkreta saker som är viktiga för hen. Eleven behärskar centrala ord och strukturer. Eleven kan tillämpa några grundläggande uttalsregler, även i andra än inövade uttryck"
       }
     }
   ]
