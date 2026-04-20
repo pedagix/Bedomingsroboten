@@ -54,7 +54,7 @@
       "message": null,
       "notes": null,
       "criteria": {
-        "5": "Eleven kan läsa enkla skönlitterära, fakta- och medietexter i olika former.",
+        "5": "Eleven kan läsa enkla skönlitterära, fakta och medietexter i olika former.",
         "7": "Eleven kan välja, använda och läsa olika texter men håller sig främst till bekanta texttyper.",
         "8": "Eleven kan välja, använda och tolka texter som representerar olika texttyper.",
         "9": "Eleven kan välja, använda, tolka och utvärdera också nya texttyper."
@@ -132,7 +132,7 @@
     },
     {
       "id": "M10",
-      "goalText": "uppmuntra eleven att vidga sin kultursyn, att bekanta sig med olika kulturformer och -institutioner samt hjälpa eleven att reflektera över språkets och kulturens betydelse både i sitt eget liv och i samhället",
+      "goalText": "uppmuntra eleven att vidga sin kultursyn, att bekanta sig med olika kulturformer och institutioner samt hjälpa eleven att reflektera över språkets och kulturens betydelse både i sitt eget liv och i samhället",
       "assessmentTarget": "Kännedom om kultur och olika kulturformer",
       "assessable": true,
       "message": null,
@@ -156,6 +156,20 @@
         "7": "Eleven kan använda tolktjänster och känner till enkel tolkningspraxis.",
         "8": "Eleven kan beställa en tolk självständigt och agera med tolken i vanliga situationer.",
         "9": "Eleven kan tolkningens principer och praxis och kan ta hänsyn till dem i sitt eget agerande."
+      }
+    },
+    {
+      "id": "M12",
+      "goalText": "handleda eleven att utöka sin textvärld med texter som anknyter till fortsatta studier och samhället samt utveckla sin språkfärdighet inom olika kunskapsområden",
+      "assessmentTarget": "Förmåga att se hur textvärlden vidgas, språkfärdighet inom olika kunskapsområden",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan söka information i bekanta källor och planera sitt arbete enligt modell.",
+        "7": "Eleven kan söka information i källor som är nya för hen samt planera sitt arbete som medlem i en grupp.",
+        "8": "Eleven kan söka information i olika källor samt självständigt planera, strukturera och utvärdera sitt arbete.",
+        "9": "Eleven kan självständigt söka information i tillförlitliga och mångsidiga källor samt aktivt planera, strukturera och utvärdera sitt arbete självständigt och i grupp."
       }
     }
   ]
