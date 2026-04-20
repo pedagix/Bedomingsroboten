@@ -5,29 +5,13 @@
   "notes": null,
   "goals": [
     {
-      "id": "M11",
-      "goalText": "handleda eleven att beakta kulturell mångfald och hållbar utveckling i sina bilder och vid val av arbetssätt Bedömningen av lärandet mentationen av de olika olika material samt elevens bedömningen av lärande Responsen ska på ett utvecklingen av de praktiska respons ska elevens styrkor nomföra självvärdering på ett tydligt och analytiskt årskurserna 3-6. Läsårsbedömningen slöjd som fastställts i kunskapskraven för vitsordet och i relation till ovan prestation i något annat bildas. I beskrivningarna högre vitsord.",
-      "assessmentTarget": "Förmåga att välja visuella uttryck när de egna åsikterna presenteras sporrande ett redskap för bedömningen. och kvaliteten på produkterna i sin helhet. sporra till att bredda den mångsidiga kompetensen tillsammans och eleven arbete och produkter konstruktiv respons. mål för undervisningen vitsorden 5, 7, 8 eller för vitsorden Om eleven uppnår ingå i läsårsbedömningen i årskurs 6 ingår dömningen i läroämnet",
-      "assessable": true,
-      "message": null,
-      "notes": null,
-      "criteria": {
-        "5": "Eleven för under handledning fram något perspektiv på kulturell mångfald eller hållbar utveckling. och uppmärksammar Att prova och och tillämpande och fördjupa kunnandet. bedömas på ska handledas att utveckla kan visas upp och i läroämnet som fördelats 9 då elevens kunnande 4, 6 och 10 ska bildas en bättre kunskapsnivå i slöjd i årskurserna beskrivningarna av",
-        "7": "Eleven beaktar perspektiv på kulturell mångfald och hållbar utveckling i innehållet i några av sina bilder eller sätt att arbeta. elevernas individuella undersöka för slöjd lämpliga av kunskaper som Parallellt med att ett mångsidigt sätt. sin prestation. granskas, varvid eleverna för årskursen i huvudsak motsvarar utgående från målen i något mål kan det 3-6 och i det verbala kunnandet för de lägre",
-        "8": "Eleven beaktar perspektiv på kulturell mångfald och hållbar utveckling i innehållet i sina bilder och i sitt sätt att arbeta. Hen berättar om sina åsikter i sina bilder. framsteg i hela slöjdprocessen. material och inhämtats i andra läroämnen eleverna lär sig det centrala I bedömningsdiskussioner Eleverna ska erbjudas lär sig att genomföra i den lokala läroplanen. den nivå av kunnande för undervisningen i kompensera en underkänd omdöme eller siffervitsordet vitsorden i kunskapskraven",
-        "9": "Eleven beaktar målmedvetet perspektiv på kulturell mångfald och hållbar utveckling i sina bilder och innehållet och i sitt sätt att arbeta. Hen motiverar sina åsikter och lösningar. Dokusätt att bearbeta ska ingå i innehållet ska och annan olika sätt att gepresentationer som beskrivs i slöjd för årskurs 3-6 eller svagare som ska för ett"
-      }
-    },
-    {
       "id": "M1",
       "goalText": "stärka elevens intresse för arbete med händerna samt väcka elevens nyfikenhet för kreativt, experimentellt och lokalt förankrat slöjdarbete",
-      "assessmentTarget": "dömningen i läroämnet",
-      "assessable": true,
-      "message": null,
+      "assessmentTarget": null,
+      "assessable": false,
+      "message": "Används inte som grund för bildandet av vitsord. Eleven handleds att reflektera över sina erfarenheter som en del av självvärderingen.",
       "notes": null,
-      "criteria": {
-        "5": "Används inte som grund för bildandet av vitsord. Eleven handleds att reflektera över sina erfarenheter som en del av självvärderingen."
-      }
+      "criteria": {}
     },
     {
       "id": "M2",
@@ -46,7 +30,7 @@
     {
       "id": "M3",
       "goalText": "handleda eleven att på egen hand eller tillsammans med andra planera och framställa en slöjdprodukt eller ett alster genom att lita på sina egna estetiska och tekniska lösningar",
-      "assessmentTarget": "Förmåga att tillverka en produkt eller ett alster dömningen i läroämnet",
+      "assessmentTarget": "Förmåga att tillverka en produkt eller ett alster",
       "assessable": true,
       "message": null,
       "notes": null,
@@ -68,13 +52,13 @@
         "5": "Eleven känner igen några slöjdverktyg, material och tillverkningstekniker under konkret handledning av läraren.",
         "7": "Eleven känner igen och nämner slöjdrelaterade begrepp och använder redskap, material och tillverkningstekniker för slöjd under handledning av läraren.",
         "8": "Eleven känner till och kan använda slöjdrelaterade begrepp. Eleven väljer, kombinerar och använder olika material och tillverkningstekniker på ändamålsenliga sätt.",
-        "9": "Eleven väljer, kombinerar och använder på ett skickligt sätt olika material och tillverkningstekniker samt tilllämpar dem på ändamålsenliga sätt."
+        "9": "Eleven väljer, kombinerar och använder på ett skickligt sätt olika material och tillverkningstekniker samt tillämpar dem på ändamålsenliga sätt."
       }
     },
     {
       "id": "M5",
       "goalText": "uppmuntra eleven att arbeta långsiktigt, ansvarsfullt och med hänsyn till trygghet och säkerhet samt att lära eleven att välja och använda ändamålsenliga redskap",
-      "assessmentTarget": "Arbetsfärdigheter dömningen i läroämnet",
+      "assessmentTarget": "Arbetsfärdigheter",
       "assessable": true,
       "message": null,
       "notes": null,
@@ -87,7 +71,7 @@
     },
     {
       "id": "M6",
-      "goalText": "handleda eleven att använda informationsoch kommunikationsteknik för att planera och tillverka slöjdprodukter samt för att dokumentera slöjdprocessen",
+      "goalText": "handleda eleven att använda informations och kommunikationsteknik för att planera och tillverka slöjdprodukter samt för att dokumentera slöjdprocessen",
       "assessmentTarget": "Förmåga att använda digitala verktyg i det egna arbetet",
       "assessable": true,
       "message": null,
@@ -102,7 +86,7 @@
     {
       "id": "M7",
       "goalText": "handleda eleven att utvärdera, uppskatta och granska både sin egen och de andras slöjdprocess på ett interaktivt sätt",
-      "assessmentTarget": "Förmåga att granska sitt eget arbete och slöjdprocessen samt förmåga att ge kamratrespons. dömningen i läroämnet",
+      "assessmentTarget": "Förmåga att granska sitt eget arbete och slöjdprocessen samt förmåga att ge kamratrespons.",
       "assessable": true,
       "message": null,
       "notes": null,
@@ -124,7 +108,7 @@
         "5": "Eleven väljer och använder material ekonomiskt under konkret handledning av läraren.",
         "7": "Eleven reflekterar över konsumtionsvanor och produktionssätt under handledning av läraren. Eleven väljer och använder material ekonomiskt under handledning av läraren.",
         "8": "Eleven kan berätta hur konsumtionsvanor och produktionssätt påverkar livscykeln för en produkt. Eleven framställer sina produkter på ett materialekonomiskt sätt.",
-        "9": "Eleven granskar kritiskt konsumtionsoch produktionssättens inverkan på livscykeln för en produkt. Eleven framställer sina produkter på ett materialekonomiskt sätt och motiverar sina val."
+        "9": "Eleven granskar kritiskt konsumtions och produktionssättens inverkan på livscykeln för en produkt. Eleven framställer sina produkter på ett materialekonomiskt sätt och motiverar sina val."
       }
     }
   ]
