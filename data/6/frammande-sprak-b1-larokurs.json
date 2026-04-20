@@ -1,133 +1,128 @@
 {
   "subjectId": "frammande-sprak-b1-larokurs",
-  "subjectName": "Främmande språk, B1 -lärokurs",
+  "subjectName": "Främmande språk, B1-lärokurs",
   "gradeCategory": "6",
   "notes": null,
   "goals": [
     {
       "id": "M1",
-      "goalText": "hjälpa eleven att bilda sig en uppfattning om det inbördes sambandet mellan alla språk hen kan",
-      "assessmentTarget": "Förmåga att uppfatta likheter och skillnader mellan de olika språk hen kan och studerar",
+      "goalText": "handleda eleven att bilda sig en uppfattning om målspråkets ställning och utbredning i världen, att lägga märke till och känna igen målspråket i olika sammanhang och miljöer samt målspråkets språkliga miljöer och kulturer samt länder där målspråket talas",
+      "assessmentTarget": "Förmåga att bilda sig en uppfattning om målspråkets ställning, betydelse och utbredning. Förmåga att bilda sig en uppfattning om språkliga och kulturella särdrag i målspråkets språkliga miljöer och länder där målspråket talas. Förmåga att nämna de länder där målspråket talas.",
       "assessable": true,
       "message": null,
       "notes": null,
       "criteria": {
-        "5": "Eleven kan nämna några likheter och skillnader mellan de olika språk hen kan och studerar för att utveckla sina språkkunskaper.",
-        "7": "Eleven kan ge exempel på likheter och skillnader mellan de olika språk hen kan och studerar för att utveckla sina språkkunskaper",
-        "8": "Eleven kan berätta om likheter och skillnader mellan de olika språk hen kan och studerar för att utveckla sina språkkunskaper",
-        "9": "Eleven kan jämföra likheter och skillnader mellan de olika språk hen kan och studerar för att utveckla sina språkkunskaper."
+        "5": "Eleven kan på målspråket nämna några länder där målspråket talas. Eleven kan ge något exempel på var man kan höra och se målspråket.",
+        "7": "Eleven kan på målspråket nämna de flesta länder där målspråket talas. Eleven kan ge några exempel på var man kan höra och se målspråket. Eleven kan ge ett exempel på någon språklig miljö och något kulturellt särdrag för målspråket.",
+        "8": "Eleven kan ge några exempel på målspråkets ställning och betydelse som ett av världens språk. Eleven kan på målspråket nämna de länder där målspråket talas. Eleven kan ge exempel på var man kan höra och se målspråket. Eleven kan ge några exempel på språkliga miljöer och kulturella särdrag i målspråket.",
+        "9": "Eleven kan ge exempel på målspråkets ställning och betydelse som ett av världens språk. Eleven kan berätta i vilka länder målspråket talas. Eleven kan ge exempel på var man kan höra och se målspråket. Eleven kan berätta om språkliga och kulturella särdrag i språkliga miljöer och länder där målspråket talas."
       }
     },
     {
       "id": "M2",
-      "goalText": "hjälpa eleven att uppfatta målspråkets ställning och utbredning i världen",
-      "assessmentTarget": "Förmåga att bilda sig en uppfattning om målspråkets ställning, betydelse och utbredning",
-      "assessable": true,
-      "message": null,
+      "goalText": "handleda eleven att bilda sig en uppfattning om relationen mellan alla språk hen kan, stärka utvecklingen av elevens språkliga nyfikenhet och slutledningsförmåga och uppmuntra hen att göra iakttagelser om språk, handleda eleven att lägga märke till likheter och olikheter mellan det svenska språket och målspråket och andra språk",
+      "assessmentTarget": null,
+      "assessable": false,
+      "message": "Används inte som grund för bedömningen. Det kunnande som ska bedömas ingår i beskrivningarna av kunskapskraven för växande språkkunskap.",
       "notes": null,
-      "criteria": {
-        "5": "Eleven kan nämna några länder där målspråket talas.",
-        "7": "Eleven kan nämna flera länder där målspråket talas. Eleven kan ge några exempel på målspråkets ställning.",
-        "8": "Eleven kan berätta i vilka länder målspråket talas. Eleven kan nämna några orsaker till målspråkets ställning och betydelse samt i vilka situationer målspråket används som kommunikationsspråk.",
-        "9": "Eleven kan beskriva målspråkets utbredning i världen. Eleven kan berätta om målspråkets ställning och betydelse samt i vilka situationer målspråket används som kommunikationsspråk."
-      }
+      "criteria": {}
     },
     {
       "id": "M3",
-      "goalText": "handleda eleven att öva sina kommunikativa färdigheter i en tillåtande studieatmosfär, att ta ansvar för sina studier och att utvärdera sina kunskaper",
-      "assessmentTarget": "Förmåga att använda kommunikativa färdigheter, att hitta lämpliga sätt för att lära sig språk samt förmåga att ta ansvar för sina studier i målspråket.",
+      "goalText": "handleda eleven att ta ansvar för sina studier i målspråket, att ställa upp mål för sina studier och att pröva många olika sätt för att lära sig målspråket tillsammans med andra samt uppmuntra eleven att mångsidigt använda och utveckla sina färdigheter i målspråket, även med hjälp av digitala verktyg",
+      "assessmentTarget": "Förmåga att ta ansvar för sina studier i målspråket och att hitta mångsidiga strategier för studierna i målspråket.",
       "assessable": true,
       "message": null,
       "notes": null,
       "criteria": {
-        "5": "Eleven kan använda någon kommunikativ färdighet tillsammans med andra. Eleven kan använda något sätt, även med hjälp digitala verktyg, för att lära sig målspråket. Eleven kan under handledning i viss mån ta ansvar för sina studier i målspråket.",
-        "7": "Eleven kan använda några kommunikativa färdigheter tillsammans med andra. Eleven kan använda några sätt, även med hjälp av digitala verktyg, för att lära sig målspråket. Eleven kan i viss mån ta ansvar för sina studier i målspråket.",
-        "8": "Eleven kan använda kommunikativa färdigheter tillsammans med andra. Eleven kan använda flera sätt som stödjer utvecklingen av det egna lärandet, även med hjälp av digitala verktyg, för att lära sig målspråket. Eleven kan ta relativt stort ansvar för sina studier i målspråket.",
-        "9": "Eleven kan använda många olika kommunikativa färdigheter tillsammans med andra. Eleven kan mångsidigt använda olika sätt som stödjer utvecklingen av det egna lärandet, även med hjälp av digitala verktyg, för att lära sig målspråket. Eleven kan ta stort ansvar för sina studier i målspråket."
+        "5": "Eleven tar under handledning sporadiskt ansvar för sina studier i målspråket. Eleven kan använda något sätt för att lära sig målspråket även tillsammans med andra.",
+        "7": "Eleven tar ofta ansvar för sina studier i målspråket. Eleven kan använda några sätt för att lära sig målspråket även tillsammans med andra.",
+        "8": "Eleven tar i huvudsak ansvar för sina studier i målspråket. Eleven kan använda flera för honom eller henne själv lämpliga sätt att lära sig målspråket även tillsammans med andra.",
+        "9": "Eleven tar ansvar för sina studier i målspråket. Eleven kan på ett mångsidigt sätt använda för honom eller henne själv lämpliga sätt att lära sig målspråket även tillsammans med andra."
       }
     },
     {
       "id": "M4",
-      "goalText": "uppmuntra eleven att se kunskaper i målspråket som en viktig del av kontinuerligt lärande och utökade språkresurser samt att söka och utnyttja material på målspråket också utanför skolan",
-      "assessmentTarget": "Förmåga att bilda sig en uppfattning om betydelsen av kunskaper i målspråket som en del av kontinuerligt lärande och av de egna språkresurserna. Förmåga att hitta sammanhang och miljöer där målspråket används.",
+      "goalText": "uppmuntra eleven att se kunskaper i målspråket som en viktig del av kontinuerligt lärande och utökade personliga språkresurser samt handleda eleven att hitta och utnyttja sammanhang och miljöer för målspråket som en del av det egna lärandet",
+      "assessmentTarget": "Förmåga att bilda sig en uppfattning om betydelsen av kunskaper i målspråket som en del av kontinuerligt lärande och språkresurser.",
       "assessable": true,
       "message": null,
       "notes": null,
       "criteria": {
-        "5": "Eleven kan ge något exempel på betydelsen av kunskaper i målspråket. Eleven kan nämna något sammanhang eller någon miljö där målspråket används. Pre A1.1",
-        "7": "Eleven kan ge några exempel på betydelsen av kunskaper i målspråket. Eleven kan nämna några sammanhang och miljöer där målspråket används. A1.1",
-        "8": "Eleven kan ge exempel på betydelsen av kunskaper i målspråket som en del av det egna livet och för att utveckla de egna språkresurserna. Eleven kan berätta om sammanhang och miljöer där målspråket används och som utvecklar det egna lärandet. A1.2",
-        "9": "Eleven kan berätta om betydelsen av kunskaper i målspråket som en del av det egna livet, utvecklingen av de egna språkresurserna samt kontinuerligt lärande. Eleven kan jämföra olika sammanhang och miljöer där målspråket används och som utvecklar det egna lärandet. A1.3"
+        "5": "Eleven kan ge något exempel på sammanhang där hen kan använda sina kunskaper i målspråket.",
+        "7": "Eleven kan ge några exempel på sammanhang där hen kan använda sina kunskaper i målspråket. Eleven kan ge några exempel på vilken nytta hen har av kunskaper i målspråket idag och i framtiden.",
+        "8": "Eleven kan berätta om några sammanhang där hen kan använda sina kunskaper i målspråket. Eleven kan berätta vilken nytta hen har av kunskaper i målspråket idag och i framtiden.",
+        "9": "Eleven kan reflektera över olika sammanhang där hen kan använda sina kunskaper i målspråket. Eleven kan reflektera över vilken nytta hen har av kunskaper i målspråket idag och i framtiden."
       }
     },
     {
       "id": "M5",
-      "goalText": "handleda eleven att mångsidigt öva huvudsakligen muntlig kommunikation",
+      "goalText": "handleda eleven att öva olika, i synnerhet muntliga, kommunikationssituationer",
       "assessmentTarget": "Förmåga att kommunicera i olika situationer",
       "assessable": true,
       "message": null,
       "notes": null,
       "criteria": {
-        "5": "Eleven klarar under handledning av och med stöd av sin samtalspartner någon av de vanligaste och ofta återkommande samt rutinmässiga kommunikationssituationerna.",
-        "7": "Eleven klarar sporadiskt av, med stöd av sin samtalspartner, några ofta återkommande och rutinmässiga kommunikationssituationer.",
-        "8": "Eleven klarar sporadiskt av ofta återkommande rutinmässiga kommunikationssituationer men tar för det mesta ännu stöd av sin samtalspartner.",
-        "9": "Eleven reder sig i många rutinmässiga kommunikationssituationer men tar ibland stöd av sin samtalspartner."
+        "5": "Kunskapsnivå PreA1.1: Eleven klarar under handledning och med stöd av sin samtalspartner av någon ofta återkommande och rutinmässig kommunikationssituation.",
+        "7": "Kunskapsnivå A1.1: Eleven klarar sporadiskt av, med stöd av sin samtalspartner, några ofta återkommande och rutinmässiga kommunikationssituationer.",
+        "8": "Kunskapsnivå A1.2: Eleven klarar sporadiskt av ofta återkommande, rutinmässiga kommunikationssituationer, men tar för det mesta ännu stöd av sin samtalspartner.",
+        "9": "Kunskapsnivå A1.3: Eleven reder sig i många rutinmässiga kommunikationssituationer men tar ibland stöd av sin samtalspartner."
       }
     },
     {
       "id": "M6",
-      "goalText": "uppmuntra eleven att använda olika, också nonverbala tillvägagångssätt för att nå fram med sitt budskap och att vid behov i en muntlig kommunikationssituation be om upprepning eller långsammare tempo",
+      "goalText": "uppmuntra eleven att använda olika, även ickeverbala tillvägagångssätt för att nå fram med sitt budskap och att vid behov be om upprepning eller långsammare tempo",
       "assessmentTarget": "Förmåga att använda kommunikationsstrategier",
       "assessable": true,
       "message": null,
       "notes": null,
       "criteria": {
-        "5": "Eleven behöver väldigt mycket hjälpmedel (till exempel gester, teckningar, lexikon, internet) då hen deltar i kommunikation.",
-        "7": "Eleven behöver mycket hjälpmedel (till exempel gester, teckningar, lexikon, internet). Eleven kan ibland gissa eller härleda enskilda ords betydelse utgående från kontexten, allmän kunskap eller sina andra språkkunskaper. Eleven kan uttrycka om hen har förstått.",
-        "8": "Eleven använder sig av det mest centrala ordoch uttrycksförrådet i sin kommunikation. Eleven behöver mycket hjälpmedel. Eleven kan be samtalspartnern att upprepa eller tala långsammare.",
-        "9": "Eleven deltar i kommunikation men behöver fortfarande ofta hjälpmedel. Eleven kan reagera med korta verbala uttryck, små gester (till exempel genom att nicka), ljud eller liknande minimal respons. Eleven måste ofta be samtalspartnern att förtydliga eller upprepa."
+        "5": "Kunskapsnivå PreA1.1: Eleven behöver väldigt mycket hjälpmedel (till exempel gester, teckningar, ordlistor, internet) då hen deltar i kommunikation.",
+        "7": "Kunskapsnivå A1.1: Eleven behöver mycket hjälpmedel (till exempel gester, teckningar, ordlistor, internet). Eleven kan ibland gissa eller härleda enskilda ords betydelse utgående från kontexten, allmän kunskap eller sina andra språkkunskaper. Eleven kan uttrycka om hen har förstått.",
+        "8": "Kunskapsnivå A1.2: Eleven använder sig av det mest centrala ord och uttrycksförrådet i sin kommunikation. Eleven behöver mycket hjälpmedel. Eleven kan be samtalspartnern att upprepa eller tala långsammare.",
+        "9": "Kunskapsnivå A1.3: Eleven deltar i kommunikationen men behöver fortfarande ofta hjälpmedel. Eleven kan reagera med korta verbala uttryck, små gester (till exempel genom att nicka), ljud eller liknande minimal respons. Eleven måste ofta be sin samtalspartner att förtydliga eller upprepa."
       }
     },
     {
       "id": "M7",
-      "goalText": "handleda eleven att öva sig i olika artighetsfraser",
-      "assessmentTarget": "Kulturellt lämpligt språkbruk",
+      "goalText": "handleda eleven att öva användningen av olika artighetsfraser",
+      "assessmentTarget": "Kulturellt lämpligt kommunikation",
       "assessable": true,
       "message": null,
       "notes": null,
       "criteria": {
-        "5": "Eleven kan under handledning använda någon av de för språket eller kulturen mest typiska artighetsfraserna (hälsa, säga adjö, tacka). Pre A1.1",
-        "7": "Eleven kan använda några för språket eller kulturen typiska artighetsfraser (hälsa, säga adjö, tacka) i några mycket rutinmässiga sociala sammanhang. A1.1",
-        "8": "Eleven kan använda några av de vanligaste artighetsfraserna på språket i rutinmässiga sociala sammanhang. A1.2",
-        "9": "Eleven kan använda vanliga uttryck som kännetecknar artigt språkbruk i många rutinmässiga sociala sammanhang. A1.3"
+        "5": "Kunskapsnivå PreA1.1: Eleven kan använda någon av de för språket och kulturen mest typiska och rutinmässiga artighetsfraserna (hälsa, säga adjö, tacka).",
+        "7": "Kunskapsnivå A1.1: Eleven kan använda några för språket och kulturen typiska artighetsfraser (hälsa, säga adjö, tacka) i några mycket rutinmässiga sociala sammanhang.",
+        "8": "Kunskapsnivå A1.2: Eleven kan använda några av de allra vanligaste artighetsfraserna typiska för språket i rutinmässiga sociala sammanhang.",
+        "9": "Kunskapsnivå A1.3: Eleven kan använda vanliga uttryck som kännetecknar artigt språkbruk i många rutinmässiga sociala sammanhang."
       }
     },
     {
       "id": "M8",
-      "goalText": "uppmuntra eleven att med hjälp av kontexten få insikt i innehållet i muntliga eller skriftliga texter som är förutsägbara och för åldersgruppen vanliga eller lämpliga",
+      "goalText": "uppmuntra eleven att med hjälp av kontexten få insikt i innehållet i talad eller skriven text som är förutsägbart och lämpligt för åldersgruppen",
       "assessmentTarget": "Förmåga att tolka texter",
       "assessable": true,
       "message": null,
       "notes": null,
       "criteria": {
-        "5": "Eleven förstår under handledning en begränsad mängd talade och skrivna ord och uttryck. Eleven känner till ett mycket begränsat antal skrivtecken. Pre A1.1",
-        "7": "Eleven förstår en begränsad mängd talade och skrivna ord och uttryck. Eleven känner till teckensystemet eller ett mycket begränsat antal skrivtecken. A1.1",
-        "8": "Eleven förstår skriven text bestående av några ord och långsamt tal som innehåller inövade, bekanta ord och uttryck. Eleven kan urskilja enskilda fakta i en text. A1.1/A1.2",
-        "9": "Eleven förstår med hjälp av kontexten skriven text och långsamt tal som innehåller enkla, bekanta ord och uttryck. Eleven kan plocka ut enkel information enligt behov ur en kort text. A1.2"
+        "5": "Kunskapsnivå PreA1.1: Eleven förstår under handledning en begränsad mängd talade och skrivna ord och uttryck.",
+        "7": "Kunskapsnivå A1.1: Eleven förstår en begränsad mängd talade och skrivna ord och uttryck. Eleven känner till teckensystemet eller ett mycket begränsat antal skrivtecken.",
+        "8": "Kunskapsnivå A1.2: Eleven förstår skriven text bestående av några ord och långsamt tal som innehåller inövade, bekanta ord och uttryck. Eleven kan urskilja enskilda fakta i en text.",
+        "9": "Kunskapsnivå A1.3: Eleven förstår med hjälp av kontexten skriven text och långsamt tal som innehåller enkla, bekanta ord och uttryck. Eleven kan plocka ut enkel information enligt behov ur en kort text."
       }
     },
     {
       "id": "M9",
-      "goalText": "ge eleven många möjligheter att öva sig i att tala och skriva i mycket enkla och för åldern relevanta situationer",
+      "goalText": "erbjuda eleven rikligt med möjligheter att öva sig på att tala och skriva i för åldern relevanta situationer",
       "assessmentTarget": "Förmåga att producera texter",
       "assessable": true,
       "message": null,
       "notes": null,
       "criteria": {
-        "5": "Eleven kan under handledning uttrycka sig i tal och skrift med hjälp av enskilda ord och uttryck som till exempel anknyter till att berätta om sig själv, familj och fritid. Eleven uttalar några ord begripligt.",
-        "7": "Eleven kan uttrycka sig mycket begränsat i tal med hjälp av inövade ord och inlärda standarduttryck. Eleven uttalar några inövade uttryck begripligt. Eleven kan skriva några enskilda ord och uttryck.",
-        "8": "Eleven kan under handledning berätta om några bekanta och för hen viktiga saker med hjälp av ett begränsat uttrycksförråd. Eleven kan skriva några enskilda ord och uttryck. Eleven uttalar inövade uttryck begripligt. Eleven behärskar ett mycket begränsat ordförråd, några situationsbundna uttryck och en del av den elementära grammatiken.",
-        "9": "Eleven kan med hjälp av ett begränsat uttrycksförråd berätta om några bekanta och för hen viktiga saker samt skriva några korta meningar om inövade ämnen. Eleven uttalar de flesta inövade uttrycken begripligt. Eleven behärskar ett mycket begränsat ordförråd, några situationsbundna uttryck och en del av den elementära grammatiken."
+        "5": "Kunskapsnivå PreA1.1: Eleven kan under handledning uttrycka sig i tal och skrift med hjälp av enskilda ord och uttryck som till exempel anknyter till att berätta om sig själv, familj och fritid. Eleven uttalar några ord begripligt.",
+        "7": "Kunskapsnivå A1.1: Eleven kan uttrycka sig mycket begränsat i tal med hjälp av inövade ord och inlärda standarduttryck. Eleven uttalar några inövade uttryck begripligt. Eleven kan skriva några enskilda ord och uttryck.",
+        "8": "Kunskapsnivå A1.1/A1.2: Eleven kan under handledning berätta om några bekanta och för hen viktiga saker med hjälp av ett begränsat uttrycksförråd. Eleven kan skriva några enskilda ord och uttryck. Eleven uttalar inövade uttryck begripligt. Eleven behärskar ett mycket begränsat ordförråd, några situationsbundna uttryck och en del av den grundläggande grammatiken.",
+        "9": "Kunskapsnivå A1.2: Eleven kan med hjälp av ett begränsat uttrycksförråd berätta om några bekanta och för hen viktiga saker samt skriva några korta meningar om inövade ämnen. Eleven uttalar de flesta inövade uttrycken begripligt. Eleven behärskar ett mycket begränsat ordförråd, några situationsbundna uttryck och en del av den grundläggande grammatiken."
       }
     }
   ]
