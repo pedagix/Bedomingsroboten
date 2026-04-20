@@ -40,7 +40,7 @@
       "message": null,
       "notes": null,
       "criteria": {
-        "5": "Eleven kan uttrycka sig verbalt i olika vardagliga situationer. Eleven kan komplettera sin verbala kommunikation icke-verbalt.",
+        "5": "Eleven kan uttrycka sig verbalt i olika vardagliga situationer. Eleven kan komplettera sin verbala kommunikation ickeverbalt.",
         "7": "Eleven kan delta i en diskussion kring ett ämne som står hen nära. Eleven kan uttrycka sig förståeligt.",
         "8": "Eleven kan använda olika verbala uttryckssätt och ta hänsyn till sin samtalspart. Eleven kan hålla ett förberett anförande om ett för hen bekant ämne.",
         "9": "Eleven kan uttrycka sig på ett ändamålsenligt sätt genom att använda olika verbala uttryckssätt. Eleven kan hålla ett förberett och till innehållet mångsidigt anförande."
@@ -68,24 +68,24 @@
       "message": null,
       "notes": null,
       "criteria": {
-        "5": "Eleven kan läsa och förstå enkla och språkligt sett konkreta talade och skrivna texter. Eleven kan endast i liten grad utnyttja läsoch läsförståelsestrategier.",
-        "7": "Eleven kan till största del förstå talade och skrivna texter och kan uppfatta texten som helhet. Eleven övar på olika läsoch läsförståelsestrategier som främjar texttolkning.",
-        "8": "Eleven kan tolka talade och skrivna texter i olika situationer där språket används. Eleven kan i någon mån använda olika läsoch läsförståelsestrategier som främjar texttolkning.",
-        "9": "Eleven kan självständigt göra iakttagelser och dra slutsatser om talade och skrivna texter. Eleven kan använda ändamålsenliga läsoch läsförståelsestrategier."
+        "5": "Eleven kan läsa och förstå enkla och språkligt sett konkreta talade och skrivna texter. Eleven kan endast i liten grad utnyttja läs och läsförståelsestrategier.",
+        "7": "Eleven kan till största del förstå talade och skrivna texter och kan uppfatta texten som helhet. Eleven övar på olika läs och läsförståelsestrategier som främjar texttolkning.",
+        "8": "Eleven kan tolka talade och skrivna texter i olika situationer där språket används. Eleven kan i någon mån använda olika läs och läsförståelsestrategier som främjar texttolkning.",
+        "9": "Eleven kan självständigt göra iakttagelser och dra slutsatser om talade och skrivna texter. Eleven kan använda ändamålsenliga läs och läsförståelsestrategier."
       }
     },
     {
       "id": "M6",
-      "goalText": "handleda eleven att utveckla sin förmåga att dra slutsatser om en texts betydelser samt att vidga ordoch begreppsförrådet",
-      "assessmentTarget": "Förmåga att vidga ordoch begreppsförrådet samt att dra slutsatser om en texts betydelser",
+      "goalText": "handleda eleven att utveckla sin förmåga att dra slutsatser om en texts betydelser samt att vidga ord och begreppsförrådet",
+      "assessmentTarget": "Förmåga att vidga ord och begreppsförrådet samt att dra slutsatser om en texts betydelser",
       "assessable": true,
       "message": null,
       "notes": null,
       "criteria": {
-        "5": "Eleven uppfattar texten som lösryckta delar. Eleven har ett begränsat ordoch begreppsförråd.",
-        "7": "Eleven uppfattar texten som en helhet. Eleven kan utnyttja texter för att vidga ordoch begreppsförrådet.",
-        "8": "Eleven behärskar ett tillräckligt stort ordoch begreppsförråd för att dra slutsatser om det hen läst.",
-        "9": "Elevens ordoch begreppsförråd möjliggör en självständig och insiktsfull tolkning av texter."
+        "5": "Eleven uppfattar texten som lösryckta delar. Eleven har ett begränsat ord och begreppsförråd.",
+        "7": "Eleven uppfattar texten som en helhet. Eleven kan utnyttja texter för att vidga ord och begreppsförrådet.",
+        "8": "Eleven behärskar ett tillräckligt stort ord och begreppsförråd för att dra slutsatser om det hen läst.",
+        "9": "Elevens ord och begreppsförråd möjliggör en självständig och insiktsfull tolkning av texter."
       }
     },
     {
@@ -110,7 +110,7 @@
       "message": null,
       "notes": null,
       "criteria": {
-        "5": "Eleven kan skriva om bekanta ämnen. Texten kan vara icke-koherent, relativt svårläst och ha ett begränsat ordförråd.",
+        "5": "Eleven kan skriva om bekanta ämnen. Texten kan vara ickekoherent, relativt svårläst och ha ett begränsat ordförråd.",
         "7": "Eleven kan skriva texter som är förståeliga trots grammatikaliska brister. Ordförrådet kan vara begränsat. Eleven kan i varierande grad följa skriftspråksnormer.",
         "8": "Eleven kan skriva hela texter och fästa uppmärksamhet vid ordval. Grammatikaliskt sett kan strukturen vara vacklande. Eleven kan till största del följa skriftspråksnormer.",
         "9": "Eleven kan skriva mångsidiga texter både till innehåll och språk. Den grammatikaliska strukturen är i huvudsak korrekt. Eleven har en etablerad förmåga att följa skriftspråksnormer."
@@ -132,7 +132,7 @@
     },
     {
       "id": "M10",
-      "goalText": "handleda eleven att stärka sin språkliga medvetenhet och att iaktta situationsbundna variationer i språkbruket, egenskaper hos olika språk och lagbundenheter i svenskt taloch skriftspråk",
+      "goalText": "handleda eleven att stärka sin språkliga medvetenhet och att iaktta situationsbundna variationer i språkbruket, egenskaper hos olika språk och lagbundenheter i svenskt tal och skriftspråk",
       "assessmentTarget": "Förmåga att observera och jämföra olika drag i språk och språkbruk",
       "assessable": true,
       "message": null,
@@ -153,9 +153,9 @@
       "notes": null,
       "criteria": {
         "5": "Eleven läser korta texter. Eleven deltar i litterära diskussioner genom att lyssna.",
-        "7": "Eleven läser barnoch ungdomsböcker. Eleven berättar om det hen läst.",
-        "8": "Eleven läser barnoch ungdomsböcker. Eleven diskuterar och skriver om sina läsupplevelser och om övrig barnoch ungdomskultur.",
-        "9": "Eleven läser mångsidigt barnoch ungdomsböcker. Eleven granskar det hen läst ur olika synvinklar."
+        "7": "Eleven läser barn och ungdomsböcker. Eleven berättar om det hen läst.",
+        "8": "Eleven läser barn och ungdomsböcker. Eleven diskuterar och skriver om sina läsupplevelser och om övrig barn och ungdomskultur.",
+        "9": "Eleven läser mångsidigt barn och ungdomsböcker. Eleven granskar det hen läst ur olika synvinklar."
       }
     },
     {
@@ -209,9 +209,9 @@
       "notes": null,
       "criteria": {
         "5": "Eleven kan söka enskild information i givna källor. Eleven deltar i det gemensamma arbetet genom att lyssna. Eleven vet att all information inte är tillförlitlig information.",
-        "7": "Eleven kan söka information i bekanta eller givna källor, men använder informationen genom att upprepa den. Eleven deltar i det gemensamma arbetet.",
-        "8": "Eleven kan använda information utan att kopiera den. Eleven kan främja det gemensamma arbetet. Eleven kan göra iakttagelser om trovärdiga och",
-        "9": "Eleven kan, på basis av den information hen fått fram, självständigt producera en disponerad muntlig eller skriftlig text. Eleven kan under handledning välja ett för situationen och ämnet"
+        "7": "Eleven kan söka information i bekanta eller givna källor, men använder informationen genom att upprepa den. Eleven deltar i det gemensamma arbetet. Eleven känner till tillförlitliga källor.",
+        "8": "Eleven kan använda information utan att kopiera den. Eleven kan främja det gemensamma arbetet. Eleven kan göra iakttagelser om trovärdiga och icketrovärdiga källor.",
+        "9": "Eleven kan, på basis av den information hen fått fram, självständigt producera en disponerad muntlig eller skriftlig text. Eleven kan under handledning välja ett för situationen och ämnet lämpligt sätt att hämta information. Eleven främjar ändamålsenligt det gemensamma arbetet. Eleven kan bedöma källornas tillförlitlighet."
       }
     }
   ]
