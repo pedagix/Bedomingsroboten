@@ -163,8 +163,8 @@
       "goalText": "hjälpa och stödja eleven att utveckla och stärka en positiv syn på världen, en positiv självkänsla och tro på livet",
       "assessmentTarget": null,
       "assessable": false,
-      "message": "Används inte som grund för bildandet av vitsord.",
-      "notes": "Eleven handleds att reflektera över sina erfarenheter som en del av självvärderingen.",
+      "message": "Används inte som grund för bildandet av vitsord. Eleven handleds att reflektera över sina erfarenheter som en del av självvärderingen.",
+      "notes": null,
       "criteria": {}
     }
   ]
