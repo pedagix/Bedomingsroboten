@@ -55,9 +55,9 @@
       "notes": null,
       "criteria": {
         "5": "Kunskapsnivå A1.1: Eleven behöver mycket hjälpmedel (till exempel gester, teckningar, lexikon, internet). Eleven kan ibland gissa eller härleda enskilda ords betydelse utgående från kontexten, allmän kunskap eller sina andra språkkunskaper. Kan uttrycka om hen har förstått.",
-        "7": "Kunskapsnivå A1.2: Eleven använder sig av det mest centrala ord- och uttrycksförrådet i sin kommunikation. Eleven behöver mycket hjälpmedel. Eleven kan be samtalspartnern att upprepa eller tala långsammare.",
+        "7": "Kunskapsnivå A1.2: Eleven använder sig av det mest centrala ord och uttrycksförrådet i sin kommunikation. Eleven behöver mycket hjälpmedel. Eleven kan be samtalspartnern att upprepa eller tala långsammare.",
         "8": "Kunskapsnivå A1.3: Eleven deltar i kommunikation men behöver fortfarande ofta hjälpmedel. Eleven kan reagera med korta verbala uttryck, små gester (t.ex. genom att nicka), ljud eller liknande minimal respons.",
-        "9": "Kunskapsnivå A2.1: Eleven deltar i allt högre grad i kommunikation. Eleven använder mer sällan non-verbala uttryck. Eleven måste relativt ofta be samtalspartnern upprepa eller förtydliga. Eleven kan i någon mån utnyttja samtalspartnerns uttryck i sin egen kommunikation."
+        "9": "Kunskapsnivå A2.1: Eleven deltar i allt högre grad i kommunikation. Eleven använder mer sällan nonverbala uttryck. Eleven måste relativt ofta be samtalspartnern upprepa eller förtydliga. Eleven kan i någon mån utnyttja samtalspartnerns uttryck i sin egen kommunikation."
       }
     },
     {
@@ -71,7 +71,7 @@
         "5": "Kunskapsnivå A1.1: Eleven kan använda några för språket eller kulturen typiska artighetsfraser (hälsa, säga adjö, tacka) i några mycket rutinmässiga sociala sammanhang.",
         "7": "Kunskapsnivå A1.2: Eleven kan använda några av de allra vanligaste artighetsfraserna typiska för språket i rutinmässiga sociala sammanhang.",
         "8": "Kunskapsnivå A1.3: Eleven kan använda vanliga uttryck som kännetecknar artigt språkbruk i många rutinmässiga sociala sammanhang.",
-        "9": "Kunskapsnivå A2.1: Eleven klarar av korta sociala situationer. Eleven kan använda de vanligaste artiga hälsnings- och tilltalsfraserna samt artigt framföra till exempel önskemål, invitationer, förslag och ursäkter och besvara sådana."
+        "9": "Kunskapsnivå A2.1: Eleven klarar av korta sociala situationer. Eleven kan använda de vanligaste artiga hälsnings och tilltalsfraserna samt artigt framföra till exempel önskemål, invitationer, förslag och ursäkter och besvara sådana."
       }
     },
     {
@@ -86,6 +86,20 @@
         "7": "Kunskapsnivå A1.2: Eleven förstår skriven text bestående av några ord och långsamt tal som innehåller inövade, bekanta ord och uttryck. Eleven kan urskilja enskilda fakta i en text.",
         "8": "Kunskapsnivå A1.3: Eleven förstår med hjälp av kontexten skriven text och långsamt tal som innehåller enkla, bekanta ord och uttryck. Kan plocka ut enkel information hen behöver ur en kort text.",
         "9": "Kunskapsnivå A2.1: Eleven förstår texter som innehåller enkla, bekanta ord och uttryck samt tydligt tal. Eleven förstår det centrala innehållet i korta, enkla budskap som intresserar hen och grundtankarna i en förutsägbar text som innehåller ett bekant ordförråd. Eleven klarar mycket enkel slutledning med hjälp av kontexten."
+      }
+    },
+    {
+      "id": "M7",
+      "goalText": "erbjuda eleven rikligt med möjligheter att öva sig i att tala och skriva kortfattat i för åldern lämpliga situationer och i detta sammanhang fästa uppmärksamhet vid uttal och vid strukturer som är relevanta för textens innehåll",
+      "assessmentTarget": "Förmåga att producera texter",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Kunskapsnivå A1.1: Eleven kan uttrycka sig mycket begränsat i tal med hjälp av inövade ord och inlärda standarduttryck. Eleven uttalar några inövade uttryck begripligt och kan skriva några enskilda ord och uttryck.",
+        "7": "Kunskapsnivå A1.1/A1.2: Eleven kan under handledning berätta om några bekanta och för hen viktiga saker med hjälp av ett begränsat uttrycksförråd. Eleven kan skriva några enskilda ord och uttryck. Eleven uttalar inövade uttryck begripligt. Eleven behärskar ett mycket begränsat ordförråd, några situationsbundna uttryck och en del av den elementära grammatiken.",
+        "8": "Kunskapsnivå A1.2: Eleven kan med hjälp av ett begränsat uttrycksförråd berätta om några bekanta och för hen viktiga saker samt skriva några korta meningar om inövade ämnen. Uttalar de flesta inövade uttrycken begripligt. Behärskar ett mycket begränsat ordförråd, några situationsbundna uttryck och en del av den elementära grammatiken.",
+        "9": "Kunskapsnivå A1.3: Eleven behärskar en begränsad mängd korta, inövade uttryck, det mest centrala ordförrådet och grundläggande satsstrukturer. Eleven kan med hjälp av ett begränsat uttrycksförråd berätta om vardagliga och för hen viktiga saker samt skriva enkla meddelanden. Eleven uttalar inövade uttryck begripligt"
       }
     }
   ]
