@@ -48,21 +48,21 @@
     },
     {
       "id": "M4",
-      "goalText": "handleda eleven att vidareutveckla sin läsfärdighet, att iaktta sitt läsande och undersöka olika typer av texter, att utveckla höroch läsförståelsen samt att ge akt på skillnader mellan taloch skriftspråk",
+      "goalText": "handleda eleven att vidareutveckla sin läsfärdighet, att iaktta sitt läsande och undersöka olika typer av texter, att utveckla hör och läsförståelsen samt att ge akt på skillnader mellan tal och skriftspråk",
       "assessmentTarget": "Förmåga att utveckla sin läsfärdighet",
       "assessable": true,
       "message": null,
       "notes": null,
       "criteria": {
-        "5": "Eleven kan långsamt läsa texter som är språkligtoch strukturmässigt enkla. Eleven kan nämna något område där hen kan utvecklas som läsare.",
-        "7": "Eleven kan rätt flytande läsa texter som är språkligtoch strukturmässigt enkla. Eleven kan under handledning använda någon enkel grundläggande läsförståelsestrategi. Eleven kan under handledning utvärdera sin egen läsning.",
+        "5": "Eleven kan långsamt läsa texter som är språkligt och strukturmässigt enkla. Eleven kan nämna något område där hen kan utvecklas som läsare.",
+        "7": "Eleven kan rätt flytande läsa texter som är språkligt och strukturmässigt enkla. Eleven kan under handledning använda någon enkel grundläggande läsförståelsestrategi. Eleven kan under handledning utvärdera sin egen läsning.",
         "8": "Eleven kan flytande läsa texter som är lämpliga för hens ålder. Eleven kan använda de vanligaste grundläggande läsförståelsestrategierna. Eleven kan utvärdera sin egen läsning.",
         "9": "Eleven kan flytande läsa texter som är lämpliga för hens ålder. Eleven kan använda grundläggande läsförståelsestrategier mångsidigt och ändamålsenligt."
       }
     },
     {
       "id": "M5",
-      "goalText": "hjälpa eleven att vidga sitt ordoch begreppsförråd samt förståelsen av textrelaterade begrepp",
+      "goalText": "hjälpa eleven att vidga sitt ord och begreppsförråd samt förståelsen av textrelaterade begrepp",
       "assessmentTarget": "Förmåga att redogöra för och förstå text",
       "assessable": true,
       "message": null,
@@ -110,7 +110,7 @@
       "message": null,
       "notes": null,
       "criteria": {
-        "5": "Eleven kan skriva korta, begripliga och sammanhängande texter för hand och med hjälp av digitala verktyg. Eleven kan använda enkel meningsoch satsbyggnad samt slumpmässigt använda skiljetecken vid meningsgränser och versal i början av mening och i egennamn.",
+        "5": "Eleven kan skriva korta, begripliga och sammanhängande texter för hand och med hjälp av digitala verktyg. Eleven kan använda enkel menings och satsbyggnad samt slumpmässigt använda skiljetecken vid meningsgränser och versal i början av mening och i egennamn.",
         "7": "Eleven kan skriva relativt smidigt och läsligt både för hand och med hjälp av digitala verktyg. Eleven kan under handledning rubricera sin text samt formulera meningar och använda några olika satsstrukturer samt följa några av standardspråkets skriftspråksnormer.",
         "8": "Eleven kan skriva smidigt för hand och med hjälp av digitala verktyg. Eleven kan under handledning rubricera och dela in sin text i stycken samt behärskar det centrala av standardspråkets skriftspråksnormer.",
         "9": "Eleven kan skriva smidigt och tydligt för hand samt producera text med hjälp av digitala verktyg. Eleven kan rubricera och dela in sin text i stycken på ett ändamålsenligt sätt samt behärskar standardspråkets skriftspråksnormer."
@@ -156,6 +156,20 @@
         "7": "Eleven kan nämna likheter och skillnader i språk och kultur. Eleven kan beskriva betydelsen av det romska språket och den romska kulturen i den egna vardagen.",
         "8": "Eleven kan under handledning jämföra likheter och skillnader i språk och kultur. Eleven kan berätta om huvuddragen i det romska språket och romsk kultur och identifiera de vanligaste uttrycksformerna.",
         "9": "Eleven kan reflektera kring likheter och skillnader i språk och kultur. Eleven kan reflektera över det romska språkets och den romska kulturens betydelse i den närmaste kretsen."
+      }
+    },
+    {
+      "id": "M12",
+      "goalText": "uppmuntra eleven att ta del av ett mångsidigt kulturutbud och erbjuda eleven möjligheter att själv producera kultur",
+      "assessmentTarget": "Kunskap om barn och ungdomslitteratur samt bibliotek och medie och kulturutbud",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven har läst någon kort skönlitterär text eller facktext i sin helhet.",
+        "7": "Eleven har läs en del av de skönlitterära texter eller facktexter man kommit överens om. Eleven håller sig till välbekanta textgenrer. Eleven kan under handledning använda bibliotekstjänster, medie och kulturutbud.",
+        "8": "Eleven har läst de skönlitterära texter och facktexter man kommit överens om. Eleven kan välja texter att läsa som är lämpliga för hens ålder. Eleven kan självständigt använda bibliotekstjänster, medie och kulturutbud.",
+        "9": "Eleven kan välja texter att läsa som är nya för hen. Eleven kan mångsidigt använda bibliotekstjänster, medie och kulturutbud."
       }
     }
   ]
