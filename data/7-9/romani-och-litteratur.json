@@ -68,7 +68,7 @@
       "message": null,
       "notes": null,
       "criteria": {
-        "5": "Eleven kan läsa enkla skönlitterära, fakta- och medietexter i olika former. Eleven kan nämna en egenskap som har med källornas tillförlitlighet att göra.",
+        "5": "Eleven kan läsa enkla skönlitterära, fakta och medietexter i olika former. Eleven kan nämna en egenskap som har med källornas tillförlitlighet att göra.",
         "7": "Eleven kan välja, använda och läsa olika texter men håller sig främst till bekanta texttyper. Eleven kan beskriva tillförlitligheten hos de källor hen använder.",
         "8": "Eleven kan välja, använda och tolka texter som representerar olika texttyper. Eleven kan bedöma olika källors tillförlitlighet och användbarhet.",
         "9": "Eleven kan välja, använda, tolka och utvärdera också nya texttyper. Eleven kan reflektera över faktorer som berör källornas tillförlitlighet och användbarhet och motivera sina egna val av källor."
@@ -76,7 +76,7 @@
     },
     {
       "id": "M6",
-      "goalText": "vägleda eleven att utvärdera sin läsfärdighet och upptäcka utvecklingsbehov genom att öva lämpliga läs- och studiestrategier",
+      "goalText": "vägleda eleven att utvärdera sin läsfärdighet och upptäcka utvecklingsbehov genom att öva lämpliga läs och studiestrategier",
       "assessmentTarget": "Förmåga att analysera sin läsfärdighet och sina lässtrategier",
       "assessable": true,
       "message": null,
@@ -142,6 +142,20 @@
         "7": "Eleven kan göra iakttagelser om särdrag i språk och text och skilja mellan olika språkvarianter och stildrag. Eleven kan beskriva språkliga variationer i olika situationer.",
         "8": "Eleven kan redogöra för skillnaden mellan olika språkliga varianter och stildrag. Eleven kan reflektera över betydelsen och följderna av språkliga och textuella val.",
         "9": "Eleven kan analysera drag i texter, språkvarianter och stildrag. Eleven kan tillämpa information om följderna av språkliga val i sin egen kommunikation."
+      }
+    },
+    {
+      "id": "M11",
+      "goalText": "vägleda eleven att bli medveten om betydelsen av språklig och kulturell identitet och stödja eleven att utveckla sin egen språkliga och kulturella identitet",
+      "assessmentTarget": "Förmåga att uppfatta betydelsen av språklig och kulturell identitet",
+      "assessable": true,
+      "message": null,
+      "notes": null,
+      "criteria": {
+        "5": "Eleven kan nämna något drag som är typiskt för det romska språket i Finland. Eleven kan berätta om modersmålets betydelse för hen.",
+        "7": "Eleven kan nämna centrala drag som är typiska för det romska språket i Finland. Eleven kan beskriva modersmålets betydelse för individen.",
+        "8": "Eleven kan beskriva mångfalden inom det romska språket i Finland och dess ställning bland andra språk. Eleven kan redogöra för centrala drag inom det romska språket i Finland. Eleven kan reflektera över modersmålets kopplingar till identiteten.",
+        "9": "Eleven kan reflektera över den språkliga och kulturella mångfaldens betydelse för individen och samhället. Eleven kan redogöra för drag som är typiska för det romska språket i Finland i relation till andra språk. Eleven kan nämna romska dialekter som talas i olika länder. Eleven kan reflektera över modersmål som begrepp och dess betydelse för identitetsbygget."
       }
     }
   ]
